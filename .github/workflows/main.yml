@@ -1,104 +1,112 @@
 name: CI/CD for COCONUT Bluebook
 
-on:
-  push:
-    branches:
-      - main
+   on:
+     push:
+       branches:
+         - main
 
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
+   jobs:
+     build-and-deploy:
+       runs-on: ubuntu-latest
 
-    steps:
-      # Checkout repositori
-      - name: Checkout code
-        uses: actions/checkout@v4
+       steps:
+         # Checkout repositori
+         - name: Checkout code
+           uses: actions/checkout@v4
 
-      # Bersihkan cache dan build
-      - name: Clean cache and build
-        run: |
-          rm -rf .cache build
+         # Bersihkan cache dan build
+         - name: Clean cache and build
+           run: |
+             rm -rf .cache build
 
-      # Build dengan Antora
-      - name: Build with Antora
-        run: |
-          docker run -u $(id -u) -v $PWD:/antora:Z --rm -t antora/antora --cache-dir=./.cache --stacktrace antora-playbook.yml
+         # Build dengan Antora
+         - name: Build with Antora
+           run: |
+             docker run -u $(id -u) -v $PWD:/antora:Z --rm -t antora/antora --cache-dir=./.cache --stacktrace antora-playbook.yml
 
-      # Debug direktori build
-      - name: Debug build directory
-        run: |
-          echo "Checking build directory in runner"
-          ls -l build
+         # Debug direktori build
+         - name: Debug build directory
+           run: |
+             echo "Checking build directory in runner"
+             ls -lR build
+             if [ -d "build/bluebook" ]; then echo "Subdirectory build/bluebook exists"; fi
 
-      # Debug secrets
-      - name: Debug secrets
-        run: |
-          echo "VPS_HOST is set: ${{ secrets.VPS_HOST != '' }}"
-          echo "VPS_USERNAME is set: ${{ secrets.VPS_USERNAME != '' }}"
-          echo "VPS_SSH_KEY is set: ${{ secrets.VPS_SSH_KEY != '' }}"
-          echo "VPS_SSH_PORT is set: ${{ secrets.VPS_SSH_PORT != '' }}"
+         # Debug secrets
+         - name: Debug secrets
+           run: |
+             echo "VPS_HOST is set: ${{ secrets.VPS_HOST != '' }}"
+             echo "VPS_USERNAME is set: ${{ secrets.VPS_USERNAME != '' }}"
+             echo "VPS_SSH_KEY is set: ${{ secrets.VPS_SSH_KEY != '' }}"
+             echo "VPS_SSH_PORT is set: ${{ secrets.VPS_SSH_PORT != '' }}"
 
-      # Tes konektivitas SSH
-      - name: Test SSH connectivity
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          script: |
-            whoami
-            hostname
-            netstat -tuln | grep :${{ secrets.VPS_SSH_PORT }}
+         # Tes konektivitas SSH
+         - name: Test SSH connectivity
+           uses: appleboy/ssh-action@v1.0.3
+           with:
+             host: ${{ secrets.VPS_HOST }}
+             username: ${{ secrets.VPS_USERNAME }}
+             key: ${{ secrets.VPS_SSH_KEY }}
+             port: ${{ secrets.VPS_SSH_PORT }}
+             script: |
+               whoami
+               hostname
+               netstat -tuln | grep :${{ secrets.VPS_SSH_PORT }}
 
-      # Persiapkan direktori di VPS
-      - name: Prepare VPS
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          script: |
-            echo "Preparing temporary directory"
-            rm -rf /home/gusdur/bluebook-coconut/build
+         # Persiapkan direktori di VPS
+         - name: Prepare VPS
+           uses: appleboy/ssh-action@v1.0.3
+           with:
+             host: ${{ secrets.VPS_HOST }}
+             username: ${{ secrets.VPS_USERNAME }}
+             key: ${{ secrets.VPS_SSH_KEY }}
+             port: ${{ secrets.VPS_SSH_PORT }}
+             script: |
+               echo "Preparing temporary directory"
+               rm -rf /home/gusdur/bluebook-coconut/build
+               mkdir -p /home/gusdur/bluebook-coconut/build
+               chmod 755 /home/gusdur/bluebook-coconut/build
 
-      # Unggah build ke VPS dengan rsync
-      - name: Upload build to VPS with rsync
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          script: |
-            rsync -avz --delete /github/workspace/build/ /home/gusdur/bluebook-coconut/
+         # Unggah build ke VPS dengan rsync
+         - name: Upload build to VPS with rsync
+           uses: appleboy/ssh-action@v1.0.3
+           with:
+             host: ${{ secrets.VPS_HOST }}
+             username: ${{ secrets.VPS_USERNAME }}
+             key: ${{ secrets.VPS_SSH_KEY }}
+             port: ${{ secrets.VPS_SSH_PORT }}
+             script: |
+               if [ -d "/github/workspace/build/bluebook" ]; then
+                 rsync -avz --delete /github/workspace/build/bluebook/ /home/gusdur/bluebook-coconut/build/
+               else
+                 rsync -avz --delete /github/workspace/build/ /home/gusdur/bluebook-coconut/build/
+               fi
 
-      # Pindahkan build ke direktori tujuan
-      - name: Move build to web directory
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          script: |
-            echo "Moving build to /var/www/html/build"
-            rm -rf /var/www/html/build
-            cp -r /home/gusdur/bluebook-coconut/build /var/www/html/
-            chmod -R 755 /var/www/html/build
-            ls -la /var/www/html/build
-            rm -rf /home/gusdur/tmp
+         # Pindahkan build ke direktori tujuan
+         - name: Move build to web directory
+           uses: appleboy/ssh-action@v1.0.3
+           with:
+             host: ${{ secrets.VPS_HOST }}
+             username: ${{ secrets.VPS_USERNAME }}
+             key: ${{ secrets.VPS_SSH_KEY }}
+             port: ${{ secrets.VPS_SSH_PORT }}
+             script: |
+               echo "Moving build to /var/www/html/build"
+               rm -rf /var/www/html/build
+               cp -r /home/gusdur/bluebook-coconut/build /var/www/html/
+               chmod -R 755 /var/www/html/build
+               ls -la /var/www/html/build
+               rm -rf /home/gusdur/bluebook-coconut/build
 
-      # Finalisasi deployment
-      - name: Finalize deployment
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          script: |
-            echo "Finalizing deployment"
-            ls -l /var/www/html/build
-            echo "Deployment completed"
+         # Finalisasi deployment
+         - name: Finalize deployment
+           uses: appleboy/ssh-action@v1.0.3
+           with:
+             host: ${{ secrets.VPS_HOST }}
+             username: ${{ secrets.VPS_USERNAME }}
+             key: ${{ secrets.VPS_SSH_KEY }}
+             port: ${{ secrets.VPS_SSH_PORT }}
+             script: |
+               echo "Finalizing deployment"
+               ls -l /var/www/html/build
+               sudo systemctl restart nginx
+               echo "Deployment completed"
