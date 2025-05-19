@@ -6,7 +6,7 @@
 == Introduction
 Welcome to the *COCONUT Bluebook*, the foundational guide for all activities organized by COCONUT in each period. This Bluebook serves as a comprehensive resource outlining our initiatives, processes, and goals to empower communities through technology and innovation, with a focus on rural digital transformation.
 
-COCONUT, established as a think tank in April 2008, drives impactful programs such as internal and external initiatives such as Now Open, ROOT (Research Orientation Of Training), Learning, INESA (Inovasi & Edukasi Desa), On Boarding & Meeting, each of which has had a huge impact from various parties both internally and externally. Explore the sections below to learn more about our structured approach to community engagement and innovation.
+COCONUT, established as a think tank in April 2008, drives impactful programs such as internal and external initiatives such as Now Open (pendaftaran, wawancara, test, etc), ROOT (Research Orientation Of Training), Learning, INESA (Inovasi & Edukasi Desa), On Boarding & Meeting (Mubes/Raker/Triwulan/etc), each of which has had a huge impact from various parties both internally and externally. Explore the sections below to learn more about our structured approach to community engagement and innovation.
 
 == Explore the Bluebook
 - xref:draft/now-open.adoc[Now Open]
