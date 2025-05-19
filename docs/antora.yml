@@ -2,4 +2,4 @@ name: bluebook
 title: COCONUT - Bluebook
 version: ~
 nav:
-  - nav.adoc
+  - docs/nav.adoc
