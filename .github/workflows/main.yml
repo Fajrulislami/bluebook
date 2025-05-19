@@ -30,15 +30,17 @@ jobs:
           echo "Checking build directory in runner"
           ls -lR build
           if [ -d "build/bluebook" ]; then echo "Subdirectory build/bluebook exists"; fi
-          if [ -d "build/draft" ]; then echo "Subdirectory build/draft exists"; fi
+          if [ -d "build/bluebook/draft" ]; then echo "Subdirectory build/bluebook/draft exists"; fi
           find build -type f -name "*.html"
 
       # Validasi struktur build
       - name: Validate build structure
         run: |
           echo "Validating expected files"
-          if [ -f "build/index.html" ] && [ -f "build/404.html" ] && [ -d "build/draft" ]; then
-            echo "Build structure is valid"
+          if [ -f "build/index.html" ] && [ -f "build/404.html" ] && [ -d "build/bluebook/draft" ]; then
+            echo "Build structure is valid (bluebook/draft)"
+          elif [ -f "build/index.html" ] && [ -f "build/404.html" ] && [ -d "build/draft" ]; then
+            echo "Build structure is valid (draft)"
           else
             echo "Error: Expected build structure not found"
             ls -lR build
@@ -93,8 +95,6 @@ jobs:
         run: |
           echo "Downloading build artifact"
           mkdir -p build
-          # Unduh artefak
-          # (GitHub Actions akan otomatis menangani unduhan di langkah berikutnya)
           echo "Compressing build to tarball"
           if [ -d "build/bluebook" ]; then
             tar -czf bluebook-build.tar.gz -C build/bluebook .
@@ -137,7 +137,7 @@ jobs:
           script: |
             echo "Moving build to /var/www/html/build"
             rm -rf /var/www/html/build
-            cp -r /home/gusdur/bluebook-coconut/build /var/www/html/
+            mv /home/gusdur/bluebook-coconut/build /var/www/html/build
             chmod -R 755 /var/www/html/build
             ls -la /var/www/html/build
 
@@ -152,5 +152,4 @@ jobs:
           script: |
             echo "Finalizing deployment"
             ls -l /var/www/html/build
-            sudo systemctl restart nginx
             echo "Deployment completed"
