@@ -38,6 +38,19 @@ jobs:
           echo "VPS_SSH_KEY is set: ${{ secrets.VPS_SSH_KEY != '' }}"
           echo "VPS_SSH_PORT is set: ${{ secrets.VPS_SSH_PORT != '' }}"
 
+      # Tes konektivitas SSH
+      - name: Test SSH connectivity
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            whoami
+            hostname
+            netstat -tuln | grep :${{ secrets.VPS_SSH_PORT }}
+
       # Persiapkan direktori di VPS
       - name: Prepare VPS
         uses: appleboy/ssh-action@v1.0.3
@@ -50,20 +63,16 @@ jobs:
             echo "Preparing temporary directory"
             rm -rf /home/gusdur/bluebook-coconut/build
 
-      # Unggah artefak build ke VPS
-      - name: Upload build to VPS
-        uses: appleboy/scp-action@v0.1.4
+      # Unggah build ke VPS dengan rsync
+      - name: Upload build to VPS with rsync
+        uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
           username: ${{ secrets.VPS_USERNAME }}
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
-          source: "build"
-          target: "/home/gusdur/bluebook-coconut"
-          strip_components: 0
-          overwrite: true
-          debug: true
-
+          script: |
+            rsync -avz --delete /github/workspace/build/ /home/gusdur/bluebook-coconut/
 
       # Pindahkan build ke direktori tujuan
       - name: Move build to web directory
@@ -91,5 +100,5 @@ jobs:
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
             echo "Finalizing deployment"
-            ls -l /var/www/html/build/component-b
+            ls -l /var/www/html/build
             echo "Deployment completed"
