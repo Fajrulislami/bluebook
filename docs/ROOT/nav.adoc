@@ -1,0 +1,7 @@
+* xref:index.adoc[Home]
+* xref:draft/now-open.adoc[Now Open]
+* xref:draft/root.adoc[ROOT]
+* xref:draft/learning.adoc[Learning]
+* xref:draft/coconut-draft-inesa.adoc[INESA]
+* xref:draft/onboarding.adoc[Onboarding]
+* xref:draft/meeting.adoc[Meeting]

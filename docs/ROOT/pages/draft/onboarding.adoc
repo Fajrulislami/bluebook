@@ -1,0 +1,13 @@
+= Onboarding
+:navtitle: Onboarding
+:description: Onboarding process for new COCONUT members
+:keywords: COCONUT, onboarding, induction
+
+== Overview
+The *Onboarding* section covers the induction process for new COCONUT members, ensuring they are equipped to contribute to our initiatives.
+
+== Details
+[NOTE]
+This section is under development. Information about the onboarding process, including induction ceremonies and orientation programs, will be added soon.
+
+Stay tuned for details on how new members join the COCONUT community.
