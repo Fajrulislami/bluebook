@@ -1,4 +1,4 @@
-= Bluebook Documentation // URLs :url-coconut: https://coconut.or.id :url-bluebook: https://bluebook.coconut.or.id :url-github: https://github.com/COCONUT-Computer-Club/bluebook :url-playbook: {url-github}/blob/main/antora-playbook.yml :url-antora: https://antora.org :url-docs: https://docs.antora.org :url-license: {url-github}/blob/main/LICENSE
+= Bluebook Documentation 
 
 The Bluebook is the official documentation for the COCONUT Computer Club, a leading research and development organization in Computer Science and Information Technology based in Makassar, Indonesia. Hosted at {url-bluebook}[bluebook.coconut.or.id], it serves as a comprehensive guide for COCONUT's initiatives, including digital transformation programs (e.g., INESA for rural development), onboarding processes, meeting notes, and learning resources.
 
