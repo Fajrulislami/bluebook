@@ -31,14 +31,6 @@ jobs:
           ls -lR build
           if [ -d "build/bluebook" ]; then echo "Subdirectory build/bluebook exists"; fi
 
-      # Simpan build sebagai artifact
-      - name: Upload build artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: bluebook-build
-          path: build/
-          retention-days: 1
-
       # Debug secrets
       - name: Debug secrets
         run: |
@@ -74,13 +66,8 @@ jobs:
             mkdir -p /home/gusdur/bluebook-coconut/build
             chmod 755 /home/gusdur/bluebook-coconut/build
 
-      # Transfer build ke VPS dengan tarball streaming
-      - name: Transfer build to VPS
-        run: |
-          tar -C build -czf - . | ssh -o StrictHostKeyChecking=no -p ${{ secrets.VPS_SSH_PORT }} ${{ secrets.VPS_USERNAME }}@${{ secrets.VPS_HOST }} "tar -C /home/gusdur/bluebook-coconut/build -xzf -"
-
-      # Normalisasi struktur dan deploy
-      - name: Deploy to web directory
+      # Unggah build ke VPS dengan rsync
+      - name: Upload build to VPS with rsync
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
@@ -88,16 +75,37 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Normalizing build structure"
-            rm -rf /var/www/html/build
-            mkdir -p /var/www/html/build
-            if [ -d "/home/gusdur/bluebook-coconut/build/bluebook" ]; then
-              mv /home/gusdur/bluebook-coconut/build/bluebook/* /var/www/html/build/
+            if [ -d "/github/workspace/build/bluebook" ]; then
+              rsync -avz --delete /github/workspace/build/bluebook/ /home/gusdur/bluebook-coconut/build/
             else
-              mv /home/gusdur/bluebook-coconut/build/* /var/www/html/build/
+              rsync -avz --delete /github/workspace/build/ /home/gusdur/bluebook-coconut/build/
             fi
+
+      # Pindahkan build ke direktori tujuan
+      - name: Move build to web directory
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            echo "Moving build to /var/www/html/build"
+            rm -rf /var/www/html/build
+            cp -r /home/gusdur/bluebook-coconut/build /var/www/html/
             chmod -R 755 /var/www/html/build
-            chown -R www-data:www-data /var/www/html/build
             ls -la /var/www/html/build
-            rm -rf /home/gusdur/bluebook-coconut/build
+
+      # Finalisasi deployment
+      - name: Finalize deployment
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            echo "Finalizing deployment"
+            ls -l /var/www/html/build
+            sudo systemctl restart nginx
             echo "Deployment completed"
