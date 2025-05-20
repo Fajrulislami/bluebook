@@ -1,0 +1,13 @@
+= Requirement
+:navtitle: Requirement
+:description: Requirements for joining COCONUT's recruitment process
+:keywords: COCONUT, recruitment, requirements, membership
+
+== Overview
+The *Requirement* section details the eligibility criteria and prerequisites for participating in COCONUT's recruitment process.
+
+== Details
+[NOTE]
+This section is under development. Information about academic, skill, and commitment requirements will be added soon.
+
+Check back for updates on what it takes to join COCONUT.
