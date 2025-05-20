@@ -1,5 +1,5 @@
 = Mubes
-:navtitle: Mubes
+:navtitle: COCONUT Draft
 :description: COCONUT's annual grand meeting
 :keywords: COCONUT, meeting, mubes, community
 

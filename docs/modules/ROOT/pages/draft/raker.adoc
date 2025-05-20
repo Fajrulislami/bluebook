@@ -1,5 +1,5 @@
 = Raker
-:navtitle: Raker
+:navtitle: COCONUT Draft
 :description: COCONUT's working meeting for planning
 :keywords: COCONUT, meeting, raker, planning
 

@@ -1,5 +1,5 @@
 = Interview
-:navtitle: Interview
+:navtitle: COCONUT Draft
 :description: Interview process for COCONUT recruitment
 :keywords: COCONUT, recruitment, interview, membership
 

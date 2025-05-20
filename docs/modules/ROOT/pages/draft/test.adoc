@@ -1,5 +1,5 @@
 = Test
-:navtitle: Test
+:navtitle: COCONUT Draft
 :description: Testing stage for COCONUT recruitment
 :keywords: COCONUT, recruitment, test, membership
 
