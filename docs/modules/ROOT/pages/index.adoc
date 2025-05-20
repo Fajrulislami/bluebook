@@ -25,7 +25,7 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
 - xref:draft/meeting.adoc[Meeting]
   ** xref:draft/mubes.adoc[Mubes]
   ** xref:draft/raker.adoc[Raker]
-  ** xref:draft/meeting/triwulan.adoc[Triwulan]
+  ** xref:draft/triwulan.adoc[Triwulan]
 
 == Author
 - Abd Rahman — COCONUT
