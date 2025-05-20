@@ -5,3 +5,4 @@ sudo rm -rf /var/www/html/build
 sudo cp -r build /var/www/html/
 sudo nginx -t
 sudo systemctl restart nginx
+rm -rf build

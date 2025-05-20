@@ -1,7 +1,7 @@
 = COCONUT - Bluebook
-:navtitle: Beranda
-:description: Manifesto strategis untuk pemberdayaan masyarakat melalui teknologi
-:keywords: COCONUT, Bluebook, transformasi digital, pemberdayaan desa, kepemimpinan
+:navtitle: Home
+:description: Foundation for all COCONUT activity
+:keywords: COCONUT, Bluebook, INESA, Transformation, 
 
 == Selamat Datang di Bluebook COCONUT
 *COCONUT Bluebook*, manifesto strategis yang dirancang oleh para anggota COCONUT untuk memandu setiap langkah kami dalam membangun perubahan. Di balik setiap inisiatif, ada visi kepemimpinan yang mengarahkan kami untuk memberdayakan masyarakat melalui teknologi, dengan hati dan pikiran tertuju pada transformasi digital di wilayah pedesaan.
@@ -13,9 +13,9 @@ Barang siapa yang belajar banyak akan meninggalkan semua keinginan yang keras "i
 Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
 
 - xref:draft/now-open.adoc[Now Open]
-  ** xref:draft/now-open/requirement.adoc[Requirement]
-  ** xref:draft/now-open/interview.adoc[Interview]
-  ** xref:draft/now-open/test.adoc[Test]
+  ** xref:draft/requirement.adoc[Requirement]
+  ** xref:draft/interview.adoc[Interview]
+  ** xref:draft/test.adoc[Test]
 - xref:draft/root.adoc[ROOT]
 - xref:draft/learning.adoc[Learning]
   ** xref:draft/learning/candidate-member.adoc[Candidate Member]
