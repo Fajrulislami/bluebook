@@ -136,9 +136,10 @@ jobs:
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
             echo "Moving build to /var/www/html/build"
-            rm -rf /var/www/html/build
-            mv /home/gusdur/bluebook-coconut/build /var/www/html/build
-            chmod -R 755 /var/www/html/build
+            sudo rm -rf /var/www/html/build
+            sudo cp -r /home/gusdur/bluebook-coconut/build /var/www/html/build
+            sudo chown -R www-data:www-data /var/www/html/build
+            sudo chmod -R 755 /var/www/html/build
             ls -la /var/www/html/build
 
       # Finalisasi deployment
@@ -151,5 +152,11 @@ jobs:
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
             echo "Finalizing deployment"
-            ls -l /var/www/html/build
+            ls -l /var/www/html/build/bluebook/draft
+            if [ -f "/var/www/html/build/bluebook/draft/coconut-draft-inesa.html" ]; then
+              echo "Deployment validated: coconut-draft-inesa.html exists"
+            else
+              echo "Error: Deployment failed, coconut-draft-inesa.html not found"
+              exit 1
+            fi
             echo "Deployment completed"
