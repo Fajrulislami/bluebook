@@ -1,5 +1,5 @@
 = Requirement
-:navtitle: COCONUT Draft
+:navtitle: Now Open - Requirement
 :description: Requirements for joining COCONUT's recruitment process
 :keywords: COCONUT, recruitment, requirements, membership
 

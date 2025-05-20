@@ -1,5 +1,5 @@
 = Triwulan
-:navtitle: COCONUT Draft
+:navtitle: Meeting - Triwulan
 :description: COCONUT's quarterly meetings
 :keywords: COCONUT, meeting, triwulan, community
 

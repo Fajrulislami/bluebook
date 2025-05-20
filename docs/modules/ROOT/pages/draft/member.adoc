@@ -1,5 +1,5 @@
 = Member
-:navtitle: COCONUT Draft
+:navtitle: Learning - Member
 :description: Learning programs for COCONUT full members
 :keywords: COCONUT, learning, member, training
 

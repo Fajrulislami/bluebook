@@ -1,5 +1,5 @@
 = Candidate Member
-:navtitle: COCONUT Draft
+:navtitle: Learning - Candidate Member
 :description: Learning programs for COCONUT candidate members
 :keywords: COCONUT, learning, candidate member, training
 
