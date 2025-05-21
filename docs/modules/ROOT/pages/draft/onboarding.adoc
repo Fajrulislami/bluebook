@@ -11,7 +11,7 @@ ____
 Landasan ini berdasarkan pengalaman yang dinamis, fleksibel, dan berakar pada nilai-nilai COCONUT, dengan prosesi simbolis untuk menegaskan transisi calon anggota ke anggota club.
 ____
 
-== Tujuan 
+== Tujuan
 [cols="2,3",options="header"]
 |===
 |Tujuan |Manfaat
@@ -34,28 +34,25 @@ Kegiatan On-Boarding dirancang selama 24 jam, struktur acara ini bersifat dinami
 |20:40-22:00 |Diskusi & Makan Malam |Semua
 |22:00-23:00 |3KP (Kepemimpinan, Keorganisasian, Kesekretariatan & Persidangan) |Pemateri
 |23:00-05:00 |Istirahat |Calon Anggota
-|05:00-05:30 |Ishoma |Semua
+|05:00-05:30 |Sholat Subuh dan Istirahat |Semua
 |05:30-07:00 |Mandi, Sarapan, Pengumpulan Hafalan & Sharing |Semua
 |07:00-08:00 |Prosesi Simbolis *Pembersihan* & Pemasangan PDH |BPH & Calon Anggota
 |===
 
 == Prosesi Simbolis
 Setelah On-Boarding resmi, prosesi simbolis *Pembersihan* dilaksanakan untuk menandai transisi anggota baru ke study club COCONUT. Dalam tradisi intelektual dan kultural, *Pembersihan* melambangkan pemurnian komitmen dan pengabdian, di mana anggota baru "mencuci" diri dari ketidakpastian masa lalu dengan memotong serpihan rambut dan menyimpan di dalam kelapa — simbol kesuburan, kebersamaan, dan keberlanjutan. Proses ini mencakup:
-- **Simbolis Pembersihan**: Pemotongan serougab rambut anggota baru yang disimpan di dalam kelapa.
+- **Simbolis Pembersihan**: Pemotongan serpihan rambut anggota baru yang disimpan di dalam kelapa.
 - **Pemasangan PDH**: Menandakan identitas baru sebagai bagian dari COCONUT.
 - **Refleksi Bersama**: Anggota baru berbagi komitmen pribadi di hadapan komunitas.
 
 == Materi Pendidikan
 Materi dirancang untuk membentuk struktur dasar calon anggota, dengan fleksibilitas untuk pembaruan berkala:
+
 - **Wajib (Struktur Dasar)**:
-  . *3KP (Kepemimpinan, Keorganisasian (diselaraskan dengan landasan perkumpulan berbadan hukum), Kesekretariatan & Persidangan)*: 60 menit, membangun landasan filosofis dan praktis COCONUT (Pemateri).
+  . *3KP (Kepemimpinan, Keorganisasian, Kesekretariatan & Persidangan)*: 60 menit, membangun landasan filosofis dan praktis COCONUT melalui pemahaman kepemimpinan, organisasi berbadan hukum, kesekretariatan, dan persidangan (Pemateri).
 - **Fleksibel (Update Periodik)**:
   . *Fundamental AI*: 50 menit, memperkenalkan dasar kecerdasan buatan (Pemateri).
-  . *Sektor Finansial*: 40 menit, fokus pada teknologi keuangan (Pemateri).
-  . *Sektor Energi*: 40 menit, eksplorasi energi terbarukan (Pemateri).
-  . *Sektor Kesehatan*: 40 menit, inovasi kesehatan berbasis teknologi (Pemateri).
-  . *Sektor Pendidikan*: 40 menit, pendidikan teknologi inklusif (Pemateri).
-  . *Sektor Infrastruktur*: 40 menit, infrastruktur digital desa (Pemateri).
+  . *Sektor Finansial, Energi, Kesehatan, Pendidikan, Infrastruktur*: Total 210 menit (masing-masing sektor sekitar 42 menit), eksplorasi teknologi dalam berbagai sektor untuk memberikan wawasan lintas disiplin (Pemateri).
   . *Brain Engineering*: 90 menit, teknik pemecahan masalah kompleks (Pemateri).
 
 Materi fleksibel dapat disesuaikan setiap periode berdasarkan kebutuhan kontemporer, seperti tren terbaru atau proyek komunitas terbaru.
