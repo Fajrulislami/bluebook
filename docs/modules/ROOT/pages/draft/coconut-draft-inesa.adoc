@@ -4,7 +4,7 @@
 :keywords: COCONUT, INESA, transformasi digital, IoT, AI, pemberdayaan desa, edukasi teknologi
 
 == Ikhtisar
-Selamat datang di *INESA* (Inovasi dan Edukasi Desa), sebuah inisiatif unggulan dari COCONUT Computer Club yang dirancang untuk membawa perubahan nyata di pedesaan. Berlandaskan pada teori *pemberdayaan masyarakat* dan *sustainable development*, INESA menggabungkan teknologi modern seperti Internet of Things (IoT), Artificial Intelligence (AI), dan penguatan infrastruktur digital untuk meningkatkan kemandirian dan kesejahteraan masyarakat desa.
+*INESA* (Inovasi dan Edukasi Desa), sebuah inisiatif unggulan dari COCONUT Computer Club yang dirancang untuk membawa perubahan nyata di pedesaan. Berlandaskan pada teori *pemberdayaan masyarakat* dan *sustainable development*, INESA menggabungkan teknologi modern seperti Internet of Things (IoT), Artificial Intelligence (AI), dan penguatan infrastruktur digital untuk meningkatkan kemandirian dan kesejahteraan masyarakat desa.
 
 [quote, Visi INESA]
 ____
@@ -30,14 +30,16 @@ INESA memiliki tiga tujuan utama yang dirancang untuk mendukung transformasi dig
 INESA memperkenalkan teknologi yang relevan dengan kebutuhan desa:
 
 - **IoT (Internet of Things)**:
-  - Sensor dan pemantauan real-time untuk pertanian, perkebunan, peternakan (contoh: irigasi otomatis, pemantauan kelembaban tanah).
-  - Sistem *smart waste management* berbasis komunitas untuk pengelolaan sampah.
+  . Sensor dan pemantauan real-time untuk pertanian, perkebunan, peternakan.
+    .. Contoh: irigasi otomatis, pemantauan kelembaban tanah, etc.
+  . Sistem *smart waste management* berbasis komunitas untuk pengelolaan sampah.
 - **Infrastruktur Digital**:
-  - Jaringan internet desa berbasis energi terbarukan (contoh: panel surya).
-  - *Digital hub* sebagai pusat akses informasi dan pelatihan.
+  . Jaringan internet desa berbasis energi terbarukan.
+    .. Contoh: panel surya, etc.
+  . *Digital hub* sebagai pusat akses informasi dan pelatihan.
 - **AI (Artificial Intelligence)**:
-  - Prediksi hasil panen atau analisis pasar pertanian berbasis AI.
-  - Chatbot layanan publik desa menggunakan *Natural Language Processing* (NLP), *Large Language Model* (LLM), dan *Decentralized Large Language Model* (DLLM).
+  . Prediksi hasil panen atau analisis pasar pertanian berbasis AI.
+  . Chatbot layanan publik desa menggunakan *Natural Language Processing* (NLP), *Large Language Model* (LLM), dan *Decentralized Large Language Model* (DLLM), etc.
 
 === Tahapan Pelaksanaan
 Proses INESA dirancang secara sistematis untuk memastikan solusi yang relevan dan berkelanjutan:
@@ -55,63 +57,53 @@ Proses INESA dirancang secara sistematis untuk memastikan solusi yang relevan da
 === Perumusan Pelaksanaan dan Edukasi
 Kegiatan INESA menyasar dua fokus utama:
 
-- **Inovasi: Membangun Bersama Warga** +
-  - **Relevansi**: Sesuai kebutuhan dan kearifan lokal.  
-  - **Keberdayaan**: Masyarakat mampu memelihara dan mengembangkan teknologi secara mandiri.  
-  - **Keberlanjutan**: Proyek tetap berjalan pasca-intervensi tim.
-
-- **Edukasi: Fundamental Teknologi dan Pemberdayaan** +
-  - Melawan ketergantungan dan eksploitasi sumber daya oleh pihak eksternal.  
-  - Demokratisasi teknologi: Teknologi modern dapat diakses, dipahami, dan dimodifikasi oleh masyarakat desa.
+- **Inovasi: Membangun Bersama Warga**
+  . Relevansi: Sesuai kebutuhan dan kearifan lokal.
+  . Keberdayaan: Masyarakat mampu memelihara dan mengembangkan teknologi secara mandiri.
+  . Keberlanjutan: Proyek tetap berjalan pasca-intervensi tim.
+- **Edukasi: Fundamental Teknologi dan Pemberdayaan**
+  . Melawan ketergantungan dan eksploitasi sumber daya oleh pihak eksternal.
+  . Demokratisasi teknologi: Teknologi modern dapat diakses, dipahami, dan dimodifikasi oleh masyarakat desa.
 
 === Materi Edukasi
-- **Literasi Digital Desa**:
-  - Menggunakan alat digital untuk pemasaran pertanian atau membangun e-commerce lokal.
-  - Privasi data dan keamanan online untuk menghindari manipulasi media sosial.
-- **Pengelolaan Sumber Daya Lokal**:
-  - Teknik optimalisasi potensi desa tanpa ketergantungan pada korporasi besar.
-- **Teknologi Adaptif**:
-  - Pelatihan teknologi terbarukan (contoh: prompting AI untuk hasil optimal).
-  - Prinsip DIY (*Do-It-Yourself*): Memanfaatkan bahan lokal untuk membuat alat sederhana.
+- **Literasi Digital Desa**
+  . Menggunakan alat digital untuk pemasaran pertanian atau membangun e-commerce lokal.
+  . Privasi data dan keamanan online untuk menghindari manipulasi media sosial.
+- **Pengelolaan Sumber Daya Lokal**
+  . Teknik optimalisasi potensi desa tanpa ketergantungan pada korporasi besar.
+- **Teknologi Adaptif**
+  . Pelatihan teknologi terbarukan (contoh: prompting AI untuk hasil optimal).
+  . Prinsip DIY (*Do-It-Yourself*): Memanfaatkan bahan lokal untuk membuat alat sederhana.
 
 === Jalur Edukasi dan Inovasi
-- **Jalur Edukasi**:
-  - Menyasar pelajar di lingkungan sekolah dengan materi teknologi modern.
-  - Tujuannya: Menginspirasi inovasi yang dapat diterapkan dalam kehidupan sehari-hari.
-- **Jalur Inovasi**:
-  - Kunjungan langsung ke desa untuk berinteraksi dengan pemangku kepentingan.
-  - Tujuannya: Memahami kebutuhan lokal dan menjelaskan penggunaan inovasi secara personal.
+- **Jalur Edukasi**
+  . Menyasar pelajar di lingkungan sekolah dengan materi teknologi modern.
+  . Tujuannya: Menginspirasi inovasi yang dapat diterapkan dalam kehidupan sehari-hari.
+- **Jalur Inovasi**
+  . Kunjungan langsung ke desa untuk berinteraksi dengan pemangku kepentingan.
+  . Tujuannya: Memahami kebutuhan lokal dan menjelaskan penggunaan inovasi secara personal.
 
 == Output yang Diharapkan
-- **Sistem Inovasi Desa**:
-  - Masyarakat memiliki rasa kepemilikan terhadap sistem inovasi untuk perawatan dan pengembangan.
-  - Berlandaskan *community-based participatory research* (CBPR), solusi lahir dari dialog setara antara tim COCONUT dan warga.
-- **Edukasi Efektif**:
-  - Pemuda mampu mengidentifikasi peluang teknologi dan menjadi *peer educator*.
-  - Mengacu pada *transformative learning* (Mezirow), edukasi mendorong perubahan perspektif melalui refleksi pengalaman.
-- **Kolaborasi Aktif**:
-  - Hubungan erat antara desa, sekolah, dan tim inovasi melalui pendekatan partisipatif.
+- **Sistem Inovasi Desa**
+  . Masyarakat memiliki rasa kepemilikan terhadap sistem inovasi untuk perawatan dan pengembangan.
+  . Berlandaskan *community-based participatory research* (CBPR), solusi lahir dari dialog setara antara tim COCONUT dan warga.
+- **Edukasi Efektif**
+  . Pemuda mampu mengidentifikasi peluang teknologi dan menjadi *peer educator*.
+  . Mengacu pada *transformative learning* (Mezirow), edukasi mendorong perubahan perspektif melalui refleksi pengalaman.
+- **Kolaborasi Aktif**
+  . Hubungan erat antara desa, sekolah, dan tim inovasi melalui pendekatan partisipatif.
 
 == Indikator Keberhasilan
 [cols="2,3",options="header"]
 |===
 |Kategori |Indikator
 |*Peningkatan Efisiensi* | - Penurunan 30% waktu pengolahan lahan dengan IoT (terukur via log petani).  
-- Pengurangan 50% keluhan layanan publik dalam 3 bulan pasca-chatbot.
+- Pengurangan 50% keluhan layanan publik dalam 3 bulan pasca-inesa.
 |*Keterampilan Lokal* | - 80% peserta pelatihan mampu memodifikasi alat sederhana tanpa bantuan tim.  
 - Pemuda membuat proyek *showcase* sebagai syarat kelulusan.
 |*Keberlanjutan* | - Terbentuknya kelompok inovasi desa yang mengadakan pertemuan rutin tanpa inisiasi eksternal.
 |*Dampak Sosial* | - *Bonding capital* (Putnam): Meningkatnya frekuensi gotong-royong untuk pemeliharaan teknologi.  
-- *Bridging capital*: Desa diundang sebagai narasumber di forum kabupaten.
 |===
 
 == Penutup
 INESA adalah gerakan kolektif yang meletakkan fondasi transformasi desa berbasis kemanusiaan dan teknologi dengan prinsip *“desa membangun desa”*. Teknologi menjadi kekuatan—bukan pengganti—nilai gotong-royong dan kearifan lokal.
-
-[NOTE]
-====
-**Komitmen Jangka Panjang COCONUT**  
-- *Sister village program*: Desa mitra saling berbagi solusi.  
-- *Alumni network*: Profesional muda kembali ke desa sebagai mentor.  
-Transformasi digital inklusif dimulai dari langkah kecil yang berkelanjutan!
-====
