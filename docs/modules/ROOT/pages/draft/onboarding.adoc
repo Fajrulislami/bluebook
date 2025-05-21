@@ -26,7 +26,7 @@ Bertujuan untuk menciptakan onboarding yang holistik:
 == Struktur Acara
 Kegiatan On-Boarding dirancang selama 24 jam, struktur acara ini bersifat dinamis (update periodik) *hanya sebagai landasan* :
 
-[cols="1,1,2,1",options="header"]
+[cols="1,2,1",options="header"]
 |===
 |Waktu |Kegiatan |Penanggung Jawab
 | |10:00 |Kumpul di Sekretariat |BPH & Calon Anggota
