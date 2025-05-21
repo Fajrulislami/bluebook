@@ -28,7 +28,7 @@ Kegiatan On-Boarding dirancang selama 24 jam, struktur acara ini bersifat dinami
 
 [cols="1,1,2,1",options="header"]
 |===
-|Hari/Tanggal |Waktu |Kegiatan |Penanggung Jawab
+|Waktu |Kegiatan |Penanggung Jawab
 | |10:00 |Kumpul di Sekretariat |BPH & Calon Anggota
 | |11:00 |Jalan ke Lokasi |Semua
 | |13:00-13:10 |Ishoma |Semua
