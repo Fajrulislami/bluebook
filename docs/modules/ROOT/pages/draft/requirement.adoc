@@ -4,9 +4,9 @@
 :keywords: COCONUT, persyaratan, perekrutan, teknologi, keterampilan, komitmen
 
 == Ikhtisar
-Langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
+Langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Persyaratan ini dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
 
-[quote]
+[quote, Visi Persyaratan COCONUT]
 ____
 Setiap individu adalah benih inovasi yang membutuhkan sinar matahari pagi dan air kesegaran untuk tumbuh dan mekar.
 ____
@@ -14,7 +14,7 @@ ____
 Pendekatan yang terarah dan suportif, COCONUT membuka pintu bagi mahasiswa yang bercita-cita menjadi bagian penting perkembangan nasional dan agen perubahan melalui teknologi.
 
 == Tujuan Persyaratan
-Untuk memastikan calon anggota memiliki dasar yang kuat untuk berkembang:
+Persyaratan ini bertujuan untuk memastikan calon anggota memiliki dasar yang kuat untuk berkembang:
 
 [cols="2,3",options="header"]
 |===
@@ -25,7 +25,7 @@ Untuk memastikan calon anggota memiliki dasar yang kuat untuk berkembang:
 |===
 
 == Persyaratan Utama
-Persyaratan yang harus dipenuhi oleh calon anggota COCONUT:
+Berikut adalah persyaratan yang harus dipenuhi oleh calon anggota COCONUT:
 
 - **Kriteria Dasar**
   . Status sebagai mahasiswa aktif di perguruan tinggi yang diakui.
@@ -41,7 +41,7 @@ Persyaratan yang harus dipenuhi oleh calon anggota COCONUT:
   . Kepemilikan nilai-nilai kekeluargaan, inovasi, dan tanggung jawab sosial.
 
 == Proses Pemenuhan Persyaratan
-Dirancang untuk mengevaluasi dan mendampingi persyaratan calon anggota:
+Proses ini dirancang untuk mengevaluasi dan mendampingi persyaratan calon anggota:
 
 [cols="1,3,2",options="header"]
 |===
@@ -52,8 +52,8 @@ Dirancang untuk mengevaluasi dan mendampingi persyaratan calon anggota:
 |*Evaluasi* |Penilaian oleh tim panitia berdasarkan hasil tes dan wawancara. |Rubrik penilaian terstruktur.
 |===
 
-== Proses Seleksi
-Alur kerja proses seleksi calon anggota COCONUT:
+== Workflow Proses Seleksi
+Berikut adalah alur kerja proses seleksi calon anggota COCONUT untuk memberikan gambaran visual yang jelas:
 
 [plantuml, format="svg"]
 ....
@@ -62,7 +62,6 @@ skinparam monochrome true
 skinparam shadowing false
 
 actor "Calon Anggota" as Calon
-
 participant "Panitia" as Panitia
 
 Calon -> Panitia: Mendaftar (Online/Offline)
@@ -76,6 +75,16 @@ Calon -> Panitia: Mengikuti Pembekalan Awal
 
 @enduml
 ....
+
+*Catatan*: Jika diagram PlantUML tidak ter-render (misalnya karena server tidak diatur), silakan gunakan deskripsi teks berikut sebagai alternatif:
+- Calon Anggota mendaftar (Online/Offline) ke Panitia.
+- Panitia mengonfirmasi pendaftaran kepada Calon Anggota.
+- Calon Anggota mengikuti Tes Awal (Logika & MBTI) yang dikoordinasikan oleh Panitia.
+- Panitia menyampaikan Hasil Tes Awal kepada Calon Anggota.
+- Calon Anggota mengikuti Wawancara yang diadakan oleh Panitia.
+- Panitia melakukan Penilaian Akhir berdasarkan hasil tes dan wawancara.
+- Panitia mengumumkan Hasil Seleksi kepada Calon Anggota.
+- Calon Anggota yang diterima mengikuti Pembekalan Awal bersama Panitia.
 
 == Dukungan untuk Calon Anggota
 COCONUT berkomitmen untuk mendampingi calon anggota selama proses:
