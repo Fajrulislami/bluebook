@@ -41,7 +41,7 @@ Dirancang untuk mengevaluasi dan mendampingi calon anggota:
 [cols="1,3,2",options="header"]
 |===
 |Tahap |Aktivitas |Metode
-|*Pendaftaran* |Pengisian formulir online atau kunjungan ke stan pendaftaran offline. |Google Form, interaksi langsung.
+|*Pendaftaran* |Pengisian formulir online atau kunjungan ke stan pendaftaran offline. |Website pendaftaran dan interaksi langsung.
 |*Tes Awal* |Pelaksanaan tes tertulis untuk mengukur logika, potensi teknologi, dan kepribadian (MBTI). |Soal pilihan ganda, esai sederhana, dan tes MBTI.
 |*Wawancara* |Sesi wawancara untuk menilai motivasi dan keselarasan nilai. |Wawancara langsung atau daring.
 |*Evaluasi* |Penilaian oleh tim panitia berdasarkan hasil tes dan wawancara. |Rubrik penilaian terstruktur.
