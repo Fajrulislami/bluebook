@@ -20,25 +20,6 @@ ____
 |*Mendorong Adaptasi Dinamis* |Menyesuaikan materi dengan kebutuhan kontemporer untuk relevansi berkelanjutan.
 |===
 
-== Struktur Acara
-Kegiatan On-Boarding dirancang selama 24 jam, struktur acara ini bersifat dinamis (update periodik) *hanya sebagai landasan*:
-
-[cols="1,2,1",options="header"]
-|===
-|Waktu |Kegiatan |Penanggung Jawab
-|13:30-14:00 |Istirahat |Semua
-|14:00-14:50 |Fundamental AI |Pemateri
-|14:50-18:20 |Sektor Finansial, Energi, Kesehatan, Pendidikan & Infrastruktur |Pemateri
-|18:20-19:10 |Sholat Maghrib, Sholat Isya, Tebak Gambar |Calon Anggota
-|19:10-20:40 |Brain Engineering |Pemateri
-|20:40-22:00 |Diskusi & Makan Malam |Semua
-|22:00-23:00 |3KP (Kepemimpinan, Keorganisasian, Kesekretariatan & Persidangan) |Pemateri
-|23:00-05:00 |Istirahat |Calon Anggota
-|05:00-05:30 |Sholat Subuh dan Istirahat |Semua
-|05:30-07:00 |Mandi, Sarapan, Pengumpulan Hafalan & Sharing |Semua
-|07:00-08:00 |Prosesi Simbolis *Pembersihan* & Pemasangan PDH |BPH & Calon Anggota
-|===
-
 == Prosesi Simbolis
 Setelah On-Boarding resmi, prosesi simbolis *Pembersihan* dilaksanakan untuk menandai transisi anggota baru ke study club COCONUT. Dalam tradisi intelektual dan kultural, *Pembersihan* melambangkan pemurnian komitmen dan pengabdian, di mana anggota baru "mencuci" diri dari ketidakpastian masa lalu dengan memotong serpihan rambut dan menyimpan di dalam kelapa — simbol kesuburan, kebersamaan, dan keberlanjutan. Proses ini mencakup:
 - **Simbolis Pembersihan**: Pemotongan serpihan rambut anggota baru yang disimpan di dalam kelapa.
