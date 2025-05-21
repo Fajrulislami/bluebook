@@ -1,84 +1,96 @@
-= Latar Belakang dan Tujuan
-:navtitle: Tentang - Latar Belakang & Tujuan
-:description: Latar belakang, tujuan, dan ruang lingkup kegiatan perekrutan anggota baru COCONUT Computer Club
-:keywords: COCONUT, perekrutan, latar belakang, tujuan, kegiatan, proses
+= Persyaratan pendaftaran Calon Anggota COCONUT
+:navtitle: Requirement
+:description: Persyaratan dan kriteria untuk menjadi calon anggota COCONUT Computer Club
+:keywords: COCONUT, persyaratan, perekrutan, teknologi, keterampilan, komitmen
 
-== Latar Belakang
-Perkembangan teknologi yang begitu dinamis menuntut generasi muda untuk tidak hanya menjadi pengguna, tetapi juga pencipta solusi berbasis digital. Namun, perjalanan untuk memahami dan menguasai dunia teknologi tidak selalu harus dimulai dengan kemampuan yang tinggi, justru sering kali dimulai dari rasa ingin tahu dan keberanian untuk belajar dari dasar.
+== Ikhtisar
+*Persyaratan pendaftaran Calon Anggota* dari *COCONUT Computer Club*, langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Persyaratan ini dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
 
-*COCONUT Computer Club* hadir sebagai ruang tumbuh bagi siapa saja yang ingin memulai perjalanan tersebut. Organisasi ini dirancang untuk menjadi ekosistem belajar yang terarah dan terintegrasi, di mana setiap kegiatan mulai dari pelatihan, diskusi, hingga proyek kolaboratif diselaraskan untuk mendukung perkembangan anggota dari tahap paling awal hingga mampu berkontribusi secara nyata.
+Dengan pendekatan yang terarah dan suportif, COCONUT membuka pintu bagi mahasiswa yang bercita-cita menjadi agen of change melalui teknologi.
 
-Perekrutan calon anggota baru bukan sekadar ajang seleksi, melainkan awal dari perjalanan panjang yang penuh pembelajaran dan pengalaman bermakna. Di sini, setiap individu akan didampingi untuk belajar secara bertahap, mengasah keterampilan teknis dan non-teknis, serta membangun karakter kolaboratif melalui kegiatan yang sudah dikurasi sesuai dengan semangat pembelajaran progresif.
+== Tujuan Persyaratan
+Persyaratan ini bertujuan untuk memastikan calon anggota memiliki dasar yang kuat untuk berkembang:
 
-Dengan pendekatan yang inklusif dan terarah, *COCONUT* membuka peluang bagi generasi baru untuk bertumbuh bersama bukan hanya sebagai anggota, tetapi sebagai bagian penting dari gerakan inovasi yang berdampak bagi masyarakat.
+[cols="2,3",options="header"]
+|===
+|Tujuan |Manfaat bagi Calon Anggota
+|*Mengukur Potensi Awal* |Menilai kemampuan dasar, minat, dan motivasi calon anggota dalam bidang teknologi.
+|*Menjaga Keselarasan Nilai* |Memastikan calon anggota selaras dengan visi, misi, dan budaya kolaboratif COCONUT.
+|*Mempersiapkan Pembelajaran* |Memberikan landasan awal untuk mengikuti pelatihan dan proyek organisasi dengan efektif.
+|===
 
-== Tujuan
+== Persyaratan Utama
+Berikut adalah persyaratan yang harus dipenuhi oleh calon anggota COCONUT:
 
-* *Menjadi Ruang Belajar Inklusif:* Membuka kesempatan bagi mahasiswa dari berbagai latar belakang untuk mulai belajar teknologi dari dasar dalam lingkungan yang suportif dan terbuka.
-* *Membangun Pondasi Keterampilan:* Memberikan pembekalan awal terkait dasar-dasar teknologi, termasuk pemrograman, desain, riset, dan manajemen proyek, sebagai bekal untuk berkontribusi dalam kegiatan organisasi dan proyek sosial.
-* *Mengembangkan Karakter Kolaboratif:* Mendorong semangat kerja sama, kepemimpinan, dan komunikasi melalui kegiatan yang terstruktur agar calon anggota dapat tumbuh menjadi individu yang siap berkarya dalam tim.
-* *Menumbuhkan Rasa Kepemilikan dan Tanggung Jawab:* Menanamkan semangat kepemilikan terhadap visi organisasi dan tanggung jawab sosial sebagai bagian dari komunitas yang membawa dampak positif melalui teknologi.
-* *Mempersiapkan Kontributor untuk Proyek Nyata:* Mempersiapkan anggota baru agar mampu terlibat dalam proyek nyata organisasi seperti inovasi desa, pelatihan digital, dan riset teknologi, baik sebagai pelaksana maupun fasilitator pembelajaran di masyarakat.
+- **Kriteria Dasar**
+  . Status sebagai mahasiswa aktif di perguruan tinggi yang diakui.
+  . Usia maksimal 25 tahun pada saat pendaftaran.
+  . Komitmen untuk mengikuti seluruh proses seleksi dan pembekalan awal.
+- **Keterampilan Awal**
+  . Pemahaman dasar teknologi (misalnya, penggunaan komputer atau perangkat lunak dasar).
+    .. Tidak diperlukan pengalaman lanjutan; COCONUT menyediakan pelatihan untuk pemula.
+  . Kemampuan logika dan pemecahan masalah (akan diuji melalui tes tertulis).
+- **Sikap dan Komitmen**
+  . Semangat belajar dan keterbukaan terhadap pengalaman baru.
+  . Kesediaan berkolaborasi dalam tim dan berkontribusi pada proyek organisasi.
+  . Kepemilikan nilai-nilai kekeluargaan, inovasi, dan tanggung jawab sosial.
 
-== Ruang Lingkup Kegiatan
-Penerimaan anggota baru *COCONUT Computer Club* merupakan proses terstruktur yang dirancang untuk mengenali potensi, minat, serta kesiapan calon anggota dalam belajar dan berkembang di bidang teknologi. Kegiatan ini terdiri dari beberapa tahap utama, yaitu:
+== Proses Pemenuhan Persyaratan
+Proses ini dirancang untuk mengevaluasi dan mendampingi calon anggota:
 
-=== Pendaftaran Calon Anggota
-Pendaftaran dilakukan secara daring maupun luring untuk memberikan akses yang luas kepada seluruh calon pendaftar:
+[cols="1,3,2",options="header"]
+|===
+|Tahap |Aktivitas |Metode
+|*Pendaftaran* |Pengisian formulir online atau kunjungan ke stan pendaftaran offline. |Google Form, interaksi langsung.
+|*Tes Awal* |Pelaksanaan tes tertulis untuk mengukur logika dan potensi teknologi. |Soal pilihan ganda dan esai sederhana.
+|*Wawancara* |Sesion wawancara untuk menilai motivasi dan keselarasan nilai. |Wawancara langsung atau daring.
+|*Evaluasi* |Penilaian oleh tim panitia berdasarkan hasil tes dan wawancara. |Rubrik penilaian terstruktur.
+|===
 
-* *Pendaftaran Online:* Calon anggota mengisi formulir pendaftaran melalui platform yang disediakan, seperti Google Form atau website pendaftaran resmi organisasi.
-* *Pendaftaran Offline:* Tim rekrutmen juga membuka stan pendaftaran di lokasi sekretariat organisasi dan di berbagai area kampus tertentu untuk menjangkau lebih banyak mahasiswa dan memberikan informasi langsung tentang kegiatan perekrutan.
+== Dukungan untuk Calon Anggota
+COCONUT berkomitmen untuk mendampingi calon anggota selama proses:
 
-=== Seleksi Calon Anggota
-Proses seleksi terdiri dari dua tahap utama yang saling melengkapi, yaitu:
-
-* *Tes Tertulis:* Digunakan untuk mengukur pemahaman dasar calon anggota terkait logika, pemecahan masalah, serta potensi di bidang teknologi dan kreativitas. Tes ini dirancang agar tetap ramah bagi pemula.
-* *Wawancara:* Dilaksanakan secara langsung atau daring untuk mengenal lebih dalam motivasi, komitmen, dan kepribadian calon anggota. Di tahap ini, penilai juga melihat sejauh mana calon anggota cocok dengan nilai dan budaya organisasi.
-
-== Timeline Pelaksanaan
-Kegiatan perekrutan anggota baru akan berlangsung selama ± 1 bulan dan tersusun lengkap dalam susunan acara berikut:
-
-=== Hari 1–26 — Pendaftaran Calon Anggota
-* Pendaftaran dilakukan secara daring melalui Google Form atau situs pendaftaran resmi.
-* Pendaftaran luring tersedia melalui stand kampus dan sekretariat organisasi.
-* Promosi dilakukan melalui media sosial, penyampaian di kelas, dan distribusi pamflet.
-
-=== Hari 27 (H-2) — Hari Pertama Seleksi (Tes & Wawancara) & Penutupan Pendaftaran
-* Pendaftaran resmi ditutup setelah rangkaian tes dan wawancara hari pertama selesai.
-* Pelaksanaan tes tertulis dan wawancara gelombang pertama.
-* Penilaian langsung dilakukan oleh tim panitia.
-
-=== Hari 28 (H-1) — Hari Kedua Seleksi (Tes & Wawancara)
-* Pelaksanaan tes tertulis dan wawancara gelombang kedua bagi peserta yang belum mengikuti sebelumnya.
-* Finalisasi seluruh penilaian seleksi oleh tim panitia.
-
-=== Hari 29 (H) — Pengumuman Anggota Baru
-* Pengumuman hasil seleksi disampaikan melalui situs resmi yang telah disediakan.
-* Disertai informasi tambahan terkait kegiatan seminar dan ROOT (pembekalan awal).
-
-=== Hari 30 (H+1) — Seminar & Pengenalan Organisasi
-* Seminar internal dengan tema teknologi informasi yang ditentukan oleh panitia.
-* Pembicara terdiri dari:
-** Anggota senior
-** Alumni atau pembicara internal organisasi
+- **Pelatihan Awal**
+  . Sesi pengenalan teknologi dasar untuk pemula.
+  . Workshop kolaborasi dan manajemen proyek sederhana.
+- **Mentoring**
+  . Pendampingan oleh anggota senior selama tahap seleksi.
+  . Bimbingan personal untuk meningkatkan keterampilan awal.
+- **Akses Sumber Daya**
+  . Akses ke materi belajar online dan komunitas diskusi internal.
+  . Dukungan perangkat teknologi dasar jika diperlukan (berdasar evaluasi).
 
 == Output yang Diharapkan
-
-* *Rekrutmen Tepat Sasaran:* Terseleksinya calon anggota yang memiliki potensi, minat, dan komitmen tinggi untuk belajar serta berkembang di bidang teknologi bersama COCONUT.
-* *Edukasi Organisasi:* Tersampaikannya pemahaman yang utuh kepada anggota baru mengenai visi, misi, budaya, serta program kerja COCONUT melalui seminar dan sesi pengenalan.
-* *Integrasi Awal yang Efektif:* Terbentuknya rasa kebersamaan dan keterikatan awal antara anggota baru dan pengurus melalui komunikasi aktif, pendekatan personal, dan onboarding yang ramah pemula.
-* *Regenerasi Berkelanjutan:* Terlaksananya proses perekrutan yang mendukung keberlanjutan organisasi dengan menghadirkan generasi baru yang siap berkontribusi dalam kegiatan, pelatihan, dan inovasi teknologi di masa mendatang.
+- **Seleksi yang Tepat**:
+  . Terpilihnya calon anggota yang memenuhi kriteria dan siap berkembang.
+- **Pembekalan Awal**:
+  . Calon anggota mendapatkan pemahaman awal tentang teknologi dan budaya.
+- **Kesiapan Kontribusi**:
+  . Calon anggota siap mengikuti proyek nyata dan menjadi bagian dari regenerasi organisasi.
 
 == Indikator Keberhasilan
+[cols="2,3",options="header"]
+|===
+|Kategori |Indikator
+|*Kualitas Calon Anggota* | - 80% calon anggota menunjukkan kemajuan dalam tes logika setelah pelatihan awal.  
+- Tingkat keselarasan nilai ≥ 75% berdasarkan wawancara.
+|*Partisipasi* | - Tercapai target pendaftar minimal 50% dari kuota tahunan.  
+- Tingkat kehadiran ≥ 90% dalam sesi wawancara dan tes.
+|*Kesiapan Belajar* | - 85% calon anggota menyatakan siap mengikuti pembekalan berdasarkan umpan balik.
+|===
 
-* *Kualitas Anggota Baru:* Terseleksi anggota baru yang menunjukkan potensi dalam logika, pemecahan masalah, dan motivasi belajar teknologi, berdasarkan hasil tes tertulis dan wawancara.
-* *Tingkat Partisipasi:* Tercapainya jumlah pendaftar dan peserta seleksi sesuai target kuota yang ditetapkan oleh panitia, baik melalui pendaftaran online maupun offline.
-* *Efektivitas Seminar & Pengenalan:* Tingginya tingkat kehadiran dan partisipasi aktif anggota baru dalam kegiatan seminar dan pengenalan organisasi, serta adanya umpan balik positif dari peserta terkait pemahaman materi yang disampaikan.
+[quote, Visi Persyaratan COCONUT]
+____
+Setiap individu adalah benih inovasi yang membutuhkan sinar matahari pagi dan air untuk tumbuh dan mekar.
+____
 
 == Penutup
+Persyaratan ini adalah langkah awal untuk membuka pintu menuju komunitas *COCONUT Computer Club* yang dinamis dan berorientasi pada pertumbuhan. Dengan pendekatan inklusif dan terstruktur, COCONUT berkomitmen membina calon anggota menjadi agen perubahan teknologi yang berkelanjutan.
 
-Perekrutan anggota baru *COCONUT Computer Club* bukan sekadar proses seleksi, melainkan sebuah langkah strategis dalam menjaga kesinambungan semangat belajar, berkarya, dan berinovasi di bidang teknologi. 
-
-Melalui pendekatan yang inklusif, edukatif, dan kolaboratif, kegiatan ini menjadi pintu masuk bagi para mahasiswa yang ingin berkembang bersama komunitas yang progresif dan berdampak.
-
-*COCONUT* percaya bahwa setiap individu memiliki potensi untuk menjadi agen perubahan. Dengan dukungan sistem yang terstruktur, nilai-nilai kekeluargaan, dan budaya berbagi ilmu, perekrutan ini akan melahirkan generasi baru yang siap berkontribusi dalam membangun masa depan teknologi yang lebih cerdas, humanis, dan berkelanjutan.
+[NOTE]
+====
+**Komitmen COCONUT**  
+- Dukungan berkelanjutan melalui *mentoring program*.  
+- Peluang kolaborasi dengan proyek inovasi dan riset teknologi.  
+Membangun masa depan teknologi yang lebih cerdas dan humanis!
+====
