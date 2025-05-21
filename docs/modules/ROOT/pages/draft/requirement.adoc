@@ -4,7 +4,7 @@
 :keywords: COCONUT, persyaratan, perekrutan, teknologi, keterampilan, komitmen
 
 == Ikhtisar
-*Persyaratan Pendaftaran Calon Anggota* dari *COCONUT Computer Club*, langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Persyaratan ini dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
+Langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Persyaratan ini dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
 
 Pendekatan yang terarah dan suportif, COCONUT membuka pintu bagi mahasiswa yang bercita-cita menjadi bagian penting perkembangan nasional dan agen perubahan melalui teknologi.
 
@@ -58,7 +58,7 @@ COCONUT berkomitmen untuk mendampingi calon anggota selama proses:
     .. Termasuk interpretasi hasil MBTI untuk memahami gaya belajar dan kerja tim.
   . Bimbingan personal untuk meningkatkan keterampilan awal.
 - **Akses Sumber Daya**
-  . Akses ke materi belajar online dan komunitas diskusi internal.
+  . Akses ke materi belajar offline/online dan diskusi internal.
   . Dukungan perangkat teknologi dasar jika diperlukan (berdasar evaluasi).
 
 == Output yang Diharapkan
@@ -74,11 +74,11 @@ COCONUT berkomitmen untuk mendampingi calon anggota selama proses:
 [cols="2,3",options="header"]
 |===
 |Kategori |Indikator
-|*Kualitas Calon Anggota* | - 80% calon anggota menunjukkan kemajuan dalam tes logika setelah pelatihan awal.  
-- Tingkat keselarasan nilai ≥ 75% berdasarkan wawancara dan tes MBTI.
-|*Partisipasi* | - Tercapai target pendaftar minimal 50% dari kuota tahunan.  
+|*Kualitas Calon Anggota* | 80% calon anggota menunjukkan kemajuan dalam tes logika setelah pelatihan awal.  
+ Tingkat keselarasan nilai ≥ 75% berdasarkan wawancara dan tes MBTI.
+|*Partisipasi* | Tercapai target pendaftar minimal 50% dari kuota tahunan.  
 - Tingkat kehadiran ≥ 90% dalam sesi wawancara dan tes.
-|*Kesiapan Belajar* | - 85% calon anggota menyatakan siap mengikuti pembekalan berdasarkan umpan balik.
+|*Kesiapan Belajar* | 85% calon anggota menyatakan siap mengikuti pembekalan berdasarkan umpan balik.
 |===
 
 [quote, Visi Persyaratan COCONUT]
@@ -94,5 +94,4 @@ Persyaratan ini adalah langkah awal untuk membuka pintu menuju study club *COCON
 **Komitmen COCONUT**  
 - Dukungan berkelanjutan melalui *mentoring program*.  
 - Peluang kolaborasi dengan proyek inovasi dan riset teknologi.  
-Membangun masa depan teknologi yang lebih cerdas dan humanis!
 ====
