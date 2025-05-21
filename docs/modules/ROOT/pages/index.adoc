@@ -28,9 +28,10 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
   ** xref:draft/triwulan.adoc[Triwulan]
 
 == Author
-- Abd Rahman — COCONUT
-- Nurman Awaluddin — COCONUT
-- Andi Resky Amaliah — COCONUT
+- Abd Rahman
+- Nurman Awaluddin
+- Andi Resky Amaliah
+- Syahrul Ramadhan 
 
 == Bluebook Version
 Bluebook — Versi 1.0
