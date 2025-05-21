@@ -4,12 +4,17 @@
 :keywords: COCONUT, persyaratan, perekrutan, teknologi, keterampilan, komitmen
 
 == Ikhtisar
-Langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Persyaratan ini dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
+Langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
+
+[quote]
+____
+Setiap individu adalah benih inovasi yang membutuhkan sinar matahari pagi dan air kesegaran untuk tumbuh dan mekar.
+____
 
 Pendekatan yang terarah dan suportif, COCONUT membuka pintu bagi mahasiswa yang bercita-cita menjadi bagian penting perkembangan nasional dan agen perubahan melalui teknologi.
 
 == Tujuan Persyaratan
-Persyaratan ini bertujuan untuk memastikan calon anggota memiliki dasar yang kuat untuk berkembang:
+Untuk memastikan calon anggota memiliki dasar yang kuat untuk berkembang:
 
 [cols="2,3",options="header"]
 |===
@@ -20,7 +25,7 @@ Persyaratan ini bertujuan untuk memastikan calon anggota memiliki dasar yang kua
 |===
 
 == Persyaratan Utama
-Berikut adalah persyaratan yang harus dipenuhi oleh calon anggota COCONUT:
+Persyaratan yang harus dipenuhi oleh calon anggota COCONUT:
 
 - **Kriteria Dasar**
   . Status sebagai mahasiswa aktif di perguruan tinggi yang diakui.
@@ -36,7 +41,7 @@ Berikut adalah persyaratan yang harus dipenuhi oleh calon anggota COCONUT:
   . Kepemilikan nilai-nilai kekeluargaan, inovasi, dan tanggung jawab sosial.
 
 == Proses Pemenuhan Persyaratan
-Proses ini dirancang untuk mengevaluasi dan mendampingi persyaratan calon anggota:
+Dirancang untuk mengevaluasi dan mendampingi persyaratan calon anggota:
 
 [cols="1,3,2",options="header"]
 |===
@@ -46,6 +51,31 @@ Proses ini dirancang untuk mengevaluasi dan mendampingi persyaratan calon anggot
 |*Wawancara* |Sesi wawancara untuk menilai motivasi dan keselarasan nilai. |Wawancara langsung atau daring.
 |*Evaluasi* |Penilaian oleh tim panitia berdasarkan hasil tes dan wawancara. |Rubrik penilaian terstruktur.
 |===
+
+== Proses Seleksi
+Alur kerja proses seleksi calon anggota COCONUT:
+
+[plantuml, format="svg"]
+....
+@startuml
+skinparam monochrome true
+skinparam shadowing false
+
+actor "Calon Anggota" as Calon
+
+participant "Panitia" as Panitia
+
+Calon -> Panitia: Mendaftar (Online/Offline)
+Panitia -> Calon: Konfirmasi Pendaftaran
+Calon -> Panitia: Mengikuti Tes Awal (Logika & MBTI)
+Panitia -> Calon: Hasil Tes Awal
+Calon -> Panitia: Mengikuti Wawancara
+Panitia -> Calon: Penilaian Akhir
+Panitia -> Calon: Pengumuman Hasil Seleksi
+Calon -> Panitia: Mengikuti Pembekalan Awal
+
+@enduml
+....
 
 == Dukungan untuk Calon Anggota
 COCONUT berkomitmen untuk mendampingi calon anggota selama proses:
@@ -75,16 +105,11 @@ COCONUT berkomitmen untuk mendampingi calon anggota selama proses:
 |===
 |Kategori |Indikator
 |*Kualitas Calon Anggota* | 80% calon anggota menunjukkan kemajuan dalam tes logika setelah pelatihan awal.  
- Tingkat keselarasan nilai ≥ 75% berdasarkan wawancara dan tes MBTI.
+Tingkat keselarasan nilai ≥ 75% berdasarkan wawancara dan tes MBTI.
 |*Partisipasi* | Tercapai target pendaftar minimal 50% dari kuota tahunan.  
-- Tingkat kehadiran ≥ 90% dalam sesi wawancara dan tes.
+Tingkat kehadiran ≥ 90% dalam sesi wawancara dan tes.
 |*Kesiapan Belajar* | 85% calon anggota menyatakan siap mengikuti pembekalan berdasarkan umpan balik.
 |===
-
-[quote, Visi Persyaratan COCONUT]
-____
-Setiap individu adalah benih inovasi yang membutuhkan sinar matahari pagi dan air kesegaran untuk tumbuh dan mekar.
-____
 
 == Penutup
 Persyaratan ini adalah langkah awal untuk membuka pintu menuju study club *COCONUT Computer Club* yang dinamis dan berorientasi pada pertumbuhan. Dengan pendekatan inklusif dan terstruktur, COCONUT berkomitmen membina calon anggota menjadi agen perubahan teknologi yang berkelanjutan.
@@ -94,4 +119,5 @@ Persyaratan ini adalah langkah awal untuk membuka pintu menuju study club *COCON
 **Komitmen COCONUT**  
 - Dukungan berkelanjutan melalui *mentoring program*.  
 - Peluang kolaborasi dengan proyek inovasi dan riset teknologi.  
+Membangun masa depan teknologi yang lebih cerdas dan humanis!
 ====
