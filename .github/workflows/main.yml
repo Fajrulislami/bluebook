@@ -23,14 +23,22 @@ jobs:
 
       - name: Debug build directory
         run: |
+          echo "Checking build directory in runner"
           ls -lR build
+          if [ -d "build/bluebook" ]; then echo "Subdirectory build/bluebook exists"; fi
+          if [ -d "build/bluebook/draft" ]; then echo "Subdirectory build/bluebook/draft exists"; fi
+          find build -type f -name "*.html"
 
       - name: Validate build structure
         run: |
-          if [ -f "build/index.html" ] && [ -f "build/404.html" ]; then
-            echo "Build valid"
+          echo "Validating expected files"
+          if [ -f "build/index.html" ] && [ -f "build/404.html" ] && [ -d "build/bluebook/draft" ]; then
+            echo "Build structure is valid (bluebook/draft)"
+          elif [ -f "build/index.html" ] && [ -f "build/404.html" ] && [ -d "build/draft" ]; then
+            echo "Build structure is valid (draft)"
           else
-            echo "Invalid build structure"
+            echo "Error: Expected build structure not found"
+            ls -lR build
             exit 1
           fi
 
@@ -47,9 +55,46 @@ jobs:
           name: bluebook-build
           path: build/
 
-      - name: Compress build to tarball
+      - name: Compress build directory
         run: |
-          tar -czf bluebook-build.tar.gz -C build .
+          echo "Compressing build to tarball"
+          if [ -d "build/bluebook" ]; then
+            tar -czf bluebook-build.tar.gz -C build/bluebook .
+          else
+            tar -czf bluebook-build.tar.gz -C build .
+          fi
+          ls -lh bluebook-build.tar.gz
+
+      - name: Debug secrets
+        run: |
+          echo "VPS_HOST is set: ${{ secrets.VPS_HOST != '' }}"
+          echo "VPS_USERNAME is set: ${{ secrets.VPS_USERNAME != '' }}"
+          echo "VPS_SSH_KEY is set: ${{ secrets.VPS_SSH_KEY != '' }}"
+          echo "VPS_SSH_PORT is set: ${{ secrets.VPS_SSH_PORT != '' }}"
+
+      - name: Test SSH connectivity
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            whoami
+            hostname
+            netstat -tuln | grep :${{ secrets.VPS_SSH_PORT }}
+
+      - name: Prepare VPS directories
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            rm -rf /home/gusdur/bluebook-coconut/build
+            mkdir -p /home/gusdur/bluebook-coconut/build
+            chmod 755 /home/gusdur/bluebook-coconut/build
 
       - name: Upload tarball to VPS
         uses: appleboy/scp-action@v0.1.4
@@ -61,7 +106,7 @@ jobs:
           source: bluebook-build.tar.gz
           target: /home/gusdur/bluebook-coconut/
 
-      - name: Extract and prepare build on VPS
+      - name: Extract tarball on VPS
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
@@ -69,14 +114,11 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Extracting tarball"
-            rm -rf /home/gusdur/bluebook-coconut/build
-            mkdir -p /home/gusdur/bluebook-coconut/build
             tar -xzf /home/gusdur/bluebook-coconut/bluebook-build.tar.gz -C /home/gusdur/bluebook-coconut/build/
             rm /home/gusdur/bluebook-coconut/bluebook-build.tar.gz
             ls -l /home/gusdur/bluebook-coconut/build
 
-      - name: Validate deployment files
+      - name: Move build to web directory
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
@@ -84,27 +126,29 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Checking if coconut-draft-inesa.html exists"
-            if [ -f "/home/gusdur/bluebook-coconut/build/bluebook/draft/coconut-draft-inesa.html" ]; then
-              echo "File exists, continue deployment"
-            else
-              echo "ERROR: Target HTML not found"
-              exit 1
-            fi
-
-      - name: Deploy to /var/www/html/build
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          script: |
-            echo "Deploying to /var/www/html/build"
             sudo rm -rf /var/www/html/build
             sudo cp -r /home/gusdur/bluebook-coconut/build /var/www/html/build
             sudo chown -R www-data:www-data /var/www/html/build
             sudo chmod -R 755 /var/www/html/build
+            ls -la /var/www/html/build
+
+      - name: Finalize deployment
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            echo "Finalizing deployment"
+            ls -l /var/www/html/build/bluebook/draft
+            if [ -f "/var/www/html/build/bluebook/draft/coconut-draft-inesa.html" ]; then
+              echo "Deployment validated: coconut-draft-inesa.html exists"
+            else
+              echo "Error: Deployment failed, coconut-draft-inesa.html not found"
+              exit 1
+            fi
+            echo "Deployment completed"
 
       - name: Auto-deploy to live directory
         uses: appleboy/ssh-action@v1.0.3
@@ -114,9 +158,9 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Auto-deploying to /var/www/html"
+            echo "Deploying to live directory /var/www/html"
             sudo rm -rf /var/www/html/*
             sudo cp -r /var/www/html/build/* /var/www/html/
             sudo chown -R www-data:www-data /var/www/html
             sudo chmod -R 755 /var/www/html
-            echo "Live deploy done"
+            ls -la /var/www/html
