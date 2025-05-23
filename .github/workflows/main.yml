@@ -105,6 +105,9 @@ jobs:
           port: ${{ secrets.VPS_SSH_PORT }}
           source: bluebook-build.tar.gz
           target: /home/gusdur/bluebook-coconut/
+          debug: true
+          timeout: 60s
+          command_timeout: 60s
 
       - name: Extract tarball on VPS
         uses: appleboy/ssh-action@v1.0.3
