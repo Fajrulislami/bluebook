@@ -1,4 +1,4 @@
-= Interview
+== Interview
 :navtitle: Now Open - Interview
 :description: Interview process for COCONUT recruitment
 :keywords: COCONUT, recruitment, interview, membership
@@ -6,8 +6,43 @@
 == Overview
 The *Interview* section explains the interview stage of COCONUT's recruitment process, where candidates are evaluated for their fit with the community.
 
-== Details
-[NOTE]
-This section is under development. Details about interview formats, questions, and preparation tips will be added soon.
+== Latar Belakang
+Di tengah perkembangan teknologi yang sangat pesat, generasi muda dituntut untuk tidak hanya menjadi pengguna pasif, tetapi juga memiliki dorongan kuat untuk memahami, menciptakan, dan berinovasi melalui solusi digital. Dalam konteks ini, motivasi internal dan keselarasan nilai menjadi aspek penting yang menentukan keberhasilan individu dalam berproses dan berkontribusi di lingkungan teknologi yang dinamis.
 
-Check back for updates on how to excel in COCONUT's interviews.
+COCONUT Computer Club hadir sebagai komunitas pembelajar yang terbuka dan kolaboratif, yang mendorong anggotanya untuk berkembang secara intelektual maupun emosional. Guna memastikan bahwa calon anggota sejalan dengan semangat komunitas ini, kami menyelenggarakan sesi wawancara sebagai bagian penting dari proses rekrutmen.
+
+Wawancara ini dirancang untuk menggali tiga dimensi utama:
+- *Motivasi pribadi*, yang mencerminkan alasan, semangat, dan tujuan individu dalam bergabung serta berproses di COCONUT;
+- *Keselarasan nilai*, untuk memahami sejauh mana prinsip dan pandangan individu sesuai dengan budaya organisasi seperti kolaborasi, keingintahuan, dan semangat belajar;
+- *Komitmen terhadap pembelajaran jangka panjang*, sebagai indikator kesiapan untuk berperan aktif dalam proyek, pelatihan, dan dinamika komunitas teknologi.
+
+Melalui wawancara ini, COCONUT tidak hanya mengevaluasi kesiapan kandidat, tetapi juga membangun jembatan awal untuk membentuk hubungan yang saling mendukung antara anggota dan komunitas. Dengan begitu, setiap individu yang diterima dapat berkembang secara utuh, memiliki arah yang jelas, serta memberi dampak positif dalam proses belajar bersama.
+
+== Tujuan
+- *Mengidentifikasi Motivasi dan Ketertarikan terhadap Teknologi:* Memahami alasan dan minat utama calon anggota dalam bidang teknologi, seperti pemrograman, desain digital, maupun inovasi berbasis solusi komputasional.
+- *Menilai Kemampuan Berpikir Kritis dan Pendekatan Terhadap Masalah:* Mengamati cara calon anggota merespons situasi atau tantangan, serta bagaimana mereka menganalisis dan memecahkan permasalahan secara logis dan sistematis.
+- *Memahami Kepribadian dan Nilai Pribadi (MBTI sebagai Referensi):* Mengeksplorasi karakter, gaya komunikasi, serta nilai-nilai personal yang mempengaruhi cara individu bekerja dalam tim dan beradaptasi di lingkungan kolaboratif.
+- *Mengukur Kesiapan Beradaptasi dan Belajar di Lingkungan Inklusif:* Menilai keterbukaan calon anggota terhadap pengalaman baru, kesiapan untuk belajar dari dasar, serta kemampuan berinteraksi dalam komunitas yang suportif dan inklusif.
+- *Menilai Potensi Kontribusi Nyata dalam Kegiatan Organisasi:* Mengetahui sejauh mana calon anggota memahami visi misi COCONUT dan kesiapan mereka untuk terlibat dalam proyek nyata, seperti pelatihan digital, pengembangan teknologi masyarakat, maupun riset kolaboratif.
+
+== Output yang Diharapkan
+- *Identifikasi Calon Anggota yang Termotivasi dan Sevisi:* Terseleksinya individu yang menunjukkan motivasi kuat untuk berkembang di bidang teknologi serta memiliki visi dan semangat yang sejalan dengan nilai-nilai kolaboratif, inklusif, dan progresif COCONUT.
+- *Pemahaman Mendalam tentang Nilai dan Kepribadian:* Diperolehnya gambaran awal mengenai nilai-nilai pribadi, gaya komunikasi, dan kepribadian calon anggota (mengacu pada MBTI) sebagai dasar dalam penempatan peran serta pengembangan budaya tim yang selaras.
+- *Penilaian Kesiapan Berkontribusi dalam Komunitas:* Terdeteksinya kesiapan mental dan emosional calon anggota untuk belajar dari dasar, berkolaborasi, serta berkontribusi dalam proyek-proyek sosial dan teknologi yang dijalankan oleh komunitas.
+- *Penguatan Budaya Organisasi Melalui Rekrutmen Berkualitas:* Terpilihnya anggota baru yang tidak hanya memiliki potensi teknis, tetapi juga karakter dan motivasi yang mendukung terbentuknya budaya organisasi yang sehat, produktif, dan berkelanjutan.
+
+== Indikator Keberhasilan
+- *Identifikasi Calon Anggota yang Sevisi dan Termotivasi:* Terseleksinya peserta yang menunjukkan motivasi intrinsik yang kuat, pemahaman akan visi organisasi, serta keselarasan nilai pribadi dengan budaya kolaboratif dan semangat belajar COCONUT.
+- *Kedalaman dan Kejelasan Respons dalam Wawancara:* Calon anggota mampu memberikan jawaban yang reflektif, jelas, dan relevan terhadap pertanyaan wawancara, menunjukkan kedewasaan berpikir serta kesiapan untuk berkembang dalam komunitas.
+- *Antusiasme dan Komitmen terhadap Proses:* Tingginya tingkat antusiasme peserta dalam mengikuti sesi wawancara, terlihat dari kesiapan, keterlibatan aktif, serta komitmen untuk melanjutkan ke tahapan pembinaan dan keanggotaan.
+- *Kesesuaian antara Nilai Pribadi dan Budaya Organisasi:* Adanya kecocokan yang nyata antara karakter, gaya komunikasi, dan nilai-nilai peserta dengan prinsip inklusivitas, kolaborasi, dan kontribusi aktif yang dijunjung dalam COCONUT.
+- *Relevansi Hasil Wawancara terhadap Performa Selanjutnya:* Ditemukannya korelasi positif antara hasil wawancara dan keterlibatan nyata peserta dalam kegiatan komunitas selanjutnya, seperti pelatihan, pengembangan proyek, atau kolaborasi tim.
+
+== Penutup
+
+Sesi wawancara ini bukan sekadar proses seleksi formal, tetapi merupakan kesempatan untuk lebih mengenal motivasi, nilai-nilai pribadi, dan semangat kontribusi dari masing-masing calon anggota. Melalui percakapan yang mendalam, *COCONUT Computer Club* berharap dapat menggali potensi tersembunyi sekaligus memahami sejauh mana calon anggota selaras dengan budaya kolaboratif dan semangat belajar komunitas ini.
+
+Kami meyakini bahwa *motivasi yang tulus* dan *nilai yang sejalan* adalah fondasi penting bagi kontribusi yang berkelanjutan. Dengan wawancara ini, kami tidak hanya menilai kesiapan untuk bergabung, tetapi juga membangun awal dari perjalanan kolaboratif yang bermakna — di mana setiap individu dapat tumbuh menjadi *pelajar teknologi yang berintegritas, empatik*, dan *siap berdampak nyata* bagi komunitas dan masyarakat.
+
+[NOTE]
+Kami menyambut dengan tangan terbuka mereka yang datang dengan niat belajar, semangat berbagi, dan tekad untuk tumbuh bersama.
