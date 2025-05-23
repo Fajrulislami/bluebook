@@ -1,13 +1,61 @@
-= Test
-:navtitle: Now Open - Test
-:description: Testing stage for COCONUT recruitment
-:keywords: COCONUT, recruitment, test, membership
+= Tes Tertulis
+:navtitle: Tes Tertulis - COCONUT
+:description: Tahapan pengujian dalam proses rekrutmen anggota COCONUT Computer Club
+:keywords: COCONUT, rekrutmen, tes, keanggotaan, teknologi, MBTI
 
-== Overview
-The *Test* section describes the testing phase of COCONUT's recruitment, assessing candidates' technical and problem-solving skills.
+== Ikhtisar
+Bagian *Tes Tertulis* menjelaskan tahapan pengujian dalam proses rekrutmen anggota COCONUT Computer Club, yang bertujuan menilai kemampuan teknis, logika, dan kepribadian calon anggota.
 
-== Details
-[NOTE]
-This section is under development. Information about test formats, topics, and evaluation criteria will be added soon.
+== Latar Belakang
+Di tengah perkembangan teknologi yang sangat pesat, generasi muda dituntut untuk tidak hanya menjadi pengguna pasif, tetapi juga mampu memahami, menciptakan, dan berinovasi melalui solusi digital. Untuk itu, dibutuhkan individu yang memiliki kemampuan berpikir logis, potensi dalam bidang teknologi, serta karakter yang kuat dan mampu berkolaborasi.
 
-Check back for updates on how to prepare for COCONUT's tests.
+COCONUT Computer Club hadir sebagai wadah bagi para pemula maupun calon talenta digital untuk berkembang melalui ekosistem belajar yang terstruktur dan kolaboratif. Dalam rangka merekrut anggota baru, kami menyelenggarakan tes tertulis sebagai langkah awal untuk mengenali lebih dalam potensi dan karakter masing-masing calon anggota.
+
+Tes ini dirancang untuk mengukur tiga aspek penting:
+- *Logika dan pemecahan masalah* — sebagai indikator kemampuan analitis dan berpikir sistematis;
+- *Potensi teknologi* — untuk menilai ketertarikan dan kesiapan dasar dalam bidang teknologi informasi;
+- *Kepribadian (MBTI)* — guna memahami gaya belajar, cara berinteraksi, serta posisi ideal dalam tim atau proyek kolaboratif.
+
+Melalui hasil tes ini, COCONUT tidak hanya menyeleksi, tetapi juga menyusun pendekatan pembelajaran yang sesuai dengan kebutuhan dan kekuatan tiap individu. Dengan begitu, proses pengembangan diri dapat berlangsung lebih efektif, inklusif, dan progresif sejak langkah awal bergabung dalam komunitas ini.
+
+== Tujuan
+Tes tertulis ini disusun dengan tujuan untuk:
+
+- *Mengidentifikasi Potensi Awal di Bidang Teknologi*: Mengukur pemahaman dasar dan ketertarikan calon anggota terhadap bidang teknologi, seperti pemrograman, desain, dan logika berpikir komputasional.
+- *Menilai Kemampuan Logika dan Pemecahan Masalah*: Menyaring calon anggota dengan kemampuan berpikir kritis dan sistematis sebagai pondasi penting dalam pembelajaran teknologi dan pengembangan solusi.
+- *Memahami Kepribadian dan Gaya Belajar (MBTI)*: Menggali karakter, cara berinteraksi, serta preferensi kerja individu untuk mendukung penempatan peran yang sesuai dalam tim dan proyek kolaboratif.
+- *Mendorong Kesiapan Belajar dalam Lingkungan Inklusif*: Menilai kesiapan calon anggota untuk belajar dari dasar dan berkembang dalam komunitas yang terbuka, suportif, dan berorientasi pada kolaborasi.
+- *Mempersiapkan Kontributor yang Siap Terlibat Aktif*: Menyusun strategi pengembangan anggota berdasarkan hasil tes, agar mereka siap berkontribusi dalam proyek nyata organisasi seperti pengembangan teknologi untuk masyarakat, pelatihan digital, dan riset terapan.
+
+== Output yang Diharapkan
+
+= Identifikasi Calon Anggota yang Tepat
+Terseleksinya individu dengan potensi logika yang baik, minat kuat di bidang teknologi, dan kepribadian yang sesuai dengan semangat kolaboratif COCONUT, sebagai dasar untuk proses pengembangan selanjutnya.
+
+= Pemetaan Awal Gaya Belajar dan Peran
+Diperolehnya gambaran awal mengenai preferensi belajar dan karakteristik kepribadian (berdasarkan MBTI) untuk membantu penempatan peran dalam tim serta perencanaan pendekatan belajar yang lebih efektif dan personal.
+
+= Perencanaan Program Pengembangan yang Terarah
+Tersusunnya strategi pembelajaran dan pelatihan berdasarkan hasil tes, sehingga proses onboarding dan pendampingan bagi anggota baru dapat dilakukan secara bertahap, progresif, dan sesuai kebutuhan.
+
+= Penguatan Proses Regenerasi Organisasi
+Terbangunnya pondasi kuat bagi regenerasi anggota melalui seleksi yang mempertimbangkan potensi teknis maupun kesiapan karakter, guna menjamin keberlanjutan kontribusi dalam proyek, pelatihan, dan inovasi teknologi di masa depan.
+
+== Indikator Keberhasilan
+
+= Identifikasi Calon Anggota Berkualitas
+Terseleksinya peserta yang menunjukkan kemampuan logika yang baik, potensi dalam bidang teknologi, serta karakter dan kepribadian yang selaras dengan nilai-nilai kolaboratif organisasi, berdasarkan hasil tes tertulis.
+
+= Akurasi dan Relevansi Hasil Tes
+Hasil tes memberikan gambaran awal yang akurat dan bermanfaat sebagai dasar untuk menyusun pendekatan pembinaan anggota baru sesuai dengan kebutuhan dan kekuatan masing-masing individu.
+
+= Keterlibatan Peserta dalam Proses Seleksi
+Tingginya jumlah peserta yang menyelesaikan tes tertulis dengan serius, disertai dengan antusiasme dan komitmen untuk melanjutkan ke tahap berikutnya dalam proses rekrutmen.
+
+= Korelasi Positif antara Hasil Tes dan Kinerja Selanjutnya
+Adanya keterkaitan yang jelas antara performa dalam tes tertulis dan partisipasi aktif dalam kegiatan lanjutan, seperti seminar, pengenalan organisasi, maupun proyek kolaboratif.
+
+== Penutup
+Tes tertulis ini bukan sekadar bentuk seleksi, tetapi merupakan langkah awal untuk mengenali potensi dan karakter masing-masing calon anggota secara lebih mendalam. Melalui pengukuran logika, minat teknologi, dan kepribadian, COCONUT Computer Club berharap dapat memberikan pengalaman awal yang bermakna sekaligus membangun pondasi untuk proses pembelajaran yang lebih terarah dan kolaboratif.
+
+Kami percaya bahwa setiap individu membawa kekuatan unik yang, jika diarahkan dengan baik, dapat menjadi kontribusi nyata dalam komunitas ini. Dengan semangat inklusif dan budaya belajar bersama, tes ini menjadi bagian penting dari upaya membentuk generasi pelajar teknologi yang cerdas secara intelektual, matang secara emosional, dan siap berperan aktif dalam proyek-proyek yang berdampak.
