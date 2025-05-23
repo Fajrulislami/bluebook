@@ -64,6 +64,9 @@ jobs:
           strip_components: 0
           overwrite: true
           debug: true
+          timeout: 120
+          command_timeout: 300
+
 
       # Pindahkan build ke direktori tujuan
       - name: Move build to web directory
