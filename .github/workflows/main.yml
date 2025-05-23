@@ -54,7 +54,7 @@ jobs:
 
       # Upload build ke VPS dengan rsync
       - name: Upload build to VPS via rsync
-        uses: burnett01/rsync-deployments@v2.0.0
+        uses: burnett01/rsync-deployments@v1.1.0
         with:
           switches: -avzr --progress
           path: ./build/
