@@ -1,5 +1,3 @@
-backup main.yml
-
 name: CI/CD for COCONUT Bluebook
 
 on:
