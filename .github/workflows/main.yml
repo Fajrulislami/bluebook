@@ -64,7 +64,7 @@ jobs:
           strip_components: 0
           overwrite: true
           debug: true
-          timeout: 120
+          timeout: 120s
           command_timeout: 300
 
 
