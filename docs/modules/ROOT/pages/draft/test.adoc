@@ -1,4 +1,4 @@
-= Tes Tertulis
+== Tes Tertulis
 :navtitle: Tes Tertulis - COCONUT
 :description: Tahapan pengujian dalam proses rekrutmen anggota COCONUT Computer Club
 :keywords: COCONUT, rekrutmen, tes, keanggotaan, teknologi, MBTI
@@ -29,24 +29,24 @@ Tes tertulis ini disusun dengan tujuan untuk:
 
 == Output yang Diharapkan
 
-= Identifikasi Calon Anggota yang Tepat
+== Identifikasi Calon Anggota yang Tepat
 Terseleksinya individu dengan potensi logika yang baik, minat kuat di bidang teknologi, dan kepribadian yang sesuai dengan semangat kolaboratif COCONUT, sebagai dasar untuk proses pengembangan selanjutnya.
 
-= Pemetaan Awal Gaya Belajar dan Peran
+== Pemetaan Awal Gaya Belajar dan Peran
 Diperolehnya gambaran awal mengenai preferensi belajar dan karakteristik kepribadian (berdasarkan MBTI) untuk membantu penempatan peran dalam tim serta perencanaan pendekatan belajar yang lebih efektif dan personal.
 
-= Perencanaan Program Pengembangan yang Terarah
+== Perencanaan Program Pengembangan yang Terarah
 Tersusunnya strategi pembelajaran dan pelatihan berdasarkan hasil tes, sehingga proses onboarding dan pendampingan bagi anggota baru dapat dilakukan secara bertahap, progresif, dan sesuai kebutuhan.
 
-= Penguatan Proses Regenerasi Organisasi
+== Penguatan Proses Regenerasi Organisasi
 Terbangunnya pondasi kuat bagi regenerasi anggota melalui seleksi yang mempertimbangkan potensi teknis maupun kesiapan karakter, guna menjamin keberlanjutan kontribusi dalam proyek, pelatihan, dan inovasi teknologi di masa depan.
 
 == Indikator Keberhasilan
 
-= Identifikasi Calon Anggota Berkualitas
+== Identifikasi Calon Anggota Berkualitas
 Terseleksinya peserta yang menunjukkan kemampuan logika yang baik, potensi dalam bidang teknologi, serta karakter dan kepribadian yang selaras dengan nilai-nilai kolaboratif organisasi, berdasarkan hasil tes tertulis.
 
-= Akurasi dan Relevansi Hasil Tes
+== Akurasi dan Relevansi Hasil Tes
 Hasil tes memberikan gambaran awal yang akurat dan bermanfaat sebagai dasar untuk menyusun pendekatan pembinaan anggota baru sesuai dengan kebutuhan dan kekuatan masing-masing individu.
 
 = Keterlibatan Peserta dalam Proses Seleksi
