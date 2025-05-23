@@ -10,36 +10,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repositori
+      # Checkout repository
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # Bersihkan cache dan build
+      # Clean cache and build
       - name: Clean cache and build
         run: |
           rm -rf .cache build
-
-      # Build dengan Antora
+          
+      # Build with Antora
       - name: Build with Antora
         run: |
           docker run -u $(id -u) -v $PWD:/antora:Z --rm -t antora/antora --cache-dir=./.cache --stacktrace antora-playbook.yml
 
-      # Debug direktori build
+      # Debug build directory
       - name: Debug build directory
         run: |
           echo "Checking build directory in runner"
           ls -l build
           ls -l build/bluebook
 
-      # Debug secrets
-      - name: Debug secrets
+      # Setup SSH key for rsync
+      - name: Setup SSH Key
         run: |
-          echo "VPS_HOST is set: ${{ secrets.VPS_HOST != '' }}"
-          echo "VPS_USERNAME is set: ${{ secrets.VPS_USERNAME != '' }}"
-          echo "VPS_SSH_KEY is set: ${{ secrets.VPS_SSH_KEY != '' }}"
-          echo "VPS_SSH_PORT is set: ${{ secrets.VPS_SSH_PORT != '' }}"
+          mkdir -p ~/.ssh
+          echo "${{ secrets.VPS_SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          echo "Host ${{ secrets.VPS_HOST }}" >> ~/.ssh/config
+          echo "  User ${{ secrets.VPS_USERNAME }}" >> ~/.ssh/config
+          echo "  Port ${{ secrets.VPS_SSH_PORT }}" >> ~/.ssh/config
+          echo "  StrictHostKeyChecking no" >> ~/.ssh/config
+          cat ~/.ssh/config
 
-      # Persiapkan direktori di VPS
+      # Prepare VPS directory
       - name: Prepare VPS
         uses: appleboy/ssh-action@v1.0.3
         with:
@@ -48,19 +52,18 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Preparing temporary directory"
+            echo "Preparing directory"
             rm -rf /home/gusdur/bluebook/build
             mkdir -p /home/gusdur/bluebook
 
-      # Upload build ke VPS dengan rsync
+      # Upload build using rsync
       - name: Upload build to VPS via rsync
         run: |
-          rsync -avz -e "ssh -i ~/.ssh/id_rsa -p ${{ secrets.VPS_SSH_PORT }} -o StrictHostKeyChecking=no" \
+          rsync -avz --delete --progress \
+            -e "ssh -o StrictHostKeyChecking=no" \
             ./build/ ${{ secrets.VPS_USERNAME }}@${{ secrets.VPS_HOST }}:/home/gusdur/bluebook/build/
-        env:
-          RSYNC_RSH: ssh
 
-      # Pindahkan build ke direktori tujuan
+      # Move to web directory
       - name: Move build to web directory
         uses: appleboy/ssh-action@v1.0.3
         with:
@@ -71,11 +74,11 @@ jobs:
           script: |
             echo "Moving build to /var/www/html"
             rm -rf /var/www/html/*
-            cp -r /home/gusdur/bluebook/* /var/www/html/
+            cp -r /home/gusdur/bluebook/build/* /var/www/html/
             chmod -R 755 /var/www/html
             ls -la /var/www/html
 
-      # Finalisasi deployment
+      # Finalize deployment
       - name: Finalize deployment
         uses: appleboy/ssh-action@v1.0.3
         with:
@@ -84,6 +87,6 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Finalizing deployment"
-            ls -l /var/www/html/bluebook
+            echo "Final checks"
+            ls -l /var/www/html
             echo "Deployment completed"
