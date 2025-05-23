@@ -65,7 +65,7 @@ jobs:
           overwrite: true
           debug: true
           timeout: 120s
-          command_timeout: 300
+          command_timeout: 300s
 
 
       # Pindahkan build ke direktori tujuan
