@@ -38,6 +38,6 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
 - Syahrul Ramadhan 
 
 == Bluebook Version
-Bluebook — Versi 25.1.1
+Bluebook v25.1.1
 
 Telusuri bagian-bagian ini untuk memahami bagaimana COCONUT mengelola kegiatannya, mulai dari perekrutan, pembelajaran, hingga rapat strategis, semua demi menciptakan dampak yang berkelanjutan untuk masyarakat.
