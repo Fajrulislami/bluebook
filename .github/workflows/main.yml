@@ -18,16 +18,19 @@ jobs:
       - name: Clean cache and build
         run: |
           rm -rf .cache build
+
       # Build dengan Antora
       - name: Build with Antora
         run: |
           docker run -u $(id -u) -v $PWD:/antora:Z --rm -t antora/antora --cache-dir=./.cache --stacktrace antora-playbook.yml
+
       # Debug direktori build
       - name: Debug build directory
         run: |
           echo "Checking build directory in runner"
           ls -l build
-          ls -l build/component-b
+          ls -l build/bluebook  # Diubah dari component-b ke bluebook
+
       # Debug secrets
       - name: Debug secrets
         run: |
@@ -35,6 +38,7 @@ jobs:
           echo "VPS_USERNAME is set: ${{ secrets.VPS_USERNAME != '' }}"
           echo "VPS_SSH_KEY is set: ${{ secrets.VPS_SSH_KEY != '' }}"
           echo "VPS_SSH_PORT is set: ${{ secrets.VPS_SSH_PORT != '' }}"
+
       # Persiapkan direktori di VPS
       - name: Prepare VPS
         uses: appleboy/ssh-action@v1.0.3
@@ -46,6 +50,7 @@ jobs:
           script: |
             echo "Preparing temporary directory"
             rm -rf /home/gusdur/bluebook/build
+
       # Unggah artefak build ke VPS
       - name: Upload build to VPS
         uses: appleboy/scp-action@v0.1.4
@@ -69,12 +74,12 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Moving build to /var/www/html/build"
-            rm -rf /var/www/html/build
-            cp -r /home/gusdur/bluebook/build /var/www/html/
-            chmod -R 755 /var/www/html/build
-            ls -la /var/www/html/build
-            rm -rf /home/gusdur/tmp
+            echo "Moving build to /var/www/html"
+            rm -rf /var/www/html/*
+            cp -r /home/gusdur/bluebook/build/* /var/www/html/
+            chmod -R 755 /var/www/html
+            ls -la /var/www/html
+
       # Finalisasi deployment
       - name: Finalize deployment
         uses: appleboy/ssh-action@v1.0.3
@@ -85,5 +90,5 @@ jobs:
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
             echo "Finalizing deployment"
-            ls -l /var/www/html/build/component-b
+            ls -l /var/www/html/bluebook
             echo "Deployment completed"
