@@ -34,7 +34,7 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
 == Author
 - Abd Rahman
 - Nurman Awaluddin
-- Andi Resky Amaliah
+- Rezky Amaliah Rusli
 - Syahrul Ramadhan 
 
 == Bluebook Version
