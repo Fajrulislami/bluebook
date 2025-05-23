@@ -29,7 +29,7 @@ jobs:
         run: |
           echo "Checking build directory in runner"
           ls -l build
-          ls -l build/bluebook  # Diubah dari component-b ke bluebook
+          ls -l build/bluebook
 
       # Debug secrets
       - name: Debug secrets
@@ -50,23 +50,19 @@ jobs:
           script: |
             echo "Preparing temporary directory"
             rm -rf /home/gusdur/bluebook/build
+            mkdir -p /home/gusdur/bluebook
 
-      # Unggah artefak build ke VPS
-      - name: Upload build to VPS
-        uses: appleboy/scp-action@v0.1.4
+      # Upload build ke VPS dengan rsync
+      - name: Upload build to VPS via rsync
+        uses: burnett01/rsync-deployments@v2.0.0
         with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          source: "build"
-          target: "/home/gusdur/bluebook"
-          strip_components: 0
-          overwrite: true
-          debug: true
-          timeout: 120s
-          command_timeout: 300s
-
+          switches: -avzr --progress
+          path: ./build/
+          remote_path: /home/gusdur/bluebook/
+          remote_host: ${{ secrets.VPS_HOST }}
+          remote_user: ${{ secrets.VPS_USERNAME }}
+          remote_key: ${{ secrets.VPS_SSH_KEY }}
+          remote_port: ${{ secrets.VPS_SSH_PORT }}
 
       # Pindahkan build ke direktori tujuan
       - name: Move build to web directory
@@ -79,7 +75,7 @@ jobs:
           script: |
             echo "Moving build to /var/www/html"
             rm -rf /var/www/html/*
-            cp -r /home/gusdur/bluebook/build/* /var/www/html/
+            cp -r /home/gusdur/bluebook/* /var/www/html/
             chmod -R 755 /var/www/html
             ls -la /var/www/html
 
