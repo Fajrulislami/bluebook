@@ -32,7 +32,7 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
   ** xref:draft/triwulan.adoc[Triwulan]
 
 == Author
-- Abd Rahman
+- Abd Rahman Wahid
 - Nurman Awaluddin
 - Rezky Amaliah Rusli
 - Syahrul Ramadhan 
