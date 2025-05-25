@@ -20,13 +20,7 @@ ____
 |*Mendorong Adaptasi Dinamis* |Menyesuaikan materi dengan kebutuhan kontemporer untuk relevansi berkelanjutan.
 |===
 
-== Prosesi Simbolis
-Setelah On-Boarding resmi, prosesi simbolis *Pembersihan* dilaksanakan untuk menandai transisi anggota baru ke study club COCONUT. Dalam tradisi intelektual dan kultural, *Pembersihan* melambangkan pemurnian komitmen dan pengabdian, di mana anggota baru "mencuci" diri dari ketidakpastian masa lalu dengan memotong serpihan rambut dan menyimpan di dalam kelapa — simbol kesuburan, kebersamaan, dan keberlanjutan. Proses ini mencakup:
-- **Simbolis Pembersihan**: Pemotongan serpihan rambut anggota baru yang disimpan di dalam kelapa.
-- **Pemasangan PDH**: Menandakan identitas baru sebagai bagian dari COCONUT.
-- **Refleksi Bersama**: Anggota baru berbagi komitmen pribadi di hadapan komunitas.
-
-== Materi Pendidikan
+== Materi (Content)
 Materi dirancang untuk membentuk struktur dasar calon anggota, dengan fleksibilitas untuk pembaruan berkala:
 
 - **Wajib (Struktur Dasar)**:
@@ -37,6 +31,11 @@ Materi dirancang untuk membentuk struktur dasar calon anggota, dengan fleksibili
   . *Brain Engineering*: 90 menit, teknik pemecahan masalah kompleks (Pemateri).
 
 Materi fleksibel dapat disesuaikan setiap periode berdasarkan kebutuhan kontemporer, seperti tren terbaru atau proyek komunitas terbaru.
+
+== Games Interaktif
+- *Grab the Bottle Game*: Meningkatkan kerja sama tim.
+- *Tebak Gambar*: Mengasah kreativitas dan komunikasi.
+- *Permainan Lego*: Filosofi atomisme (segala sesuatu dibentuk dan disatukan dari "atom" kecil).
 
 == Pengalaman Transformasional (GET)
 Pengalaman GET (Growth, Empowerment, Transformation) dirancang sebagai perjalanan intelektual dan emosional melalui lima tahap, masing-masing dengan suasana, tantangan, dan refleksi:
@@ -74,10 +73,12 @@ Setiap GET dilengkapi kepingan Lego sebagai simbol progresi, disimpan dengan bai
 [NOTE]
 Nama, Suasana, dan Jumlah tiap GET adalah sesuatu yang bersifat dinamis *(Update Periodik)*
 
-== Games Interaktif
-- *Grab the Bottle Game*: Meningkatkan kerja sama tim.
-- *Tebak Gambar*: Mengasah kreativitas dan komunikasi.
-- *Permainan Lego*: Filosofi atomisme (segala sesuatu dibentuk dan disatukan dari "atom" kecil).
+== Prosesi Simbolis
+Setelah On-Boarding resmi, prosesi simbolis *Pembersihan* dilaksanakan untuk menandai transisi anggota baru ke study club COCONUT. Dalam tradisi intelektual dan kultural, *Pembersihan* melambangkan pemurnian komitmen dan pengabdian, di mana anggota baru "pembersihan" membersihkan diri dari ketidakpastian masa lalu dengan memotong serpihan rambut dan menyimpan di dalam kelapa — simbol kesuburan, kebersamaan, dan keberlanjutan. Proses ini mencakup:
+- **Simbolis Pembersihan**: Pemotongan serpihan rambut anggota baru yang disimpan di dalam kelapa, lalu seluruh new member membawa kelapa menuju air mengalir.
+- **Pemasangan PDH**: Menandakan identitas baru sebagai bagian dari COCONUT.
+- **Refleksi Bersama**: Anggota baru berbagi komitmen pribadi di hadapan komunitas.
+
 
 == Indikator Keberhasilan
 [cols="2,3",options="header"]
