@@ -1,4 +1,4 @@
-== Now Open - Interview
+= Now Open - Interview
 :navtitle: Bluebook - Now Open - Interview
 :description: Proses interview untuk rekrutmen anggota COCONUT Computer Club
 :keywords: COCONUT, rekrutmen, interview, now open, teknologi, study club
