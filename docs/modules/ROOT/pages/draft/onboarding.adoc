@@ -75,6 +75,7 @@ Nama, Suasana, dan Jumlah tiap GET adalah sesuatu yang bersifat dinamis *(Update
 
 == Prosesi Simbolis
 Setelah On-Boarding resmi, prosesi simbolis *Pembersihan* dilaksanakan untuk menandai transisi anggota baru ke study club COCONUT. Dalam tradisi intelektual dan kultural, *Pembersihan* melambangkan pemurnian komitmen dan pengabdian, di mana anggota baru "pembersihan" membersihkan diri dari ketidakpastian masa lalu dengan memotong serpihan rambut dan menyimpan di dalam kelapa — simbol kesuburan, kebersamaan, dan keberlanjutan. Proses ini mencakup:
+
 - **Simbolis Pembersihan**: Pemotongan serpihan rambut anggota baru yang disimpan di dalam kelapa, lalu seluruh new member membawa kelapa menuju air mengalir.
 - **Pemasangan PDH**: Menandakan identitas baru sebagai bagian dari COCONUT.
 - **Refleksi Bersama**: Anggota baru berbagi komitmen pribadi di hadapan komunitas.
