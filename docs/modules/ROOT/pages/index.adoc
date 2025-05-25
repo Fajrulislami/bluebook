@@ -39,6 +39,6 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
 - Musdalipa
 
 == Bluebook Version
-Bluebook v25.0
+Bluebook - v25.0
 
 Telusuri bagian-bagian ini untuk memahami bagaimana COCONUT mengelola kegiatannya, mulai dari perekrutan, pembelajaran, hingga rapat strategis, semua demi menciptakan dampak yang berkelanjutan untuk masyarakat.
