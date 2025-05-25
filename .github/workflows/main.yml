@@ -5,42 +5,51 @@ on:
     branches:
       - main
 
+env:
+  DEPLOY_USER: ${{ secrets.VPS_USERNAME }}
+  VPS_DIR: "/home/${{ secrets.VPS_USERNAME }}/bluebook-deploy"
+  WEB_DIR: "/var/www/html/bluebook"
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repositori
-      - name: Checkout code
+      # 1. Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Bersihkan cache dan build
-      - name: Clean cache and build
+      # 2. Setup environment
+      - name: Setup environment
         run: |
-          rm -rf .cache build
+          sudo apt-get update -y
+          sudo apt-get install -y pigz rsync
 
-      # Build dengan Antora
-      - name: Build with Antora
+      # 3. Build with Antora
+      - name: Build documentation
         run: |
-          docker run -u $(id -u) -v $PWD:/antora:Z --rm -t antora/antora --cache-dir=./.cache --stacktrace antora-playbook.yml
+          docker run -u $(id -u) -v $PWD:/antora:Z --rm -t antora/antora \
+            --cache-dir=./.cache --stacktrace antora-playbook.yml
 
-      # Debug direktori build
-      - name: Debug build directory
+      # 4. Validate build
+      - name: Validate build structure
         run: |
-          echo "Checking build directory in runner"
-          ls -l build
-          ls -l build/bluebook  # Diubah dari component-b ke bluebook
+          if [ ! -f "build/bluebook/draft/coconut-draft-inesa.html" ]; then
+            echo "❌ Error: File target tidak ditemukan"
+            ls -R build
+            exit 1
+          fi
+          echo "✅ Struktur build valid"
 
-      # Debug secrets
-      - name: Debug secrets
+      # 5. Compress with checksum
+      - name: Package artifacts
         run: |
-          echo "VPS_HOST is set: ${{ secrets.VPS_HOST != '' }}"
-          echo "VPS_USERNAME is set: ${{ secrets.VPS_USERNAME != '' }}"
-          echo "VPS_SSH_KEY is set: ${{ secrets.VPS_SSH_KEY != '' }}"
-          echo "VPS_SSH_PORT is set: ${{ secrets.VPS_SSH_PORT != '' }}"
+          tar --use-compress-program=pigz -cf bluebook.tar.gz -C build .
+          sha256sum bluebook.tar.gz > checksum.txt
+          ls -lh bluebook.tar.gz
 
-      # Persiapkan direktori di VPS
-      - name: Prepare VPS
+      # 6. Prepare server (no sudo needed)
+      - name: Prepare server directory
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
@@ -48,28 +57,33 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Preparing temporary directory"
-            rm -rf /home/gusdur/bluebook/build
+            mkdir -p ${{ env.VPS_DIR }}
+            chmod 755 ${{ env.VPS_DIR }}
+            [ -w ${{ env.WEB_DIR }} ] || {
+              echo "❌ Error: Tidak memiliki write permission ke ${{ env.WEB_DIR }}";
+              exit 1;
+            }
 
-      # Unggah artefak build ke VPS
-      - name: Upload build to VPS
-        uses: appleboy/scp-action@v0.1.4
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          source: "build"
-          target: "/home/gusdur/bluebook"
-          strip_components: 0
-          overwrite: true
-          debug: true
-          timeout: 120s
-          command_timeout: 300s
+      # 7. Secure transfer with retry
+      - name: Transfer files
+        run: |
+          for i in {1..3}; do
+            echo "Attempt $i/3"
+            rsync -avz -e "ssh -p ${{ secrets.VPS_SSH_PORT }} -o StrictHostKeyChecking=no" \
+              --progress \
+              bluebook.tar.gz \
+              checksum.txt \
+              ${{ env.DEPLOY_USER }}@${{ secrets.VPS_HOST }}:${{ env.VPS_DIR }}/ && break
+            sleep 10
+          done
 
+          ssh -p ${{ secrets.VPS_SSH_PORT }} ${{ env.DEPLOY_USER }}@${{ secrets.VPS_HOST }} "
+            cd ${{ env.VPS_DIR }}
+            sha256sum -c checksum.txt || exit 1
+          "
 
-      # Pindahkan build ke direktori tujuan
-      - name: Move build to web directory
+      # 8. Deploy (no sudo)
+      - name: Deploy to production
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
@@ -77,21 +91,30 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Moving build to /var/www/html"
-            rm -rf /var/www/html/*
-            cp -r /home/gusdur/bluebook/build/* /var/www/html/
-            chmod -R 755 /var/www/html
-            ls -la /var/www/html
+            echo "Deploying to ${{ env.WEB_DIR }}..."
+            cd ${{ env.VPS_DIR }}
+            
+            # Extract
+            pigz -dc bluebook.tar.gz | tar xf - || exit 1
+            
+            # Sync files
+            rsync -av --delete --chown=www-data:www-data \
+              build/ ${{ env.WEB_DIR }}/
+            
+            # Verify
+            if [ -f "${{ env.WEB_DIR }}/bluebook/draft/coconut-draft-inesa.html" ]; then
+              echo "✅ Deployment successful!"
+              echo "Access URL: http://${{ secrets.VPS_HOST }}/bluebook/draft/coconut-draft-inesa.html"
+            else
+              echo "❌ Deployment failed - file not found"
+              exit 1
+            fi
+            
+            # Cleanup
+            rm -rf build bluebook.tar.gz checksum.txt
 
-      # Finalisasi deployment
-      - name: Finalize deployment
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          script: |
-            echo "Finalizing deployment"
-            ls -l /var/www/html/bluebook
-            echo "Deployment completed"
+      # 9. Post-deploy check
+      - name: Verify deployment
+        run: |
+          curl -sI "http://${{ secrets.VPS_HOST }}/bluebook/draft/coconut-draft-inesa.html" | \
+            grep "200 OK" || (echo "❌ Deployment verification failed"; exit 1)
