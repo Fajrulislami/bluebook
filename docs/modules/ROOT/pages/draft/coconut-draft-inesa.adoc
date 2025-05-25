@@ -1,5 +1,5 @@
 = INESA: Inovasi dan Edukasi Desa
-:navtitle: INESA
+:navtitle: Bluebook - INESA
 :description: Inisiatif INESA untuk transformasi digital pedesaan melalui teknologi dan edukasi
 :keywords: COCONUT, INESA, transformasi digital, IoT, AI, pemberdayaan desa, edukasi teknologi
 
@@ -106,4 +106,4 @@ Kegiatan INESA menyasar dua fokus utama:
 |===
 
 == Penutup
-INESA adalah gerakan kolektif yang meletakkan fondasi transformasi desa berbasis kemanusiaan dan teknologi dengan prinsip *“desa membangun desa”*. Teknologi menjadi kekuatan—bukan pengganti—nilai gotong-royong dan kearifan lokal.
+INESA adalah gerakan kolektif yang meletakkan fondasi transformasi desa berbasis kemanusiaan dan teknologi dengan prinsip *“COCONUT untuk masyarakat”*. Teknologi menjadi kekuatan—bukan pengganti—nilai gotong-royong dan kearifan lokal.
