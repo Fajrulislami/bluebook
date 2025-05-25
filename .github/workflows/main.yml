@@ -5,51 +5,54 @@ on:
     branches:
       - main
 
-env:
-  DEPLOY_USER: ${{ secrets.VPS_USERNAME }}
-  VPS_DIR: "/home/${{ secrets.VPS_USERNAME }}/bluebook-deploy"
-  WEB_DIR: "/var/www/html/bluebook"
-
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
-      # 1. Checkout code
-      - name: Checkout repository
+      # Checkout repositori
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      # 2. Setup environment
-      - name: Setup environment
-        run: |
-          sudo apt-get update -y
-          sudo apt-get install -y pigz rsync
+      # Setup SSH Agent dengan key dari secrets
+      - name: Add SSH Key
+        uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.VPS_SSH_KEY }}
 
-      # 3. Build with Antora
-      - name: Build documentation
+      # Test koneksi SSH sebelum deploy
+      - name: Test SSH Connection
         run: |
-          docker run -u $(id -u) -v $PWD:/antora:Z --rm -t antora/antora \
-            --cache-dir=./.cache --stacktrace antora-playbook.yml
+          ssh -o StrictHostKeyChecking=no \
+              -p ${{ secrets.VPS_SSH_PORT }} \
+              ${{ secrets.VPS_USERNAME }}@${{ secrets.VPS_HOST }} \
+              "echo '✅ SSH Connection Successful!'"
 
-      # 4. Validate build
-      - name: Validate build structure
+      # Bersihkan cache dan build
+      - name: Clean workspace
         run: |
-          if [ ! -f "build/bluebook/draft/coconut-draft-inesa.html" ]; then
-            echo "❌ Error: File target tidak ditemukan"
-            ls -R build
-            exit 1
-          fi
-          echo "✅ Struktur build valid"
+          rm -rf .cache build
 
-      # 5. Compress with checksum
-      - name: Package artifacts
+      # Build dengan Antora
+      - name: Build with Antora
         run: |
-          tar --use-compress-program=pigz -cf bluebook.tar.gz -C build .
-          sha256sum bluebook.tar.gz > checksum.txt
-          ls -lh bluebook.tar.gz
+          docker run -u $(id -u) \
+                 -v $PWD:/antora:Z \
+                 --rm -t antora/antora \
+                 --cache-dir=./.cache \
+                 --stacktrace \
+                 draft/antona-playbook.yml
 
-      # 6. Prepare server (no sudo needed)
-      - name: Prepare server directory
+      # Verifikasi hasil build
+      - name: Verify build output
+        run: |
+          echo "Build contents:"
+          ls -l build/site/
+          [ -f build/site/index.html ] || exit 1
+
+      # Deploy ke VPS
+      - name: Deploy to Production
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
@@ -57,33 +60,25 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            mkdir -p ${{ env.VPS_DIR }}
-            chmod 755 ${{ env.VPS_DIR }}
-            [ -w ${{ env.WEB_DIR }} ] || {
-              echo "❌ Error: Tidak memiliki write permission ke ${{ env.WEB_DIR }}";
-              exit 1;
-            }
+            echo "🔄 Starting Deployment..."
+            sudo rm -rf /var/www/html/build
+            sudo mkdir -p /var/www/html/build
+            echo "📁 Directory cleaned"
 
-      # 7. Secure transfer with retry
-      - name: Transfer files
-        run: |
-          for i in {1..3}; do
-            echo "Attempt $i/3"
-            rsync -avz -e "ssh -p ${{ secrets.VPS_SSH_PORT }} -o StrictHostKeyChecking=no" \
-              --progress \
-              bluebook.tar.gz \
-              checksum.txt \
-              ${{ env.DEPLOY_USER }}@${{ secrets.VPS_HOST }}:${{ env.VPS_DIR }}/ && break
-            sleep 10
-          done
+      - name: Upload files via SCP
+        uses: appleboy/scp-action@v0.1.4
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          source: "build/site/*"
+          target: "/var/www/html/build"
+          strip_components: 2
+          overwrite: true
 
-          ssh -p ${{ secrets.VPS_SSH_PORT }} ${{ env.DEPLOY_USER }}@${{ secrets.VPS_HOST }} "
-            cd ${{ env.VPS_DIR }}
-            sha256sum -c checksum.txt || exit 1
-          "
-
-      # 8. Deploy (no sudo)
-      - name: Deploy to production
+      # Final setup dan restart nginx
+      - name: Finalize Deployment
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
@@ -91,30 +86,12 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Deploying to ${{ env.WEB_DIR }}..."
-            cd ${{ env.VPS_DIR }}
+            echo "🔧 Setting permissions..."
+            sudo chown -R www-data:www-data /var/www/html/build
+            sudo chmod -R 755 /var/www/html/build
             
-            # Extract
-            pigz -dc bluebook.tar.gz | tar xf - || exit 1
+            echo "🔍 Verifying nginx config..."
+            sudo nginx -t && sudo systemctl restart nginx
             
-            # Sync files
-            rsync -av --delete --chown=www-data:www-data \
-              build/ ${{ env.WEB_DIR }}/
-            
-            # Verify
-            if [ -f "${{ env.WEB_DIR }}/bluebook/draft/coconut-draft-inesa.html" ]; then
-              echo "✅ Deployment successful!"
-              echo "Access URL: http://${{ secrets.VPS_HOST }}/bluebook/draft/coconut-draft-inesa.html"
-            else
-              echo "❌ Deployment failed - file not found"
-              exit 1
-            fi
-            
-            # Cleanup
-            rm -rf build bluebook.tar.gz checksum.txt
-
-      # 9. Post-deploy check
-      - name: Verify deployment
-        run: |
-          curl -sI "http://${{ secrets.VPS_HOST }}/bluebook/draft/coconut-draft-inesa.html" | \
-            grep "200 OK" || (echo "❌ Deployment verification failed"; exit 1)
+            echo "🚀 Deployment Successful!"
+            echo "🌐 Available at: http://${{ secrets.VPS_HOST }}/build"
