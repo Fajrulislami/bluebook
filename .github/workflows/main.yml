@@ -1,4 +1,4 @@
-name: CI/CD for Documentation
+name: CI/CD for COCONUT Bluebook
 
 on:
   push:
@@ -8,50 +8,82 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 30
 
     steps:
       # Checkout repositori
       - name: Checkout code
         uses: actions/checkout@v4
 
+      # Bersihkan cache dan build
+      - name: Clean workspace
+        run: |
+          rm -rf .cache build
+
+      # Build dengan Antora
+      - name: Build with Antora
+        run: |
+          docker run -u $(id -u) \
+                 -v $PWD:/antora:Z \
+                 --rm -t antora/antora:3.1.2 \
+                 --cache-dir=./.cache \
+                 --stacktrace \
+                 antora-playbook.yml
+
+      # Validasi hasil build
+      - name: Validate build output
+        run: |
+          echo "Build structure:"
+          ls -lR build/
+          
+          if [ -f "build/index.html" ] && [ -d "build/bluebook/draft" ]; then
+            echo "✅ Build validation passed"
+          else
+            echo "❌ Error: Invalid build structure"
+            exit 1
+          fi
+
+      # Simpan build sebagai artefak
+      - name: Archive build
+        uses: actions/upload-artifact@v4
+        with:
+          name: bluebook-build
+          path: build/
+          retention-days: 1
+
       # Setup SSH
-      - name: Add SSH Key
+      - name: Setup SSH
         uses: webfactory/ssh-agent@v0.9.0
         with:
           ssh-private-key: ${{ secrets.VPS_SSH_KEY }}
 
-      # Test SSH Connection
-      - name: Test SSH Connection
+      # Test koneksi SSH
+      - name: Test SSH connection
         run: |
           ssh -o StrictHostKeyChecking=no \
               -p ${{ secrets.VPS_SSH_PORT }} \
               ${{ secrets.VPS_USERNAME }}@${{ secrets.VPS_HOST }} \
-              "echo '✅ SSH Connection Successful!'"
+              "echo 'SSH connection successful'"
 
-      # Build dengan Antora (PATH DIPERBAIKI)
-      - name: Build with Antora
+      # Deploy menggunakan Rsync (VERSI DIPERBAIKI)
+      - name: Deploy with Rsync
         run: |
-          echo "Struktur direktori:"
-          ls -R
+          echo "Installing rsync..."
+          sudo apt-get update && sudo apt-get install -y rsync
           
-          docker run --rm -t \
-            -v $PWD:/antora \
-            -w /antora \
-            antora/antora:3.1.2 \
-            --cache-dir=.cache \
-            --stacktrace \
-            /antora/antora-playbook.yml
+          echo "Syncing build directory..."
+          rsync -avz --delete \
+            -e "ssh -p ${{ secrets.VPS_SSH_PORT }} -o StrictHostKeyChecking=no" \
+            build/ \
+            ${{ secrets.VPS_USERNAME }}@${{ secrets.VPS_HOST }}:/home/gusdur/bluebook-coconut/build/
+          
+          echo "Verifying transfer..."
+          ssh -p ${{ secrets.VPS_SSH_PORT }} \
+              ${{ secrets.VPS_USERNAME }}@${{ secrets.VPS_HOST }} \
+              "ls -l /home/gusdur/bluebook-coconut/build/bluebook/draft/"
 
-      # Verifikasi hasil build
-      - name: Verify build output
-        run: |
-          echo "Isi direktori build:"
-          ls -l build/site/
-          [ -f build/site/index.html ] || exit 1
-
-      # Deploy ke VPS
-      - name: Prepare VPS Directory
+      # Final deployment steps
+      - name: Finalize deployment
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
@@ -59,29 +91,23 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            sudo rm -rf /var/www/html/docs
-            sudo mkdir -p /var/www/html/docs
-
-      - name: Upload Documentation
-        uses: appleboy/scp-action@v0.1.4
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          source: "build/site/*"
-          target: "/var/www/html/docs"
-          overwrite: true
-
-      - name: Finalize Deployment
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ${{ secrets.VPS_USERNAME }}
-          key: ${{ secrets.VPS_SSH_KEY }}
-          port: ${{ secrets.VPS_SSH_PORT }}
-          script: |
-            sudo chown -R www-data:www-data /var/www/html/docs
-            sudo chmod -R 755 /var/www/html/docs
-            sudo nginx -t && sudo systemctl restart nginx
-            echo "🚀 Documentation deployed to: http://${{ secrets.VPS_HOST }}/docs"
+            echo "Moving to production..."
+            sudo rm -rf /var/www/html/build
+            sudo cp -r /home/gusdur/bluebook-coconut/build /var/www/html/
+            
+            echo "Setting permissions..."
+            sudo chown -R www-data:www-data /var/www/html/build
+            sudo find /var/www/html/build -type d -exec chmod 755 {} \;
+            sudo find /var/www/html/build -type f -exec chmod 644 {} \;
+            
+            echo "Validating deployment..."
+            if [ -f "/var/www/html/build/bluebook/draft/coconut-draft-inesa.html" ]; then
+              echo "✅ Deployment successful"
+              echo "🌐 Access at: http://${{ secrets.VPS_HOST }}/build"
+            else
+              echo "❌ Deployment failed - missing critical files"
+              exit 1
+            fi
+            
+            echo "Restarting nginx..."
+            sudo nginx -t && sudo systemctl reload nginx
