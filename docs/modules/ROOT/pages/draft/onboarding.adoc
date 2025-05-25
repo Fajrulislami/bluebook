@@ -30,7 +30,7 @@ Materi dirancang untuk membentuk struktur dasar calon anggota, dengan fleksibili
   . *Sektor Finansial, Energi, Kesehatan, Pendidikan, Infrastruktur*: Total 210 menit (masing-masing sektor sekitar 42 menit), eksplorasi teknologi dalam berbagai sektor untuk memberikan wawasan lintas disiplin (Pemateri).
   . *Brain Engineering*: 90 menit, teknik pemecahan masalah kompleks (Pemateri).
 
-Materi fleksibel dapat disesuaikan setiap periode berdasarkan kebutuhan kontemporer, seperti tren terbaru atau proyek komunitas terbaru.
+Materi fleksibel dapat disesuaikan setiap periode berdasarkan kebutuhan kontemporer, seperti tren terbaru atau proyek club terbaru.
 
 == Games Interaktif
 - *Grab the Bottle Game*: Meningkatkan kerja sama tim.
@@ -40,45 +40,27 @@ Materi fleksibel dapat disesuaikan setiap periode berdasarkan kebutuhan kontempo
 == Pengalaman Transformasional (GET)
 Pengalaman GET (Growth, Empowerment, Transformation) dirancang sebagai perjalanan intelektual dan emosional melalui lima tahap, masing-masing dengan suasana, tantangan, dan refleksi:
 
-- **GET I: Mitologi (Hitam)**  
-  . *Suasana*: Chaos kreatif dengan asap dan gantungan almamater tiap perguruan tinggi.  
-  . *Hafalan*: Pancasila, UUD 1945, Tujuan COCONUT.  
-  . *Tantangan*: Rancang "Dunia Baru" dalam 5 menit (5 poin).  
-  . *Stress Test* 
-
-- **GET II: Pra-Socrates (Abu-abu)**  
-  . *Suasana*: Perpustakaan intelektual dengan lilin dan buku.  
-  . *Hafalan*: Formula-formula dasar (e.g., rumus konversi byte > oktal > hexa > decimal, formula (sin, kos, tan), Satuan byte, etc), pengetahuan dasar, evaluasi materi pembelajaran.  
-  . *Tantangan*: 3 soal logika dan IT.  
-  . *Stress Test*
-
-- **GET III: Abad Pertengahan (Merah)**  
-  . *Suasana*: Perang dengan api unggun dan topeng.  
-  . *Hafalan*: 36 Point Art of War, Visi Misi COCONUT.  
-  . *Tantangan*: Strategi Perang Dunia III berdasarkan Sun Tzu.  
-  . *Stress Test* 
-
-- **GET IV: Renaisans (Kuning)**  
-  . *Suasana*: Ceria dengan musik abad renaisans dan wejangan.  
-  . *Tantangan*: Skenario loyalitas & solidaritas.  
-  . *Stress Test*
-
-- **GET V: Early Modern (Biru)**  
-  . *Suasana*: Renungan dengan teh hangat dan api unggun.  
-  . *Tantangan*: Susun Lego dari kepingan GET sebelumnya.  
-  . *Achievement*: Pemasangan PDH.  
-
-Setiap GET dilengkapi kepingan Lego sebagai simbol progresi, disimpan dengan baik, dan digunakan di GET V.
+[cols="1,2,2,2",options="header"]
+|===
+|Tahap |Suasana |Hafalan |Tantangan
+|GET I: Mitologi (Hitam) |Chaos kreatif dengan asap dan gantungan almamater perguruan tinggi. |Pancasila, UUD 1945, Tujuan COCONUT. |Rancang "Dunia Baru" dalam 5 menit (5 poin) + Stress Test.
+|GET II: Pra-Socrates (Abu-abu) |Perpustakaan intelektual dengan lilin dan buku. |Konversi byte (oktal, hexa, decimal), formula trigonometri (sin, cos, tan), satuan byte, jaringan komputer (kecepatan transfer, latency, throughput), kompleksitas waktu (Big-O), Fibonacci, faktorial, normalisasi basis data, relational algebra, paritas bit, Caesar Cipher, hukum Amdahl, rasio kompresi. |3 soal logika dan IT + Stress Test.
+|GET III: Abad Pertengahan (Merah) |Perang dengan api unggun dan topeng. |36 Point Art of War, Visi Misi COCONUT. |Menyusun strategi Perang Dunia Intelektual berdasarkan Sun Tzu + Stress Test.
+|GET IV: Renaisans (Kuning) |Ceria dengan musik renaisans dan wejangan. |- |Skenario loyalitas & solidaritas + Stress Test.
+|GET V: Early Modern (Biru) |Renungan dengan teh hangat dan api unggun. |- |Susun Lego dari kepingan GET sebelumnya + Pemasangan PDH.
+|===
 
 [NOTE]
-Nama, Suasana, dan Jumlah tiap GET adalah sesuatu yang bersifat dinamis *(Update Periodik)*
+====
+Nama, suasana, dan jumlah tahap GET bersifat dinamis dan dapat diperbarui setiap periode untuk menjaga relevansi dan kreativitas.
+====
 
 == Prosesi Simbolis
-Setelah On-Boarding resmi, prosesi simbolis *Pembersihan* dilaksanakan untuk menandai transisi anggota baru ke study club COCONUT. Dalam tradisi intelektual dan kultural, *Pembersihan* melambangkan pemurnian komitmen dan pengabdian, di mana anggota baru "pembersihan" membersihkan diri dari ketidakpastian masa lalu dengan memotong serpihan rambut dan menyimpan di dalam kelapa — simbol kesuburan, kebersamaan, dan keberlanjutan. Proses ini mencakup:
+Prosesi *Pembersihan* menandai transisi resmi calon anggota menjadi anggota COCONUT, melambangkan pemurnian komitmen dan pengabdian:
 
-- **Simbolis Pembersihan**: Pemotongan serpihan rambut anggota baru yang disimpan di dalam kelapa, lalu seluruh new member membawa kelapa menuju air mengalir.
-- **Pemasangan PDH**: Menandakan identitas baru sebagai bagian dari COCONUT.
-- **Refleksi Bersama**: Anggota baru berbagi komitmen pribadi di hadapan komunitas.
+- **Pembersihan**: Anggota baru memotong serpihan rambut, disimpan dalam kelapa (simbol kesuburan dan kebersamaan), lalu bersama-sama membawa kelapa ke air mengalir.
+- **Pemasangan PDH**: Menandakan identitas baru sebagai anggota COCONUT.
+- **Refleksi Bersama**: Berbagi komitmen pribadi di hadapan club untuk memperkuat ikatan.
 
 
 == Indikator Keberhasilan
