@@ -36,8 +36,6 @@ ROOT menggabungkan Content wajib dan fleksibel untuk memberikan pengalaman belaj
 |===
 
 === Content Fleksibel
-Content ini diperbarui secara periodik berdasarkan tren teknologi dan kebutuhan club:
-
 [cols="1,3",options="header"]
 |===
 |Materi |Penjelasan
