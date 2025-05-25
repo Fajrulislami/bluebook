@@ -48,7 +48,7 @@ Content ini diperbarui secara periodik berdasarkan tren teknologi dan kebutuhan 
 |Roadmap, Git, dan GitHub |Perencanaan karir teknologi dan pengelolaan proyek dengan version control.
 |Metodologi Scrum |Pendekatan agile untuk manajemen proyek dan kolaborasi tim.
 |Metode Riset |Pendekatan ilmiah untuk mengidentifikasi masalah dan menyusun solusi.
-|Sejarah Komputer, Jaringan dan Bahasa Pemrograman |Evolusi komputer, jaringan bahasa program dan paradigma teknologi.
+|Sejarah Komputer, Jaringan dan Bahasa Pemrograman |Evolusi komputer, jaringan, bahasa program dan paradigma teknologi.
 |Public Speaking |Latihan berbicara di depan umum dengan percaya diri dan efektif.
 |Problem Solving |Strategi kreatif untuk menyelesaikan masalah teknis dan non-teknis.
 |Growth Mindset |Menumbuhkan pola pikir berkembang untuk menghadapi tantangan.
