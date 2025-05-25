@@ -21,23 +21,21 @@ ROOT adalah tahap wajib bagi setiap calon anggota COCONUT. Dirancang untuk mempe
 |===
 
 == Ruang Lingkup Kegiatan
-ROOT menggabungkan materi wajib dan fleksibel untuk memberikan pengalaman belajar yang menyeluruh dan relevan dengan perkembangan teknologi.
+ROOT menggabungkan Content wajib dan fleksibel untuk memberikan pengalaman belajar yang menyeluruh dan relevan dengan perkembangan teknologi.
 
-=== Materi Wajib
-Materi ini membentuk fondasi utama bagi calon anggota:
-
+=== Content Wajib
 [cols="1,3",options="header"]
 |===
 |Kegiatan |Fokus
-|Sejarah COCONUT |Mengenal akar, semangat, dan perjalanan organisasi untuk memperkuat rasa memiliki.
-|Fundamental five-Sector |Pengenalan dasar sektor finansial, energi, kesehatan, pendidikan dan infrastruktur.
+|Materi Sejarah COCONUT |Mengenal akar, semangat, dan perjalanan organisasi untuk memperkuat rasa memiliki.
+|Materi Fundamental five-Sector |Pengenalan dasar sektor finansial, energi, kesehatan, pendidikan dan infrastruktur.
 |Movie Time |Memberikan motivasi melalui film inspiratif di pagi hari untuk menanamkan nilai ketekunan dan kerja sama (Accepted 2006 & Frequencies-2013 - OXV: The Manual).
 |Games Logika & Ketangkasan |Melatih berpikir kritis dan kolaborasi melalui permainan kelompok.
 |Menggambar Alam & Games Alam |Mengasah kreativitas dan kerja sama melalui aktivitas luar ruang yang edukatif.
 |===
 
-=== Materi Fleksibel
-Materi ini diperbarui secara periodik berdasarkan tren teknologi dan kebutuhan komunitas:
+=== Content Fleksibel
+Content ini diperbarui secara periodik berdasarkan tren teknologi dan kebutuhan club:
 
 [cols="1,3",options="header"]
 |===
