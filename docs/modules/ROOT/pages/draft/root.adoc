@@ -3,11 +3,78 @@
 :description: Core principles and foundation of COCONUT activities
 :keywords: COCONUT, core principles, foundation
 
-== Overview
-The *ROOT* section defines the core principles and foundational elements that guide all COCONUT activities, ensuring alignment with our mission of innovation and community empowerment.
+== Ikhtisar
+ROOT (Research Orientation of Training) adalah rangkaian kegiatan pelatihan dan pengenalan awal untuk calon anggota baru COCONUT. ROOT bukan sekadar orientasi organisasi, melainkan proses transformasi dari individu yang penasaran dengan dunia teknologi menjadi calon kontributor aktif dalam komunitas inovasi.
 
-== Details
-[NOTE]
-This section is under development. Information about COCONUT's core values, organizational structure, and foundational strategies will be added soon.
+🌴 “ROOT adalah langkah pertama untuk menanamkan semangat inovasi dan kolaborasi dalam membangun masa depan teknologi.”
 
-Explore this section later for insights into the heart of COCONUT's operations.
+== Latar Belakang
+ROOT (Research Orientation Of Training) adalah tahap awal yang wajib dilalui oleh setiap calon anggota COCONUT. Kegiatan ini dirancang untuk mengenalkan dunia teknologi secara menyeluruh, membangun pemahaman dasar, serta menumbuhkan semangat belajar dan kolaborasi. Melalui sesi pelatihan langsung, diskusi, hingga aktivitas kelompok, peserta ROOT diajak untuk mengenal potensi diri dan memahami nilai-nilai yang dijunjung dalam komunitas ini.
+Lebih dari sekadar pengenalan, ROOT menjadi gerbang awal yang menyiapkan calon anggota untuk tumbuh dan berproses bersama di COCONUT — bukan hanya sebagai peserta, tapi juga sebagai bagian penting dari komunitas yang belajar, berkarya, dan berdampak.
+
+== Tujuan
+1. Mengenalkan Fondasi Teknologi: Memberikan dasar pengetahuan tentang teknologi modern seperti AI dan Git kepada peserta.
+2. Membangun Kapasitas Individu: Melatih soft skills seperti komunikasi dan pemecahan masalah untuk mendukung pengembangan diri.
+3. Mendorong Kolaborasi: Menciptakan lingkungan yang mendukung kerja tim dan inovasi melalui aktivitas kelompok.
+4. Menanamkan Nilai COCONUT: Mengintegrasikan visi dan misi organisasi ke dalam pola pikir peserta.
+5. Mempersiapkan Kontribusi: Menyiapkan peserta untuk menjadi anggota aktif yang berkontribusi pada proyek komunitas.
+
+== Ruang Lingkup Kegiatan
+ROOT dirancang untuk membentuk fondasi Calon Anggota dan juga memberikan wawasan lintas bidang yang disesuaikan dengan perkembangan zaman. 
+Wajib (Struktur Dasar) : 
+Sejarah COCONUT : Pengenalan akar, semangat, dan perjalanan organisasi untuk memperkuat rasa memiliki dan kontinuitas nilai.
+Materi SoftSkill : 
+Public Speaking : Teknik dan latihan berbicara di depan umum dengan percaya diri. 
+Problem Solving : Strategi dan pendekatan kreatif dalam memecahkan masalah teknis dan non-teknis.
+Growth Mindset : Menumbuhkan pola pikir berkembang untuk menghadapi tantangan dan belajar terus-menerus.
+NOBAR :  melatih daya tahan fisik calon anggota melalui aktivitas begadang yang terarah, sekaligus menyampaikan nilai-nilai seperti ketekunan, kerjasama, dan semangat juang melalui film inspiratif.
+Outdoor : 
+Games logika dan ketangkasan : Permainan yang melatih kemampuan berpikir kritis dan kerja sama tim.
+Menggambar alam dan games alam : Kegiatan kreatif dan eksplorasi lingkungan sebagai sarana pembelajaran dan relaksasi.
+Games Alam : Games alam adalah aktivitas wajib ROOT yang melatih kerjasama, ketangkasan, dan kepemimpinan melalui tantangan luar ruangan secara menyenangkan dan edukatif.
+
+Fleksibel (Update Periodik)
+UI/UX : Dasar desain antarmuka dan pengalaman pengguna untuk produk digital yang intuitif.
+Pemrograman Web : Pengenalan struktur dasar dan logika pembuatan aplikasi berbasis web.
+Sistem Operasi Linux : Penggunaan sistem operasi open-source di server dan pengembangan.
+Roadmap, Git, dan Github : Perencanaan karir teknologi dan version control dalam proyek tim.
+MVC (Model View Controller) : Konsep arsitektur kode yang efisien dan terstruktur.
+Metodologi Scrum : Pengantar metode kerja agile dalam pengembangan tim, manajemen proyek, dan iterasi produk.
+Pengantar AI : Dasar konsep kecerdasan buatan dan aplikasinya dalam berbagai bidang teknologi.
+Metode Riset : Dasar pendekatan ilmiah dalam mengidentifikasi masalah dan menyusun solusi berbasis penelitian.
+Sejarah Bahasa Pemrograman : Evolusi bahasa pemrograman dan pergeseran paradigma teknologi.
+
+Materi ini bersifat dinamis dan dapat diperbarui setiap periode ROOT berdasarkan tren teknologi, kebutuhan komunitas, dan arah pengembangan kompetensi anggota.
+
+== Output yang Diharapkan
+Pemahaman Dasar Teknologi
+Menguasai konsep dasar teknologi seperti pemrograman, sistem operasi, dan desain.
+Pengembangan Hardskill
+Meningkatkan keterampilan teknis dasar yang diperlukan dalam dunia teknologi.
+Pengembangan Softskill
+Meningkatkan kemampuan komunikasi, problem solving, dan kerja sama tim.
+Internalisasi Nilai Komunitas
+Memahami dan menghayati nilai kebersamaan, semangat belajar, dan kolaborasi.
+
+Motivasi dan Semangat Belajar
+Membangun sikap proaktif dan keinginan kuat untuk terus belajar.
+Pembentukan Jaringan Sosial
+Terjalinnya hubungan erat antar Calon Anggota sebagai modal kerja sama di masa depan.
+Kemampuan Kerja Tim
+Mampu bekerja efektif dalam kelompok melalui berbagai aktivitas kolaboratif.
+Persiapan Menjadi Anggota Aktif
+Calon anggota siap berkontribusi dan berkembang dalam komunitas COCONUT.
+
+== Indikator Keberhasilan
+[cols="1,2"]
+|===
+|Aspek                     |Indikator Keberhasilan
+|Pemahaman Teknologi       |Peserta dapat menjelaskan dasar AI dan Git
+|Kapasitas Individu        |Peserta menunjukkan peningkatan dalam komunikasi dan pemecahan masalah
+|Kolaborasi                |Peserta aktif berpartisipasi dalam aktivitas kelompok
+|Internalisasi Nilai       |Peserta mampu mengartikulasikan visi COCONUT
+|Kontribusi                |Peserta mengusulkan ide untuk proyek komunitas
+|===
+
+== Penutup
+ROOT bukan hanya pengenalan organisasi, tapi proses awal yang akan membentuk cara belajar dan berkontribusi peserta di COCONUT. Di sini, peserta diajak untuk mulai dari dasar, berani bertanya, dan siap tumbuh bersama.
