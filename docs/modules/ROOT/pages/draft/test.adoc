@@ -1,5 +1,5 @@
 == Now Open - Test
-:navtitle: Tes Tertulis - COCONUT
+:navtitle: Bluebook - Now Open - Test
 :description: Tahapan tes tertulis dalam proses rekrutmen anggota COCONUT Computer Club
 :keywords: COCONUT, rekrutmen, tes tertulis, teknologi, logika, MBTI
 
