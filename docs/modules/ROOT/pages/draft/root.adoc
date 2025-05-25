@@ -52,6 +52,7 @@ Content ini diperbarui secara periodik berdasarkan tren teknologi dan kebutuhan 
 |Public Speaking |Latihan berbicara di depan umum dengan percaya diri dan efektif.
 |Problem Solving |Strategi kreatif untuk menyelesaikan masalah teknis dan non-teknis.
 |Growth Mindset |Menumbuhkan pola pikir berkembang untuk menghadapi tantangan.
+|Hafalan |Calon anggota wajib menghafal *Command Line Linux*, *Satuan Byte*, *OSI Layer & TCP/IP* dan *Alfabet fonetik (Telephony & Morse Code)*.
 |===
 
 == Output yang Diharapkan
