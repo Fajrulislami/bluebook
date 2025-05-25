@@ -1,13 +1,90 @@
 = Now Open
-:navtitle: Now Open
-:description: Recruitment and selection process for COCONUT programs
-:keywords: COCONUT, recruitment, registration, interview
+:navtitle: Bluebook - Now Open
+:description: Gambaran umum proses rekrutmen anggota baru COCONUT Computer Club
+:keywords: COCONUT, rekrutmen, requirement, tes, interview, teknologi, study club
 
-== Overview
-This section outlines the *Now Open* phase of COCONUT's activities, covering registration, interviews, tests, and other selection processes for participants in our programs.
+== Ikhtisar
+Proses rekrutmen *COCONUT Computer Club*! Membuka pintu bagi mahasiswa yang bersemangat untuk belajar, berkolaborasi, dan menciptakan dampak melalui teknologi. Dirancang untuk mengenal potensi, minat, dan karakter pendaftar melalui tiga tahapan utama: *Requirement*, *Test*, dan *Interview*. Setiap entitas membawa keunikan yang dapat memperkaya club. Proses rekrutmen ini adalah tentang menemukan anggota yang siap tumbuh bersama, berinovasi, dan berkontribusi pada proyek teknososialism yang berdampak.
 
-== Details
-[NOTE]
-This section is under development. Details about the recruitment process, including timelines, requirements, and application procedures, will be added soon.
+[quote]
+____
+Setiap individu adalah benih inovasi; partikel quantum yang menunggu pengamatan untuk berkolaps menjadi realitas, atau seperti benih yang memerlukan cahaya fotosintesis dan resonansi emosional untuk bertransformasi menjadi karya. Kita adalah persilangan antara hukum entropi yang kacau dan keindahan fraktal; membutuhkan kedua logika sains dan kelembutan seni untuk mencapai simetri sempurna dalam pertumbuhan.
+____
 
-Stay tuned for updates on how to join COCONUT's transformative initiatives!
+== Tahapan Rekrutmen
+Proses rekrutmen terdiri dari tiga tahap yang saling melengkapi:
+
+[cols="1,3,2",options="header"]
+|===
+|Tahap |Tujuan | Output
+|Requirement |Memastikan calon anggota memiliki dasar untuk berkembang. |Minat teknologi, semangat belajar, dan keselarasan dengan nilai kolaboratif COCONUT.
+|Test |Menilai logika, potensi teknologi, dan kepribadian. |Kemampuan analitis, kritis, kreativitas, dan gaya belajar yang mendukung kolaborasi.
+|Interview |Mengenal motivasi, nilai, dan komitmen secara mendalam. |Kesiapan untuk berkontribusi aktif dan selaras dengan budaya club.
+|===
+
+== Requirement
+Tahap *Requirement* adalah langkah awal untuk memastikan pendaftar siap bergabung dengan ekosistem belajar COCONUT. Kami mencari mahasiswa yang memiliki motivasi dan daya tahan tinggi, terbuka untuk belajar, dan berkomitmen untuk berkolaborasi.
+
+- **Kriteria Dasar**:
+  - Mahasiswa aktif di perguruan tinggi (maksimal semester 3).
+  - Komitmen mengikuti seluruh proses seleksi dan pembekalan.
+- **Keterampilan Awal**:
+  - Pemahaman dasar teknologi (misalnya, penggunaan komputer atau perangkat lunak).
+  - Tidak perlu pengalaman lanjutan—kami akan membimbing dari awal!
+  - Kemampuan logika dasar (akan diuji pada tahap test).
+- **Sikap dan Nilai**:
+  - Semangat belajar dan keterbukaan terhadap pengalaman baru.
+  - Kesediaan untuk bekerja dalam tim dan berkontribusi pada proyek teknologi sosial.
+  - Nilai kekeluargaan, inovasi, loyalitas, dan tanggung jawab sosial.
+
+**Dukungan**: Menyediakan pelatihan awal (e.g., Seminar, Workshop, etc), mentoring oleh anggota senior, dan akses ke materi belajar untuk membantu pendaftar memenuhi persyaratan.
+
+== Test
+Tahap *Test* dirancang untuk mengenal potensi pendaftar melalui empat bagian: pilihan ganda, esai, psikotes, dan MBTI. Tes ini menilai:
+
+- **Logika dan Kreativitas**: Cara menganalisis dan menyelesaikan masalah.
+- **Minat Teknologi**: Ketertarikan pada pemrograman, desain, atau inovasi digital.
+- **Kepribadian**: Gaya belajar dan komunikasi untuk mendukung kolaborasi tim.
+
+**Komponen Tes**:
+
+[cols="2,3",options="header"]
+|===
+|Bagian Tes |Fokus Penilaian
+|Pilihan Ganda |Pemahaman dasar teknologi dan logika.
+|Esai |Kemampuan berpikir kritis dan mengartikulasikan ide.
+|Psikotes |Pola berpikir, ketahanan, dan analisis.
+|MBTI |Kepribadian dan preferensi kerja tim.
+|===
+
+**Harapan**: Tes ini membantu kami memetakan gaya belajar dan merancang pembinaan yang sesuai, memastikan kesiapan berkontribusi pada proyek nyata.
+
+== Interview
+Tahap *Interview* adalah kesempatan untuk mengenal secara mendalam. Kami ingin memahami:
+
+- **Motivasi Pribadi**: Apa yang mendorong - untuk bergabung dengan COCONUT?
+- **Keselarasan Nilai**: Sejauh mana - keselarasan dengan budaya kolaborasi dan inovasi?
+- **Komitmen Belajar**: Apakah - siap terlibat aktif dalam proyek dan pelatihan?
+
+**Fokus Interview**:
+
+[cols="2,3",options="header"]
+|===
+|Fokus |Tujuan
+|Motivasi Teknologi |Memahami minat di bidang teknologi.
+|Pemikiran Kritis |Melihat cara menyelesaikan masalah.
+|Kepribadian & Nilai |Menilai kecocokan dengan budaya COCONUT.
+|Kesiapan Belajar |Mengukur keterbukaan terhadap pembelajaran.
+|Potensi Kontribusi |Menilai kesiapan untuk proyek nyata.
+|===
+
+**Harapan**: Interview ini membangun hubungan yang saling mendukung, memastikan kesiapan berkembang dan berkontribusi dalam komunitas.
+
+== Output yang Diharapkan
+- **Calon Anggota Berkualitas**: Terpilihnya individu dengan motivasi, logika, dan nilai yang selaras dengan COCONUT.
+- **Pemetaan Potensi**: Gambaran jelas tentang gaya belajar, kepribadian, dan kesiapan untuk mendukung pembinaan yang personal.
+- **Kesiapan Kontribusi**: Anggota baru yang siap terlibat dalam pelatihan, proyek teknologi, dan inovasi sosial.
+- **Budaya Komunitas yang Kuat**: Regenerasi anggota yang mendukung ekosistem belajar yang inklusif dan progresif.
+
+== Penutup
+Proses rekrutmen *COCONUT Computer Club* merupakan pintu masuk untuk menjadi bagian dari club yang bersemangat dalam teknologi dan kolaborasi. Melalui *Requirement*, *Tests*, dan *Interview*, kami ingin mengenal — sebagai individu unik yang siap tumbuh dan berdampak.
