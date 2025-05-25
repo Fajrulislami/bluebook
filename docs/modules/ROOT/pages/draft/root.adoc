@@ -32,6 +32,7 @@ ROOT menggabungkan Content wajib dan fleksibel untuk memberikan pengalaman belaj
 |Movie Time |Memberikan motivasi melalui film inspiratif di pagi hari untuk menanamkan nilai ketekunan dan kerja sama (Accepted 2006 & Frequencies-2013 - OXV: The Manual).
 |Games Logika & Ketangkasan |Melatih berpikir kritis dan kolaborasi melalui permainan kelompok.
 |Menggambar Alam & Games Alam |Mengasah kreativitas dan kerja sama melalui aktivitas luar ruang yang edukatif.
+|Hafalan |Calon anggota wajib menghafal *Command Line Linux*, *Satuan Byte*, *OSI Layer & TCP/IP* dan *Alfabet fonetik (Telephony & Morse Code)*.
 |===
 
 === Content Fleksibel
@@ -52,7 +53,6 @@ Content ini diperbarui secara periodik berdasarkan tren teknologi dan kebutuhan 
 |Public Speaking |Latihan berbicara di depan umum dengan percaya diri dan efektif.
 |Problem Solving |Strategi kreatif untuk menyelesaikan masalah teknis dan non-teknis.
 |Growth Mindset |Menumbuhkan pola pikir berkembang untuk menghadapi tantangan.
-|Hafalan |Calon anggota wajib menghafal *Command Line Linux*, *Satuan Byte*, *OSI Layer & TCP/IP* dan *Alfabet fonetik (Telephony & Morse Code)*.
 |===
 
 [NOTE]
