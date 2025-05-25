@@ -7,21 +7,21 @@
 == Ikhtisar
 Interview ini adalah langkah penting untuk mengenal calon anggota COCONUT secara mendalam. Kami ingin memahami tiga hal utama:
 
-- **Motivasi Pribadi**: Apa yang mendorong pendaftar bergabung dengan COCONUT? Apa semangat dan tujuan pendaftar dalam menjelajahi dunia teknologi.
-- **Keselarasan Nilai**: Sejauh mana nilai-nilai pendaftar selaras dengan norma dan budaya COCONUT, seperti kolaborasi, rasa ingin tahu, dan semangat belajar yang tinggi.
-- **Komitmen Belajar**: Apakah pendaftar siap terlibat aktif dalam proyek, pelatihan, dan dinamika study club teknologi kami?
+- **Motivasi Pribadi**: Apa yang menjadi pendorong untuk bergabung dengan COCONUT? Apa semangat dan tujuan dalam menjelajahi dunia teknologi.
+- **Keselarasan Nilai**: Sejauh mana nilai-nilai para pendaftar selaras dengan norma dan budaya COCONUT, seperti kolaborasi, rasa ingin tahu, dan semangat belajar yang tinggi.
+- **Komitmen Belajar**: Apakah siap terlibat aktif dalam proyek, pelatihan, dan dinamika study club teknologi kami?
 
-Interview ini adalah kesempatan untuk membangun hubungan yang saling mendukung. Kami ingin setiap pendaftar Calon anggota baru dapat berkembang, memiliki motivasi dan semangat tinggi, kritis, menemukan arah yang jelas, dan memberikan dampak positif dalam perjalanan panjang di COCONUT.
+Interview ini adalah kesempatan untuk membangun hubungan yang saling mendukung. Kami ingin setiap pendaftar Calon anggota baru dapat berkembang, memiliki motivasi dan semangat tinggi, kritis, menemukan arah yang jelas, dan memberikan dampak positif dalam perjalanan panjang COCONUT Computer Club.
 
 == Tujuan Interview
 [cols="2,5",options="header"]
 |===
 |Tujuan |Penjelasan
-|Mengenal Motivasi Teknologi |Memahami minat pendaftar di bidang teknologi, seperti pemrograman, desain digital, atau inovasi berbasis komputasi.
-|Menilai Pemikiran Kritis |Melihat cara pendaftar menganalisis dan menyelesaikan masalah secara logis dan kreatif.
-|Menggali Kepribadian & Nilai |Menjelajahi karakter, gaya komunikasi, dan nilai pribadi (dengan referensi MBTI) untuk memahami cara pendaftar bekerja dalam tim.
-|Menilai Kesiapan Belajar |Mengukur keterbukaan pendaftar terhadap pengalaman baru dan kemampuan beradaptasi di lingkungan inklusif.
-|Mengukur Potensi Kontribusi |Mengetahui seberapa siap pendaftar terlibat dalam proyek nyata, seperti pelatihan digital atau riset kolaboratif, sesuai visi COCONUT.
+|Mengenal Motivasi Teknologi |Memahami minat para pendaftar di bidang teknologi, seperti pemrograman, desain digital, atau inovasi berbasis komputasi.
+|Menilai Pemikiran Kritis |Melihat cara menganalisis dan menyelesaikan masalah secara logis dan kreatif.
+|Menggali Kepribadian & Nilai |Menjelajahi karakter, gaya komunikasi, dan nilai pribadi (dengan referensi MBTI) untuk memahami cara bekerja dalam tim.
+|Menilai Kesiapan Belajar |Mengukur keterbukaan terhadap pengalaman baru dan kemampuan beradaptasi di lingkungan inklusif.
+|Mengukur Potensi Kontribusi |Mengetahui seberapa siap mereka untuk terlibat dalam proyek nyata, seperti pelatihan digital atau riset kolaboratif, sesuai visi COCONUT.
 |===
 
 == Output yang Diharapkan
