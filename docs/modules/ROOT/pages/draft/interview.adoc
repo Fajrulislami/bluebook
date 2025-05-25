@@ -1,5 +1,5 @@
-== Interview
-:navtitle: Open Now - COCONUT Interview
+== Now Open - Interview
+:navtitle: COCONUT - Now Open - Interview
 :description: Proses interview untuk rekrutmen anggota COCONUT Computer Club
 :keywords: COCONUT, rekrutmen, interview, now open, teknologi, study club
 
@@ -43,11 +43,3 @@ Mengukur keberhasilan Interview melalui indikator berikut:
 |Kecocokan dengan Budaya |Kesesuaian antara karakter dan nilai pribadi dengan prinsip komunitas.
 |Korelasi dengan Performa |Hasil interview mencerminkan keterlibatan nyata dalam proyek dan kegiatan komunitas.
 |===
-
-== Penutup
-Interview ini merupakan pintu masuk untuk mengenal para pendaftar lebih dekat—motivasi, nilai, dan semangat. *COCONUT Computer Club* percaya bahwa motivasi tulus dan nilai yang selaras adalah fondasi untuk membangun club yang kuat. Lewat interview ini, kami ingin menemukan individu yang siap belajar dengan obsesi, berkolaborasi tinggi, dan berdampak nyata—menjadi bagian dari perjalanan teknologi yang penuh makna.
-
-[NOTE]
-====
-Kami menyambut pendaftar calon anggota yang datang dengan hati terbuka, semangat berbagi, dan tekad untuk tumbuh bersama, ciptakan dampak melalui teknologi!
-====
