@@ -39,7 +39,7 @@ ROOT menggabungkan Content wajib dan fleksibel untuk memberikan pengalaman belaj
 [cols="1,3",options="header"]
 |===
 |Materi |Penjelasan
-|Fundamental AI |Dasar-dasar AI dan istilah yang digunakan dalam AI.
+|Fundamental AI |Dasar-dasar AI dan istilah umum yang digunakan dalam AI.
 |Fundamental IoT |Dasar-dasar IoT, penjelasan dasar dan pemahaman tentang IoT.
 |Fundamental Security | Dasar-dasar keamanan digital. 
 |Linux OS |Penggunaan sistem operasi open-source untuk server dan development.
