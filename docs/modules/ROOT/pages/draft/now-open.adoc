@@ -25,17 +25,18 @@ Proses rekrutmen terdiri dari tiga tahap yang saling melengkapi:
 == Requirement
 Tahap *Requirement* adalah langkah awal untuk memastikan pendaftar siap bergabung dengan ekosistem belajar COCONUT. Kami mencari mahasiswa yang memiliki motivasi dan daya tahan tinggi, terbuka untuk belajar, dan berkomitmen untuk berkolaborasi.
 
-- **Kriteria Dasar**:
-  - Mahasiswa aktif di perguruan tinggi (maksimal semester 3).
-  - Komitmen mengikuti seluruh proses seleksi dan pembekalan.
-- **Keterampilan Awal**:
-  - Pemahaman dasar teknologi (misalnya, penggunaan komputer atau perangkat lunak).
-  - Tidak perlu pengalaman lanjutan—kami akan membimbing dari awal!
-  - Kemampuan logika dasar (akan diuji pada tahap test).
-- **Sikap dan Nilai**:
-  - Semangat belajar dan keterbukaan terhadap pengalaman baru.
-  - Kesediaan untuk bekerja dalam tim dan berkontribusi pada proyek teknologi sosial.
-  - Nilai kekeluargaan, inovasi, loyalitas, dan tanggung jawab sosial.
+- **Kriteria Dasar**
+  . Status sebagai mahasiswa aktif di perguruan tinggi yang diakui.
+  . Maksimal semester 3 di perguruan tinggi.
+  . Komitmen untuk mengikuti seluruh proses seleksi dan pembekalan awal.
+- **Keterampilan Awal**
+  . Pemahaman dasar teknologi (misalnya, penggunaan komputer atau perangkat lunak dasar).
+    .. Tidak diperlukan pengalaman lanjutan; COCONUT menyediakan pembelajaran untuk calon anggota.
+  . Kemampuan logika dan pemecahan masalah (akan diuji melalui tes tertulis).
+- **Sikap dan Komitmen**
+  . Semangat belajar dan keterbukaan terhadap pengalaman baru.
+  . Kesediaan berkolaborasi dalam tim dan berkontribusi pada proyek organisasi.
+  . Kepemilikan nilai-nilai kekeluargaan, inovasi, dan tanggung jawab sosial.
 
 **Dukungan**: Menyediakan pelatihan awal (e.g., Seminar, Workshop, etc), mentoring oleh anggota senior, dan akses ke materi belajar untuk membantu pendaftar memenuhi persyaratan.
 
