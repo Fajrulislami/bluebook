@@ -91,16 +91,13 @@ jobs:
           key: ${{ secrets.VPS_SSH_KEY }}
           port: ${{ secrets.VPS_SSH_PORT }}
           script: |
-            echo "Moving to production..."
-            rm -rf /var/www/html/build
-            cp -r /home/gusdur/bluebook-coconut/build /var/www/html/
+            echo "${{ secrets.SUDO_PASSWORD }}" | sudo -S rm -rf /var/www/html/build
+            echo "${{ secrets.SUDO_PASSWORD }}" | sudo -S cp -r /home/gusdur/bluebook-coconut/build /var/www/html/
             
-            echo "Setting permissions..."
-            chown -R www-data:www-data /var/www/html/build
-            find /var/www/html/build -type d -exec chmod 755 {} \;
-            find /var/www/html/build -type f -exec chmod 644 {} \;
+            echo "${{ secrets.SUDO_PASSWORD }}" | sudo -S chown -R www-data:www-data /var/www/html/build
+            echo "${{ secrets.SUDO_PASSWORD }}" | sudo -S find /var/www/html/build -type d -exec chmod 755 {} \;
+            echo "${{ secrets.SUDO_PASSWORD }}" | sudo -S find /var/www/html/build -type f -exec chmod 644 {} \;
             
-            echo "Validating deployment..."
             if [ -f "/var/www/html/build/bluebook/draft/coconut-draft-inesa.html" ]; then
               echo "✅ Deployment successful"
               echo "🌐 Access at: http://${{ secrets.VPS_HOST }}/build"
@@ -109,5 +106,5 @@ jobs:
               exit 1
             fi
             
-            echo "Restarting nginx..."
-            
+            echo "${{ secrets.SUDO_PASSWORD }}" | sudo -S nginx -t && echo "${{ secrets.SUDO_PASSWORD }}" | sudo -S systemctl reload nginx
+                  
