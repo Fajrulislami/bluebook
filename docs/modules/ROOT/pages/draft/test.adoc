@@ -7,6 +7,7 @@
 Tes ini merupakan bagian untuk mengenal potensi dan karakter calon anggota *COCONUT Computer Club*. Dirancang untuk menilai kemampuan logika, minat teknologi, dan kepribadian pendaftar, sekaligus memahami bagaimana pendaftar dapat berkembang dalam club kami yang kolaboratif, inklusif dan adaptif.
 
 Tes tertulis ini adalah kesempatan untuk melihat potensi pendaftar melalui tiga aspek utama:
+
 - **Logika dan Pemecahan Masalah**: Bagaimana pendaftar menganalisis dan menyelesaikan tantangan secara sistematis.
 - **Minat Teknologi**: Seberapa besar ketertarikan dan kesiapan pendaftar dalam menjelajahi dunia teknologi, , sains, seni, dan atau inovasi teknologi dalam sektor finance, energi, kesehatan, pendidikan dan infrastruktur .
 - **Kepribadian (MBTI)**: Gaya belajar, cara berkomunikasi, dan posisi ideal dalam tim kolaboratif.
