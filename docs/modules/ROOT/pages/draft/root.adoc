@@ -55,6 +55,11 @@ Content ini diperbarui secara periodik berdasarkan tren teknologi dan kebutuhan 
 |Hafalan |Calon anggota wajib menghafal *Command Line Linux*, *Satuan Byte*, *OSI Layer & TCP/IP* dan *Alfabet fonetik (Telephony & Morse Code)*.
 |===
 
+[NOTE]
+====
+Content Fleksibel bersifat dinamis dan dapat diperbarui setiap periode untuk menjaga relevansi dan kreativitas.
+====
+
 == Output yang Diharapkan
 ROOT dirancang untuk menghasilkan:
 
