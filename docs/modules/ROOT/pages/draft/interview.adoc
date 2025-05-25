@@ -16,11 +16,11 @@ Wawancara ini adalah kesempatan untuk membangun hubungan yang saling mendukung. 
 [cols="2,5",options="header"]
 |===
 |Tujuan |Penjelasan
-|Mengenal Motivasi Teknologi |Memahami minat Anda di bidang teknologi, seperti pemrograman, desain digital, atau inovasi berbasis komputasi.
-|Menilai Pemikiran Kritis |Melihat cara Anda menganalisis dan menyelesaikan masalah secara logis dan kreatif.
-|Menggali Kepribadian & Nilai |Menjelajahi karakter, gaya komunikasi, dan nilai pribadi (dengan referensi MBTI) untuk memahami cara Anda bekerja dalam tim.
-|Menilai Kesiapan Belajar |Mengukur keterbukaan Anda terhadap pengalaman baru dan kemampuan beradaptasi di lingkungan inklusif.
-|Mengukur Potensi Kontribusi |Mengetahui seberapa siap Anda terlibat dalam proyek nyata, seperti pelatihan digital atau riset kolaboratif, sesuai visi COCONUT.
+|Mengenal Motivasi Teknologi |Memahami minat pendaftar di bidang teknologi, seperti pemrograman, desain digital, atau inovasi berbasis komputasi.
+|Menilai Pemikiran Kritis |Melihat cara pendaftar menganalisis dan menyelesaikan masalah secara logis dan kreatif.
+|Menggali Kepribadian & Nilai |Menjelajahi karakter, gaya komunikasi, dan nilai pribadi (dengan referensi MBTI) untuk memahami cara pendaftar bekerja dalam tim.
+|Menilai Kesiapan Belajar |Mengukur keterbukaan pendaftar terhadap pengalaman baru dan kemampuan beradaptasi di lingkungan inklusif.
+|Mengukur Potensi Kontribusi |Mengetahui seberapa siap pendaftar terlibat dalam proyek nyata, seperti pelatihan digital atau riset kolaboratif, sesuai visi COCONUT.
 |===
 
 == Output yang Diharapkan
@@ -45,7 +45,7 @@ Kami mengukur keberhasilan wawancara melalui indikator berikut:
 |===
 
 == Penutup
-Wawancara ini bukan sekadar proses seleksi, melainkan pintu masuk untuk mengenal Anda lebih dekat—motivasi, nilai, dan semangat Anda. *COCONUT Computer Club*, percaya bahwa motivasi tulus dan nilai yang selaras adalah fondasi untuk membangun club yang kuat. Lewat interview ini, kami ingin menemukan individu yang siap belajar dengan obsesi, berkolaborasi tinggi, dan berdampak nyata—menjadi bagian dari perjalanan teknologi yang penuh makna.
+Wawancara ini merupakan pintu masuk untuk mengenal para pendaftar lebih dekat—motivasi, nilai, dan semangat. *COCONUT Computer Club* percaya bahwa motivasi tulus dan nilai yang selaras adalah fondasi untuk membangun club yang kuat. Lewat interview ini, kami ingin menemukan individu yang siap belajar dengan obsesi, berkolaborasi tinggi, dan berdampak nyata—menjadi bagian dari perjalanan teknologi yang penuh makna.
 
 [NOTE]
 ====
