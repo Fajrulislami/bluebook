@@ -3,6 +3,7 @@
 :description: Proses interview untuk rekrutmen anggota COCONUT Computer Club
 :keywords: COCONUT, rekrutmen, interview, now open, teknologi, study club
 
+
 == Ikhtisar
 Interview ini adalah langkah penting untuk mengenal calon anggota COCONUT secara mendalam. Kami ingin memahami tiga hal utama:
 
