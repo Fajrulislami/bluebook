@@ -35,11 +35,12 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
   ** xref:draft/triwulan.adoc[Triwulan]
 
 == Author
-- Abd Rahman Wahid
+- Abd Rahman
 - Nurman Awaluddin
 - Rezky Amaliah Rusli
 - Syahrul Ramadhan
 - Musdalipa
+- Dzikri Fauzan
 
 == Bluebook Version
 Bluebook - v25.0
