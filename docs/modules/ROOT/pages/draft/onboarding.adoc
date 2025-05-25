@@ -43,11 +43,11 @@ Pengalaman GET (Growth, Empowerment, Transformation) dirancang sebagai perjalana
 [cols="1,2,2,2",options="header"]
 |===
 |Tahap |Suasana |Hafalan |Tantangan
-|GET I: Mitologi (Hitam) |Chaos kreatif dengan asap dan gantungan almamater perguruan tinggi. |Pancasila, UUD 1945, Tujuan COCONUT. |Rancang "Dunia Baru" dalam 5 menit (5 poin) + Stress Test.
-|GET II: Pra-Socrates (Abu-abu) |Perpustakaan intelektual dengan lilin dan buku. |Konversi byte (oktal, hexa, decimal), formula trigonometri (sin, cos, tan), satuan byte, jaringan komputer (kecepatan transfer, latency, throughput), kompleksitas waktu (Big-O), Fibonacci, faktorial, normalisasi basis data, relational algebra, paritas bit, Caesar Cipher, hukum Amdahl, rasio kompresi. |3 soal logika dan IT + Stress Test.
-|GET III: Abad Pertengahan (Merah) |Perang dengan api unggun dan topeng. |36 Point Art of War, Visi Misi COCONUT. |Menyusun strategi Perang Dunia Intelektual berdasarkan Sun Tzu + Stress Test.
-|GET IV: Renaisans (Kuning) |Ceria dengan musik renaisans dan wejangan. |- |Skenario loyalitas & solidaritas + Stress Test.
-|GET V: Early Modern (Biru) |Renungan dengan teh hangat dan api unggun. |- |Susun Lego dari kepingan GET sebelumnya + Pemasangan PDH.
+|GET I  (Hitam) |Chaos kreatif dengan asap dan gantungan almamater perguruan tinggi. |Pancasila, UUD 1945, Tujuan COCONUT. |Rancang "Dunia Baru" dalam 5 menit (5 poin) + Stress Test.
+|GET II (Abu-abu) |Perpustakaan intelektual dengan lilin dan buku. |Konversi byte (oktal, hexa, decimal), formula trigonometri (sin, cos, tan), satuan byte, jaringan komputer (kecepatan transfer, latency, throughput), kompleksitas waktu (Big-O), Fibonacci, faktorial, normalisasi basis data, relational algebra, paritas bit, Caesar Cipher, hukum Amdahl, rasio kompresi. |3 soal logika dan IT + Stress Test.
+|GET III (Merah) |Perang dengan api unggun dan topeng. |36 Point Art of War, Visi Misi COCONUT. |Menyusun strategi Perang Dunia Intelektual berdasarkan Sun Tzu + Stress Test.
+|GET IV (Kuning) |Ceria dengan musik renaisans dan wejangan. |- |Skenario loyalitas & solidaritas + Stress Test.
+|GET V (Biru) |Renungan dengan teh hangat dan api unggun. |- |Susun Lego dari kepingan GET sebelumnya + Pemasangan PDH.
 |===
 
 [NOTE]
