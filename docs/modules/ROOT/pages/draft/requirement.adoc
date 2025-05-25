@@ -4,7 +4,7 @@
 :keywords: COCONUT, persyaratan, perekrutan, teknologi, keterampilan, komitmen
 
 == Ikhtisar
-*Persyaratan Pendaftaran Calon Anggota* dari *COCONUT Computer Club*, langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Persyaratan ini dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
+*Requirement* dari *COCONUT Computer Club* merupakan langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Requirement ini dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
 
 Dengan pendekatan yang terarah dan suportif, COCONUT membuka pintu bagi mahasiswa yang bercita-cita menjadi agen perubahan melalui teknologi.
 
