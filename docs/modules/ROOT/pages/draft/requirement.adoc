@@ -1,5 +1,5 @@
-= Persyaratan Pendaftaran Calon Anggota COCONUT
-:navtitle: Requirement
+= Now Open - Requirement
+:navtitle: Bluebook - Now Open - Requirement
 :description: Persyaratan dan kriteria untuk menjadi calon anggota COCONUT Computer Club
 :keywords: COCONUT, persyaratan, perekrutan, teknologi, keterampilan, komitmen
 
@@ -83,6 +83,3 @@ Komitmen untuk mendampingi calon anggota selama proses:
 ____
 Setiap individu adalah benih inovasi yang membutuhkan sinar matahari pagi dan air untuk tumbuh dan mekar.
 ____
-
-== Penutup
-Langkah awal untuk membuka pintu menuju study club *COCONUT Computer Club* yang dinamis dan berorientasi pada pertumbuhan. Melalui pendekatan inklusif dan terstruktur, berkomitmen membina calon anggota menjadi agen perubahan teknologi yang berkelanjutan.
