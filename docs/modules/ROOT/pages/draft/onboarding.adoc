@@ -1,10 +1,10 @@
-= On-Boarding COCONUT
-:navtitle: On-Boarding
+= On-Boarding
+:navtitle: Bluebook - On-Boarding
 :description: On-Boarding dan pengenalan anggota baru COCONUT Computer Club berbasis nilai intelektual dan kolaborasi
 :keywords: COCONUT, on-boarding, transisi, teknologi, pendidikan, simbolisme
 
 == Ikhtisar
-*On-Boarding New Member* COCONUT Computer Club adalah langkah transformasional yang menandai perjalanan individu dari calon anggota menjadi agen perubahan teknologi. Konsep ini dirancang untuk membangun fondasi intelektual, keterampilan teknis, dan identitas kolektif melalui pengalaman langsung dan simbolisme mendalam. Kegiatan ini menggabungkan pendidikan, kolaborasi, dan refleksi dalam suasana yang mendukung pertumbuhan pribadi dan profesional.
+*On-Boarding New Member* COCONUT Computer Club, langkah transformasional yang menandai perjalanan individu dari calon anggota menjadi anggota. Dirancang untuk membangun fondasi intelektual, keterampilan teknis, dan identitas kolektif melalui pengalaman langsung dan simbolisme mendalam. Kegiatan ini menggabungkan pendidikan, kolaborasi, dan refleksi dalam suasana yang mendukung pertumbuhan pribadi dan profesional.
 
 [quote, Visi On-Boarding COCONUT]
 ____
@@ -38,7 +38,7 @@ Materi dirancang untuk membentuk struktur dasar calon anggota, dengan fleksibili
 
 Materi fleksibel dapat disesuaikan setiap periode berdasarkan kebutuhan kontemporer, seperti tren terbaru atau proyek komunitas terbaru.
 
-== Konsep Pengalaman Transformasional (GET)
+== Pengalaman Transformasional (GET)
 Pengalaman GET (Growth, Empowerment, Transformation) dirancang sebagai perjalanan intelektual dan emosional melalui lima tahap, masing-masing dengan suasana, tantangan, dan refleksi:
 
 - **GET I: Mitologi (Hitam)**  
@@ -69,7 +69,10 @@ Pengalaman GET (Growth, Empowerment, Transformation) dirancang sebagai perjalana
   . *Tantangan*: Susun Lego dari kepingan GET sebelumnya.  
   . *Achievement*: Pemasangan PDH.  
 
-*Catatan*: Setiap GET dilengkapi kepingan Lego sebagai simbol progresi, disimpan dengan baik, dan digunakan di GET V.
+Setiap GET dilengkapi kepingan Lego sebagai simbol progresi, disimpan dengan baik, dan digunakan di GET V.
+
+[NOTE]
+Nama, Suasana, dan Jumlah tiap GET adalah sesuatu yang bersifat dinamis *(Update Periodik)*
 
 == Games Interaktif
 - *Grab the Bottle Game*: Meningkatkan kerja sama tim.
