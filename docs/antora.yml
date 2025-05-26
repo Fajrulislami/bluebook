@@ -1,0 +1,6 @@
+name: bluebook
+title: COCONUT - Bluebook
+version: ~
+start_page: bluebook::index.adoc
+nav:
+  - modules/ROOT/nav.adoc

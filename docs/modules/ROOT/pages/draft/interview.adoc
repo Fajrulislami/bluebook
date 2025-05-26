@@ -1,0 +1,46 @@
+= Now Open - Interview
+:navtitle: Bluebook - Now Open - Interview
+:description: Proses interview untuk rekrutmen anggota COCONUT Computer Club
+:keywords: COCONUT, rekrutmen, interview, now open, teknologi, study club
+
+
+== Ikhtisar
+Interview ini adalah langkah penting untuk mengenal calon anggota COCONUT secara mendalam. Kami ingin memahami tiga hal utama:
+
+- **Motivasi Pribadi**: Apa yang menjadi pendorong untuk bergabung dengan COCONUT? Apa semangat dan tujuan dalam menjelajahi dunia teknologi.
+- **Keselarasan Nilai**: Sejauh mana nilai-nilai para pendaftar selaras dengan norma dan budaya COCONUT, seperti kolaborasi, rasa ingin tahu, dan semangat belajar yang tinggi.
+- **Komitmen Belajar**: Apakah siap terlibat aktif dalam proyek, pelatihan, dan dinamika study club teknologi kami?
+
+Interview ini adalah kesempatan untuk membangun hubungan yang saling mendukung. Kami ingin setiap pendaftar Calon anggota baru dapat berkembang, memiliki motivasi dan semangat tinggi, kritis, menemukan arah yang jelas, dan memberikan dampak positif dalam perjalanan panjang COCONUT Computer Club.
+
+== Tujuan Interview
+[cols="2,5",options="header"]
+|===
+|Tujuan |Penjelasan
+|Mengenal Motivasi Teknologi |Memahami minat para pendaftar di bidang teknologi, seperti pemrograman, desain digital, atau inovasi berbasis komputasi.
+|Menilai Pemikiran Kritis |Melihat cara menganalisis dan menyelesaikan masalah secara logis dan kreatif.
+|Menggali Kepribadian & Nilai |Menjelajahi karakter, gaya komunikasi, dan nilai pribadi (dengan referensi MBTI) untuk memahami cara bekerja dalam tim.
+|Menilai Kesiapan Belajar |Mengukur keterbukaan terhadap pengalaman baru dan kemampuan beradaptasi di lingkungan inklusif.
+|Mengukur Potensi Kontribusi |Mengetahui seberapa siap mereka untuk terlibat dalam proyek nyata, seperti pelatihan digital atau riset kolaboratif, sesuai visi COCONUT.
+|===
+
+== Output yang Diharapkan
+Harapan kami dalam interview ini:
+
+- **Calon Anggota Bermotivasi Tinggi**: Calon anggota yang bersemangat untuk berkembang di bidang teknologi dan selaras dengan nilai kolaboratif COCONUT.
+- **Pemahaman Karakter**: Gambaran jelas tentang kepribadian, gaya komunikasi, dan nilai pribadi untuk mendukung penempatan peran yang tepat.
+- **Kesiapan Berkontribusi Aktif**: Calon anggota yang siap belajar dari dasar, berkolaborasi, dan berkontribusi pada proyek teknologi dan sosial.
+- **Budaya Komunitas yang Kuat**: Terpilihnya calon anggota yang mendukung budaya organisasi yang inklusif, produktif, proaktif berkelanjutan.
+
+== Indikator Keberhasilan
+Mengukur keberhasilan Interview melalui indikator berikut:
+
+[cols="2,5",options="header"]
+|===
+|Indikator |Deskripsi
+|Motivasi & Keselarasan Nilai |Calon anggota menunjukkan semangat belajar dan nilai yang selaras dengan kolaborasi dan inklusivitas COCONUT.
+|Kejelasan Respons |Jawaban yang reflektif, jelas, dan relevan, mencerminkan kedewasaan dan kritisisasi berpikir.
+|Antusiasme & Komitmen |Keterlibatan aktif dan kesiapan untuk melanjutkan ke tahap pembinaan.
+|Kecocokan dengan Budaya |Kesesuaian antara karakter dan nilai pribadi dengan prinsip komunitas.
+|Korelasi dengan Performa |Hasil interview mencerminkan keterlibatan nyata dalam proyek dan kegiatan komunitas.
+|===

@@ -1,0 +1,90 @@
+= ROOT (Research Orientation of Training)
+:navtitle: ROOT
+:description: Core principles and foundation of COCONUT activities
+:keywords: COCONUT, orientation, training, technology, collaboration, community
+
+== Ikhtisar
+*ROOT (Research Orientation of Training)* Lebih dari sekadar orientasi, ROOT adalah perjalanan transformasi yang mengubah rasa ingin tahu tentang teknologi menjadi semangat untuk berkontribusi aktif dalam club inovasi. Melalui pelatihan, diskusi, dan aktivitas kelompok, ROOT membangun fondasi untuk belajar, berkolaborasi, dan berdampak bersama.
+
+== Latar Belakang
+ROOT adalah tahap wajib bagi setiap calon anggota COCONUT. Dirancang untuk memperkenalkan dunia teknologi secara menyeluruh, ROOT membantu calon anggota memahami potensi diri, mengasah keterampilan dasar, dan menanamkan nilai-nilai kolaborasi, inovasi, dan semangat belajar. Dengan pendekatan yang suportif dan interaktif, ROOT menjadi gerbang menuju perjalanan panjang di COCONUT—tempat di mana setiap individu diajak untuk belajar, berkarya, dan menciptakan perubahan positif.
+
+== Tujuan
+[cols="2,3",options="header"]
+|===
+|Tujuan |Deskripsi
+|Mengenalkan Fondasi Teknologi |Memberikan pemahaman dasar tentang teknologi modern, seperti AI, IoT, Git, Pemrograman, dan Security.
+|Membangun Kapasitas Individu |Melatih *soft skills* seperti komunikasi, pemecahan masalah, dan pola pikir berkembang.
+|Mendorong Kolaborasi |Menciptakan lingkungan kerja tim yang mendukung inovasi melalui aktivitas kelompok.
+|Menanamkan Nilai COCONUT |Mengintegrasikan visi, misi, dan budaya kolaboratif organisasi ke dalam pola pikir calon anggota.
+|Mempersiapkan Kontribusi |Menyiapkan calon anggota untuk terlibat aktif dalam proyek teknologi dan sosial.
+|===
+
+== Ruang Lingkup Kegiatan
+ROOT menggabungkan Content wajib dan fleksibel untuk memberikan pengalaman belajar yang menyeluruh dan relevan dengan perkembangan teknologi.
+
+=== Content Wajib
+[cols="1,3",options="header"]
+|===
+|Kegiatan |Fokus
+|Materi Sejarah COCONUT |Mengenal akar, semangat, dan perjalanan organisasi untuk memperkuat rasa memiliki.
+|Materi Fundamental five-Sector |Pengenalan dasar sektor finansial, energi, kesehatan, pendidikan dan infrastruktur.
+|Movie Time |Memberikan motivasi melalui film inspiratif di pagi hari untuk menanamkan nilai ketekunan dan kerja sama (Accepted 2006 & Frequencies-2013 - OXV: The Manual).
+|Games Logika & Ketangkasan |Melatih berpikir kritis dan kolaborasi melalui permainan kelompok.
+|Menggambar Alam & Games Alam (Outdoor) |Mengasah kreativitas dan kerja sama melalui aktivitas luar ruang yang edukatif.
+|Hafalan |Calon anggota wajib menghafal *Command Line Linux*, *Satuan Byte*, *OSI Layer & TCP/IP* dan *Alfabet fonetik (Telephony & Morse Code)*.
+|===
+
+=== Content Fleksibel
+[cols="1,3",options="header"]
+|===
+|Materi |Penjelasan
+|Fundamental AI |Dasar-dasar AI dan istilah umum yang digunakan dalam AI.
+|Fundamental IoT |Dasar-dasar IoT, penjelasan dasar dan pemahaman tentang IoT.
+|Fundamental Security | Dasar-dasar keamanan digital. 
+|Linux OS |Penggunaan sistem operasi open-source untuk server dan development.
+|Pemrograman |Pengenalan logika dan struktur pengembangan aplikasi.
+|Roadmap, Git, dan GitHub |Perencanaan karir teknologi dan pengelolaan proyek dengan version control.
+|Metodologi Scrum |Pendekatan agile untuk manajemen proyek dan kolaborasi tim.
+|Metode Riset |Pendekatan ilmiah untuk mengidentifikasi masalah dan menyusun solusi.
+|Sejarah Komputer, Jaringan dan Bahasa Pemrograman |Evolusi komputer, jaringan, bahasa program dan paradigma teknologi.
+|Public Speaking |Latihan berbicara di depan umum dengan percaya diri dan efektif.
+|Problem Solving |Strategi kreatif untuk menyelesaikan masalah teknis dan non-teknis.
+|Growth Mindset |Menumbuhkan pola pikir berkembang untuk menghadapi tantangan.
+|===
+
+[NOTE]
+====
+Content Fleksibel bersifat dinamis dan dapat diperbarui setiap periode untuk menjaga relevansi dan kreativitas.
+====
+
+== Output yang Diharapkan
+ROOT dirancang untuk menghasilkan:
+
+- **Pemahaman Teknologi**: Calon anggota menguasai konsep dasar teknologi seperti AI, IoT dan Security.
+- **Keterampilan Teknis**: Peningkatan *hard skills* yang relevan untuk proyek teknologi.
+- **Keterampilan Lunak**: Kemampuan komunikasi, pemecahan masalah, dan kerja tim yang lebih baik.
+- **Internalisasi Nilai**: Pemahaman mendalam tentang budaya kolaborasi dan inovasi COCONUT.
+- **Motivasi Belajar**: Sikap proaktif dan semangat untuk terus berkembang.
+- **Jaringan Sosial**: Hubungan erat antar calon anggota sebagai modal kolaborasi di masa depan.
+- **Kesiapan Kontribusi**: Calon anggota siap menjadi anggota aktif yang berkontribusi pada proyek club.
+
+== Indikator Keberhasilan
+Keberhasilan ROOT diukur melalui:
+
+[cols="2,3",options="header"]
+|===
+|Aspek |Indikator
+|Pemahaman Teknologi |80% calon anggota dapat memahami seluruh materi.
+|Kapasitas Individu |85% Calon anggota menunjukkan peningkatan dalam komunikasi dan pemecahan masalah.
+|Kolaborasi |90% Calon anggota aktif dalam aktivitas kelompok dan games alam.
+|Internalisasi Nilai |75% Calon anggota mampu mengartikulasikan visi COCONUT dalam diskusi.
+|===
+
+== Penutup
+ROOT adalah lebih dari sekadar pelatihan awal—ini adalah langkah pertama untuk menjadi bagian dari keluarga *COCONUT Computer Club*. Di sini, Anda akan belajar dari dasar, menemukan potensi diri, dan membangun ikatan dengan sesama calon inovator. Dengan semangat kolaborasi dan inovasi, ROOT mempersiapkan Anda untuk berkontribusi nyata dalam teknologi dan masyarakat.
+
+[NOTE]
+====
+Mari mulai perjalanan ini dengan rasa ingin tahu dan semangat berbagi. Bersama COCONUT, kita wujudkan ide-ide besar!
+====

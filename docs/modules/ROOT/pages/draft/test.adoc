@@ -1,0 +1,54 @@
+= Now Open - Test
+:navtitle: Bluebook - Now Open - Test
+:description: Tahapan tes tertulis dalam proses rekrutmen anggota COCONUT Computer Club
+:keywords: COCONUT, rekrutmen, tes tertulis, teknologi, logika, MBTI
+
+== Ikhtisar
+Tes ini merupakan bagian untuk mengenal potensi dan karakter calon anggota *COCONUT Computer Club*. Dirancang untuk menilai kemampuan logika, minat teknologi, dan kepribadian pendaftar, sekaligus memahami bagaimana pendaftar dapat berkembang dalam club kami yang kolaboratif, inklusif dan adaptif.
+
+Tes tertulis ini adalah kesempatan untuk melihat potensi pendaftar melalui tiga aspek utama:
+
+- **Logika dan Pemecahan Masalah**: Bagaimana pendaftar menganalisis dan menyelesaikan tantangan secara sistematis.
+- **Minat Teknologi**: Seberapa besar ketertarikan dan kesiapan pendaftar dalam menjelajahi dunia teknologi, , sains, seni, dan atau inovasi teknologi dalam sektor finance, energi, kesehatan, pendidikan dan infrastruktur .
+- **Kepribadian (MBTI)**: Gaya belajar, cara berkomunikasi, dan posisi ideal dalam tim kolaboratif.
+
+Hasil tes ini akan membantu kami menyusun perjalanan belajar yang sesuai dengan kekuatan dan kebutuhan para pendaftar, memastikan kesiapan berkontribusi dalam proyek teknologi dan sosial yang bermakna.
+
+== Komponen Tes
+Tes ini terdiri dari empat bagian untuk memberikan gambaran menyeluruh tentang potensi pendaftar:
+
+[cols="2,5",options="header"]
+|===
+|Bagian Tes |Deskripsi
+|Pilihan Ganda |Mengukur pemahaman dasar teknologi, logika, dan pengetahuan umum terkait bidang komputasi.
+|Esai |Menilai kemampuan berpikir kritis, kreativitas, dan cara pendaftar mengartikulasikan ide atau solusi.
+|Psikotes |Menggali pola berpikir, kemampuan analitis, dan ketahanan dalam menghadapi tantangan.
+|MBTI |Memahami kepribadian, gaya komunikasi, dan preferensi kerja untuk mendukung kolaborasi tim.
+|===
+
+== Tujuan
+- **Menemukan Potensi Teknologi**: Mengukur minat dan pemahaman awal Anda di bidang teknologi, seperti pemrograman, desain digital, atau logika komputasi.
+- **Menguji Logika dan Kreativitas**: Melihat cara Anda menyelesaikan masalah dengan pendekatan yang sistematis dan inovatif.
+- **Mengenal Kepribadian Anda**: Memahami karakter dan gaya belajar (berdasarkan MBTI) untuk menempatkan Anda pada peran yang tepat dalam tim.
+- **Menilai Kesiapan Belajar**: Memastikan Anda terbuka untuk belajar dari dasar dan berkembang dalam lingkungan yang suportif.
+- **Mempersiapkan Kontributor Nyata**: Mengidentifikasi individu yang siap terlibat dalam proyek COCONUT, seperti pelatihan digital, pengembangan teknologi masyarakat, atau riset kolaboratif.
+
+== Output yang Diharapkan
+Harapan kami dalam tes ini dapat menghasilkan:
+
+- **Calon Anggota Potensial**: Terpilihnya individu dengan logika kuat, minat belajar yang kuat, motivasi dan memiliki daya tahan tinggi, serta kepribadian yang selaras dengan nilai kolaboratif COCONUT.
+- **Pemetaan Gaya Belajar**: Gambaran awal tentang preferensi belajar dan kepribadian untuk mendukung pendekatan pembinaan yang personal.
+- **Strategi Pengembangan Terarah**: Rencana pembelajaran yang sesuai dengan hasil tes, memastikan onboarding yang efektif dan progresif.
+- **Pondasi Regenerasi Club**: Seleksi calon anggota baru yang mendukung keberlanjutan COCONUT melalui kontribusi teknis dan sosial yang berkelanjutan.
+
+== Indikator Keberhasilan
+Keberhasilan tes diukur melalui:
+
+[cols="2,5",options="header"]
+|===
+|Indikator |Deskripsi
+|Seleksi Calon Berkualitas |Terpilihnya peserta dengan kemampuan logika, potensi teknologi, dan nilai yang selaras dengan COCONUT.
+|Akurasi Hasil Tes |Hasil tes memberikan data yang jelas untuk merancang pembinaan yang sesuai dengan kebutuhan individu.
+|Antusiasme Peserta |Tingginya keterlibatan peserta dalam menyelesaikan tes dengan serius dan semangat.
+|Korelasi dengan Kinerja |Hasil tes mencerminkan kesiapan peserta untuk berkontribusi dalam kegiatan seperti pelatihan atau proyek tim.
+|===
