@@ -2170,6 +2170,8 @@ body {
     z-index: 4;
     -webkit-backdrop-filter: blur(8px);
     backdrop-filter: blur(8px);
+    display: flex;
+    flex-direction: column;
 }
 
 .navbar-main{
