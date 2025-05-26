@@ -27,4 +27,4 @@ The site is hosted at {url-bluebook}[bluebook.coconut.or.id], with the source co
 
 == Copyright and License
 
-Copyright (C) 2025 COCONUT Computer Club and individual contributors.
+Copyright (C) 2025 COCONUT Computer Club
