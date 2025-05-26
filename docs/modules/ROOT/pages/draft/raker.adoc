@@ -1,4 +1,4 @@
-= Rapat Kerja COCONUT Computer Club
+= Meeting - Raker
 :navtitle: Bluebook - Meeting - Raker
 :description: Forum tahunan COCONUT Computer Club untuk menyusun program kerja pengurus
 :keywords: COCONUT, rapat kerja, raker, program kerja, teknologi, study club
@@ -25,53 +25,53 @@ Raker memberikan ruang bagi setiap divisi untuk :
 | Merancang Strategi Pelaksanaan | Menyusun strategi pelaksanaan, pengelolaan sumber daya (manusia, dana, infrastruktur), dan mekanisme evaluasi untuk memantau keberhasilan program.
 |===
 
-== Contoh Program Kerja BPH Peroide 2024 - 2025
+== Contoh Program Kerja BPH Periode 2024 - 2025
+
 [cols="1,3", options="header"]
 |===
-| Divisi | Program Kerja
+| **Divisi** | **Program Kerja**
 
-| Ketua Umum
-| Seminar Nasional / IT Fest
+| **Ketua Umum**
+| 1. Seminar Nasional / IT Fest
 
-| Sekretaris Umum
-| - Pengarsipan Surat Menyurat BPH
-  - Pengadaan Kalender Program Kerja
+| **Sekretaris Umum**
+| 1. Pengarsipan Surat Menyurat BPH  
+  2. Pengadaan Kalender Program Kerja
 
-| Bendahara Umum
-| - Iuran BPH
-  - Iuran Anggota
-  - Sistem Keuangan Bendahara
+| **Bendahara Umum**
+| 1. Iuran BPH  
+  2. Iuran Anggota  
+  3. Sistem Keuangan Bendahara
 
-| Departemen Keorganisasian
-| - Pendaftaran Calon Anggota
-  - Pelaksanaan ROOT
-  - INESA
-  - Pengukuhan Calon Anggota
-  - Penambahan Atribut Anggota (KTA, PDL)
-  - Perawatan & Pengadaan Inventaris
-  - Pengadaan Sekretariat
-  - Musyawarah Besar
-  - Dana Usaha
-  - Pengadaan Website ALGO
+| **Departemen Keorganisasian**
+| 1. Pendaftaran Calon Anggota  
+  2. Pelaksanaan ROOT  
+  3. INESA  
+  4. Pengukuhan Calon Anggota  
+  5. Penambahan Atribut Anggota (KTA, PDL)  
+  6. Perawatan & Pengadaan Inventaris  
+  7. Pengadaan Sekretariat  
+  8. Musyawarah Besar  
+  9. Dana Usaha  
+  10. Pengadaan Website ALGO
 
-| Departemen Pembelajaran
-| - Pembelajaran Calgot
-  - Evaluasi Calgot
-  - Pembelajaran Anggota
-  - Evaluasi Anggota
-  - Pembelajaran BPH
-  - Project Riset BPH
-  - Project Riset Anggota
-  - Coconut Open Class (COC)
-  - Sunday Vocabulary
-  - Coconut Sharing Session
+| **Departemen Pembelajaran**
+| 1. Pembelajaran Calgot  
+  2. Evaluasi Calgot  
+  3. Pembelajaran Anggota  
+  4. Evaluasi Anggota  
+  5. Pembelajaran BPH  
+  6. Project Riset BPH  
+  7. Project Riset Anggota  
+  8. Coconut Open Class (COC)  
+  9. Sunday Vocabulary  
+  10. Coconut Sharing Session
 
-| Departemen Humas
-| - Dies Natalis
-  - Kunjungan Industri
-  - IT Camp
+| **Departemen Humas**
+| 1. Dies Natalis  
+  2. Kunjungan Industri  
+  3. IT Camp
 |===
-
 
 
 == Output yang Diharapkan
