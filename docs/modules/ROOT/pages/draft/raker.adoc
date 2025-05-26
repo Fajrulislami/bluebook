@@ -1,5 +1,5 @@
 = Rapat Kerja COCONUT Computer Club
-:navtitle: COCONUT - Rapat Kerja Tahunan
+:navtitle: Bluebook - Meeting - Raker
 :description: Forum tahunan COCONUT Computer Club untuk menyusun program kerja pengurus
 :keywords: COCONUT, rapat kerja, raker, program kerja, teknologi, study club
 
