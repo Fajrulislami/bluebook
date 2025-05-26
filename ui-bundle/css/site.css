@@ -649,7 +649,7 @@ body.-toc aside.toc.sidebar {
     -ms-flex-pack: start;
     justify-content: flex-start;
     position: sticky;
-    top: 3.5rem;
+    /* top: 3.5rem; */
     z-index: 2
 }
 
@@ -2156,7 +2156,7 @@ nav.pagination .next a::after {
 }
 
 body {
-    padding-top: 3.5rem
+    padding-top: 5.5rem
 }
 
 .navbar {
@@ -2693,7 +2693,7 @@ footer.footer {
     }
 
     body {
-        padding-top: 2rem
+        padding-top: 4rem
     }
 
     .navbar {
