@@ -1,15 +1,15 @@
 = Meeting - Raker
 :navtitle: Bluebook - Meeting - Raker
-:description: Forum tahunan COCONUT Computer Club untuk menyusun program kerja pengurus
-:keywords: COCONUT, rapat kerja, raker, program kerja, teknologi, study club
+:description: Meeting tahunan COCONUT Computer Club untuk menyusun program kerja pengurus
+:keywords: COCONUT, rapat kerja, raker, proker, teknologi, study club
 
 == Ikhtisar
-Rapat Kerja (Raker) COCONUT Computer Club adalah forum tahunan yang mempertemukan seluruh pengurus untuk menyusun dan menyepakati program kerja selama satu periode serta penetapan Koord dan pembagian anggota antar departemen.
-Rapat Kerja (Raker) merupakan kegiatan penting yang diselenggarakan di awal periode kepengurusan COCONUT Computer Club. Kegiatan ini dilaksanakan sebagai forum perencanaan strategis yang mempertemukan seluruh pengurus untuk menyusun arah kerja organisasi selama satu tahun ke depan.
+*Raker* (Rapat Kerja) COCONUT Computer Club adalah meeting tahunan yang mempertemukan seluruh pengurus untuk menyusun dan menyepakati program kerja selama satu periode serta penetapan Koord dan pembagian anggota antar departemen.
+Rapat Kerja merupakan kegiatan penting yang diselenggarakan di awal periode kepengurusan COCONUT Computer Club. Kegiatan ini dilaksanakan sebagai meeting perencanaan strategis yang mempertemukan seluruh pengurus untuk menyusun arah kerja organisasi selama satu tahun ke depan.
 
 Raker memberikan ruang bagi setiap departemen untuk :
 
-- **Menyampaikan Ide** : Mengusulkan program kerja inovatif yang mendukung pengembangan teknologi dan club.
+- **Menyampaikan Ide** : Mengusulkan program kerja inovatif yang mendukung pengembangan teknologi dan organisasi.
 - **Menyusun Strategi** : Merancang rencana pelaksanaan, alokasi sumber daya, dan evaluasi program.
 - **Membangun Kolaborasi** : Menyelaraskan tujuan antar-departemen untuk menciptakan sinergi dalam kegiatan organisasi.
 
