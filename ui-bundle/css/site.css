@@ -637,7 +637,7 @@ body.-toc aside.toc.sidebar {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: #fafafa;
+    /* background-color: #fafafa; */
     -webkit-box-shadow: 0 1px 0 #e1e1e1;
     box-shadow: 0 1px 0 #e1e1e1;
     display: -webkit-box;
@@ -2163,13 +2163,17 @@ body {
     background: transparent;
     /* color: #fff; */
     font-size: .88889rem;
-    height: 3.5rem;
+    /* height: 3.5rem; */
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 4;
     -webkit-backdrop-filter: blur(8px);
     backdrop-filter: blur(8px);
+}
+
+.navbar-main{
+    display: flex;
 }
 
 .navbar a {
