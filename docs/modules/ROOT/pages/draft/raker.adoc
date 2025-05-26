@@ -26,7 +26,7 @@ Raker memberikan ruang bagi setiap divisi untuk :
 |===
 
 ==Struktur Organisasi BPH 013
-image::
+image::struktur-organisasi-BPH-013.png[BPH 013, width=100%, align=center]
 
 == Contoh Program Kerja BPH Periode 2024 - 2025
 
