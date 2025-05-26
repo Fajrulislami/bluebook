@@ -2160,14 +2160,16 @@ body {
 }
 
 .navbar {
-    background: #191919;
-    color: #fff;
+    background: transparent;
+    /* color: #fff; */
     font-size: .88889rem;
     height: 3.5rem;
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 4
+    z-index: 4;
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
 }
 
 .navbar a {
@@ -2183,10 +2185,10 @@ body {
     flex: auto;
     padding-left: 1rem
 }
-
+/* 
 .navbar-brand .navbar-item {
     color: #fff
-}
+} */
 
 .navbar-brand .navbar-item:first-child {
     -ms-flex-item-align: center;
