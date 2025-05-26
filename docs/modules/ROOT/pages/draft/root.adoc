@@ -4,7 +4,7 @@
 :keywords: COCONUT, orientation, training, technology, collaboration, community
 
 == Ikhtisar
-*ROOT (Research Orientation of Training)* Lebih dari sekadar orientasi, ROOT adalah perjalanan transformasi yang mengubah rasa ingin tahu tentang teknologi menjadi semangat untuk berkontribusi aktif dalam komunitas inovasi. Melalui pelatihan, diskusi, dan aktivitas kelompok, ROOT membangun fondasi untuk belajar, berkolaborasi, dan berdampak bersama.
+*ROOT (Research Orientation of Training)* Lebih dari sekadar orientasi, ROOT adalah perjalanan transformasi yang mengubah rasa ingin tahu tentang teknologi menjadi semangat untuk berkontribusi aktif dalam club inovasi. Melalui pelatihan, diskusi, dan aktivitas kelompok, ROOT membangun fondasi untuk belajar, berkolaborasi, dan berdampak bersama.
 
 == Latar Belakang
 ROOT adalah tahap wajib bagi setiap calon anggota COCONUT. Dirancang untuk memperkenalkan dunia teknologi secara menyeluruh, ROOT membantu calon anggota memahami potensi diri, mengasah keterampilan dasar, dan menanamkan nilai-nilai kolaborasi, inovasi, dan semangat belajar. Dengan pendekatan yang suportif dan interaktif, ROOT menjadi gerbang menuju perjalanan panjang di COCONUT—tempat di mana setiap individu diajak untuk belajar, berkarya, dan menciptakan perubahan positif.
@@ -67,7 +67,7 @@ ROOT dirancang untuk menghasilkan:
 - **Internalisasi Nilai**: Pemahaman mendalam tentang budaya kolaborasi dan inovasi COCONUT.
 - **Motivasi Belajar**: Sikap proaktif dan semangat untuk terus berkembang.
 - **Jaringan Sosial**: Hubungan erat antar calon anggota sebagai modal kolaborasi di masa depan.
-- **Kesiapan Kontribusi**: Calon anggota siap menjadi anggota aktif yang berkontribusi pada proyek komunitas.
+- **Kesiapan Kontribusi**: Calon anggota siap menjadi anggota aktif yang berkontribusi pada proyek club.
 
 == Indikator Keberhasilan
 Keberhasilan ROOT diukur melalui:
