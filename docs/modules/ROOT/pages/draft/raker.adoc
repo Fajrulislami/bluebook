@@ -25,7 +25,7 @@ Raker memberikan ruang bagi setiap divisi untuk :
 | Merancang Strategi Pelaksanaan | Menyusun strategi pelaksanaan, pengelolaan sumber daya (manusia, dana, infrastruktur), dan mekanisme evaluasi untuk memantau keberhasilan program.
 |===
 
-==Struktur Organisasi BPH 013
+== Struktur Organisasi BPH 013
 
 image::struktur-organisasi-BPH-013.png[BPH 013, width=100%, align=center]
 
