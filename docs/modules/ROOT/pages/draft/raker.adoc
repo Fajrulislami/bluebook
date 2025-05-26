@@ -38,14 +38,15 @@ Raker memberikan ruang bagi setiap divisi untuk :
 | **Sekretaris Umum**
 | 
 1. Pengarsipan Surat Menyurat BPH  
+2. Pengadaan Kalender Program Kerja 
 |
-2. Pengadaan Kalender Program Kerja
 
 | **Bendahara Umum**
 | 
 1. Iuran BPH  
 2. Iuran Anggota  
-3. Sistem Keuangan Bendahara
+3. Sistem Keuangan Bendahara 
+|
 
 | **Departemen Keorganisasian**
 | 
@@ -59,6 +60,7 @@ Raker memberikan ruang bagi setiap divisi untuk :
 8. Musyawarah Besar  
 9. Dana Usaha  
 10. Pengadaan Website ALGO
+|
 
 | **Departemen Pembelajaran**
 | 
@@ -72,6 +74,7 @@ Raker memberikan ruang bagi setiap divisi untuk :
 8. Coconut Open Class (COC)  
 9. Sunday Vocabulary  
 10. Coconut Sharing Session
+|
 
 | **Departemen Humas**
 | 
