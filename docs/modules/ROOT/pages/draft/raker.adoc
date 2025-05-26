@@ -4,8 +4,8 @@
 :keywords: COCONUT, rapat kerja, raker, proker, teknologi, study club
 
 == Ikhtisar
-*Raker* (Rapat Kerja) COCONUT Computer Club adalah meeting tahunan yang mempertemukan seluruh pengurus untuk menyusun dan menyepakati program kerja selama satu periode serta penetapan Koord dan pembagian anggota antar departemen.
-Rapat Kerja merupakan kegiatan penting yang diselenggarakan di awal periode kepengurusan COCONUT Computer Club. Kegiatan ini dilaksanakan sebagai meeting perencanaan strategis yang mempertemukan seluruh pengurus untuk menyusun arah kerja organisasi selama satu tahun ke depan.
+*Raker* (Rapat Kerja) adalah bagian meeting tahunan yang mempertemukan seluruh pengurus untuk menyusun dan menyepakati Proker (program kerja) selama satu periode serta penetapan Koordinator dan pembagian anggota antar departemen.
+Rapat Kerja merupakan kegiatan mandatory yang diselenggarakan di awal periode kepengurusan COCONUT Computer Club. Kegiatan ini dilaksanakan sebagai meeting perencanaan strategis yang mempertemukan seluruh pengurus untuk menyusun arah kerja organisasi selama satu tahun ke depan.
 
 Raker memberikan ruang bagi setiap departemen untuk :
 
@@ -18,7 +18,7 @@ Raker memberikan ruang bagi setiap departemen untuk :
 |===
 | *Tujuan* | *Penjelasan*
 | Menyelaraskan Rencana Antar departemen | Memastikan tidak ada kegiatan yang saling bertabrakan dalam hal waktu, sumber daya, maupun tujuan.
-| Menyusun Program Kerja | Merumuskan dan menyepakati program kerja tahunan setiap departemen secara terbuka dan kolaboratif, mencakup kegiatan teknologi seperti pelatihan pemrograman atau proyek inovasi.
+| Menyusun Program Kerja | Merumuskan dan menyepakati program kerja tahunan setiap departemen secara terbuka dan kolaboratif, mencakup kegiatan teknologi seperti workshop atau proyek inovasi.
 | Menentukan Prioritas & Jadwal | Menetapkan prioritas program, waktu pelaksanaan, dan pembagian tanggung jawab antar-pengurus untuk memastikan efisiensi dan efektivitas.
 | Merancang Strategi Pelaksanaan | Menyusun strategi pelaksanaan, pengelolaan sumber daya (manusia, dana, infrastruktur), dan mekanisme evaluasi untuk memantau keberhasilan program.
 |===
@@ -82,7 +82,7 @@ a|
 |===
 
 [NOTE]
-Proker (Program Kerja) periode sebelumnya adalah sebagai landasan yang bersifat dinamis (*Update Periodik*) untuk beberapa jenis Proker. Proker yang wajib ada di terdapat pada menu di samping.
+Proker (Program Kerja) periode sebelumnya adalah sebagai landasan yang bersifat dinamis (*Update Periodik*) untuk beberapa jenis Proker. Proker yang mandatory ada di terdapat pada menu di samping.
 
 == Output yang Diharapkan
 Harapan dari pelaksanaan Rapat Kerja ini meliputi:
