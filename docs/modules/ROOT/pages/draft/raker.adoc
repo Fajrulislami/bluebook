@@ -9,10 +9,11 @@ Rapat Kerja (Raker) COCONUT Computer Club adalah forum tahunan yang mempertemuka
 == Latar Belakang
 Rapat Kerja (Raker) merupakan kegiatan penting yang diselenggarakan di awal periode kepengurusan COCONUT Computer Club. Kegiatan ini dilaksanakan sebagai forum perencanaan strategis yang mempertemukan seluruh pengurus untuk menyusun arah kerja organisasi selama satu tahun ke depan.
 
-Raker memberikan ruang bagi setiap divisi untuk:
-- **Menyampaikan Ide**: Mengusulkan program kerja inovatif yang mendukung pengembangan teknologi dan komunitas.
-- **Menyusun Strategi**: Merancang rencana pelaksanaan, alokasi sumber daya, dan evaluasi program.
-- **Membangun Kolaborasi**: Menyelaraskan tujuan antar-divisi untuk menciptakan sinergi dalam kegiatan organisasi.
+Raker memberikan ruang bagi setiap divisi untuk :
+
+- **Menyampaikan Ide** : Mengusulkan program kerja inovatif yang mendukung pengembangan teknologi dan komunitas.
+- **Menyusun Strategi** : Merancang rencana pelaksanaan, alokasi sumber daya, dan evaluasi program.
+- **Membangun Kolaborasi** : Menyelaraskan tujuan antar-divisi untuk menciptakan sinergi dalam kegiatan organisasi.
 
 == Tujuan Rapat Kerja
 [cols="1,3",options="header",stripes=even,grid=rows,frame=all]
@@ -27,11 +28,11 @@ Raker memberikan ruang bagi setiap divisi untuk:
 == Output yang Diharapkan
 Harapan dari pelaksanaan Rapat Kerja ini meliputi:
 
-- **Dokumen Program Kerja Resmi**: Tersusunnya dokumen program kerja setiap divisi yang jelas, terperinci, dan siap dijalankan, mencakup kegiatan seperti pelatihan teknologi, hackathon, atau proyek kolaboratif.
-- **Kesepakatan Kolaborasi Lintas Divisi**: Tercapainya sinergi antar-divisi untuk mendukung program bersama, seperti event teknologi atau riset komunitas.
+- **Dokumen Program Kerja Resmi** : Tersusunnya dokumen program kerja setiap divisi yang jelas, terperinci, dan siap dijalankan, mencakup kegiatan seperti pelatihan teknologi, hackathon, atau proyek kolaboratif.
+- **Kesepakatan Kolaborasi Lintas Divisi** : Tercapainya sinergi antar-divisi untuk mendukung program bersama, seperti event teknologi atau riset komunitas.
 - **Jadwal Kegiatan Tahunan**: Penyusunan timeline kegiatan organisasi yang terkoordinasi dan realistis.
-- **Rencana Pendanaan & Sumber Daya**: Tersusunnya alokasi anggaran dan sumber daya internal untuk mendukung pelaksanaan program.
-- **Komitmen Pengurus yang Kuat**: Terjalinnya semangat dan komitmen pengurus untuk menjalankan tugas dengan terarah dan terkoordinasi.
+- **Rencana Pendanaan & Sumber Daya** : Tersusunnya alokasi anggaran dan sumber daya internal untuk mendukung pelaksanaan program.
+- **Komitmen Pengurus yang Kuat** : Terjalinnya semangat dan komitmen pengurus untuk menjalankan tugas dengan terarah dan terkoordinasi.
 
 == Indikator Keberhasilan
 Keberhasilan Rapat Kerja diukur melalui indikator berikut:
