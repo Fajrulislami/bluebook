@@ -446,7 +446,9 @@ object[type="image/svg+xml"]:not([width]) {
 
 .is-current-page>.nav-link,
 .is-current-page>.nav-text {
-    font-weight: 600
+    font-weight: 600;
+    color: #2a5bba;
+    
 }
 
 .nav-panel-explore {
@@ -930,7 +932,7 @@ a+.breadcrumbs {
     line-height: 1.6;
     margin: 0 auto;
     max-width: 40rem;
-    padding: 0 1rem 4rem
+    padding: 0 1.5rem 4rem
 }
 
 @media screen and (min-width:1024px) {
@@ -940,7 +942,7 @@ a+.breadcrumbs {
         flex: auto;
         font-size: .94444rem;
         margin: 0 2rem;
-        max-width: 46rem;
+        max-width: 70rem;
         min-width: 0
     }
 }
@@ -2541,7 +2543,9 @@ footer.footer {
     color: #5d5d5d;
     font-size: .83333rem;
     line-height: 1.6;
-    padding: 1.5rem
+    padding: 1.5rem;
+    text-align: center;
+
 }
 
 .footer p {
