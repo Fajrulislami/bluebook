@@ -447,7 +447,7 @@ object[type="image/svg+xml"]:not([width]) {
 .is-current-page>.nav-link,
 .is-current-page>.nav-text {
     font-weight: 600;
-    color: #2a5bba;
+    color: #115284;
     
 }
 
@@ -2222,6 +2222,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 50%;
+    padding-left: 1.5rem;
 }
 
 .navbar-brand .navbar-item:first-child a {
