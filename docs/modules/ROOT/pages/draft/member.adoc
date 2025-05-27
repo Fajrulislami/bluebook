@@ -1,6 +1,6 @@
 = Learning - Member
 
-== IKHTISAR
+== Ikhtisar
 Pembelajaran anggota di COCONUT Computer Club bertujuan mengembangkan keterampilan teknis (hard skill) dan sosial (soft skill). Anggota akan dibekali kemampuan di bidang Front-end, Back-end, dan Sistem untuk berkontribusi dalam pengembangan aplikasi dan infrastruktur teknologi. Selain itu, mereka juga akan mengasah soft skill seperti kepemimpinan, daya tahan berpikir, resiliensi, keberanian, dan tanggung jawab untuk menghadapi tantangan dunia digital.
 
 == Tujuan
@@ -33,7 +33,7 @@ Kemampuan untuk mengambil risiko yang terukur, menyampaikan pendapat secara terb
 ==== Tanggung Jawab (Responsibility)
 Sikap yang mencerminkan komitmen dalam menyelesaikan tugas dengan integritas tinggi, kesadaran terhadap dampak pekerjaan yang dilakukan, serta kesediaan untuk mempertanggungjawabkan setiap tindakan yang diambil.
 
-== EVALUASI
+== Evaluasi
 Evaluasi terhadap anggota juga mencakup sejauh mana pemahaman dan keterlibatan mereka terhadap perkembangan teknologi, khususnya dalam mengikuti inovasi dan tren terbaru yang muncul pada masa kini. Hal ini meliputi kemampuan anggota dalam mengidentifikasi, mempelajari, dan menerapkan teknologi-teknologi terbaru yang relevan, baik dalam konteks perangkat lunak, perangkat keras, maupun metodologi kerja. Pemahaman terhadap kemajuan teknologi menjadi indikator penting dalam menilai kesiapan anggota untuk beradaptasi dengan perubahan, meningkatkan efisiensi kerja, serta mendukung terciptanya solusi yang inovatif dan berkelanjutan.
 
 == Aspek dan Indikator
