@@ -442,7 +442,8 @@ object[type="image/svg+xml"]:not([width]) {
     margin-top: -.05em;
     margin-left: -1.35em;
     right: 0;
-    font-size: inherit;
+    font-size: 1.2rem;
+    opacity: 0.5;
 }
 
 .nav-item.is-active>.nav-item-toggle {
