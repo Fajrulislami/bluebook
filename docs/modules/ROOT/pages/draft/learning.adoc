@@ -23,22 +23,17 @@ Anggota adalah individu yang telah melewati proses seleksi dan pembekalan awal, 
 
 [cols="1,2", options="header"]
 |===
-| Aspek                  | Indikator
+| **Aspek**                  | **Indikator**
 
-| Penguasaan Hard Skill
-| 80% anggota mampu menguasai teknologi dasar dan lanjutan sesuai bidang Frontend, Backend, dan Sistem.
+| Penguasaan Hard Skill      | 80% anggota mampu menguasai teknologi dasar dan lanjutan sesuai bidang Frontend, Backend, dan Sistem.
 
-| Pengembangan Soft Skill
-| 85% anggota menunjukkan peningkatan dalam kepemimpinan, daya tahan berpikir, dan tanggung jawab.
+| Pengembangan Soft Skill    | 85% anggota menunjukkan peningkatan dalam kepemimpinan, daya tahan berpikir, dan tanggung jawab.
 
-| Adaptasi Teknologi
-| 90% anggota mampu mengikuti, mempelajari, dan mengimplementasikan teknologi terbaru dalam proyek.
+| Adaptasi Teknologi         | 90% anggota mampu mengikuti, mempelajari, dan mengimplementasikan teknologi terbaru dalam proyek.
 
-| Kolaborasi Tim
-| 88% anggota aktif berpartisipasi dalam kerja tim dan komunikasi efektif dalam proyek bersama.
+| Kolaborasi Tim             | 88% anggota aktif berpartisipasi dalam kerja tim dan komunikasi efektif dalam proyek bersama.
 
-| Komitmen dan Tanggung Jawab
-| 80% anggota menyelesaikan tugas tepat waktu dengan integritas dan mempertanggungjawabkan hasil kerja.
+| Komitmen dan Tanggung Jawab | 80% anggota menyelesaikan tugas tepat waktu dengan integritas dan mempertanggungjawabkan hasil kerja.
 |===
 
 == Penutup
