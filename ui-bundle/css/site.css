@@ -363,7 +363,8 @@ object[type="image/svg+xml"]:not([width]) {
 
 .nav-menu {
     min-height: 100%;
-    padding: .5rem .75rem;
+    /* padding: .5rem .75rem; */
+    padding: .5rem .75rem .5rem 2rem;
     line-height: 1.35;
     position: relative
 }
