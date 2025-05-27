@@ -2203,7 +2203,24 @@ body {
     font-size: 1.22222rem;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    line-height: 1
+    line-height: 1;
+    position: relative;
+    padding-left: 2.5rem;
+}
+
+.navbar-brand .navbar-item:first-child::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 2rem;
+    height: 2rem;
+    background-image: url("https://avatars.githubusercontent.com/u/202527445?v=4");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%; /* Optional: if you want the image to be circular */
 }
 
 .navbar-brand .navbar-item:first-child a {
