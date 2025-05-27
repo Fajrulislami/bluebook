@@ -1,36 +1,45 @@
-# Learning
+= Learning
+:navtitle: Learning
+:description: Learning programs for COCONUT members and participants
+:keywords: COCONUT, learning, calgot, education
 
-## Ikhtisar  
+== Ikhtisar
 Pembelajaran di dalam COCONUT Computer Club dirancang untuk membekali anggota dengan keterampilan teknis (hard skill) dan keterampilan sosial (soft skill) yang relevan dengan perkembangan teknologi terkini. Proses pembelajaran ini tidak hanya fokus pada penguasaan teknologi, tetapi juga membangun karakter dan kemampuan adaptasi anggota agar siap menghadapi tantangan di dunia digital yang terus berubah.
 
-## Tujuan  
-Pembelajaran bertujuan untuk memastikan setiap anggota:  
-- Memiliki kompetensi teknis yang kuat di bidang Frontend, Backend, dan System.  
-- Mengembangkan soft skill seperti kepemimpinan, daya tahan berpikir, kemampuan bertahan, keberanian, dan tanggung jawab.  
-- Mampu mengikuti dan mengimplementasikan teknologi terbaru sesuai dengan kebutuhan dan tren industri.  
+== Tujuan
+Pembelajaran bertujuan untuk memastikan setiap anggota:
+- Memiliki kompetensi teknis yang kuat di bidang Frontend, Backend, dan System.
+- Mengembangkan soft skill seperti kepemimpinan, daya tahan berpikir, kemampuan bertahan, keberanian, dan tanggung jawab.
+- Mampu mengikuti dan mengimplementasikan teknologi terbaru sesuai dengan kebutuhan dan tren industri.
 - Siap berkontribusi secara efektif dalam proyek dan kolaborasi tim.
 
----
-
-## Candidate Member  
+== Candidate Member
 Calon anggota adalah mahasiswa yang menunjukkan motivasi belajar tinggi dan keselarasan dengan nilai COCONUT. Pada tahap ini, calon anggota diuji dan dibimbing untuk mengembangkan dasar keterampilan teknis serta soft skill yang mendukung proses pembelajaran dan kolaborasi. Mereka didorong untuk aktif mengenali perkembangan teknologi dan siap beradaptasi secara berkelanjutan.
 
-## Member  
+== Member
 Anggota adalah individu yang telah melewati proses seleksi dan pembekalan awal, serta menunjukkan kesiapan untuk terlibat aktif dalam pembelajaran lanjutan dan proyek nyata. Mereka diharapkan mampu mengaplikasikan hard skill dan soft skill yang telah dikuasai, serta terus mengikuti perkembangan teknologi untuk meningkatkan kualitas kontribusi dalam komunitas.
 
----
+== Indikator Keberhasilan
 
-## Indikator Keberhasilan
+[cols="1,2", options="header"]
+|===
+| Aspek                  | Indikator
 
-| Aspek                   | Indikator                                                                                          |
-|-------------------------|--------------------------------------------------------------------------------------------------|
-| Penguasaan Hard Skill   | 80% anggota mampu menguasai teknologi dasar dan lanjutan sesuai bidang Frontend, Backend, dan Sistem. |
-| Pengembangan Soft Skill | 85% anggota menunjukkan peningkatan dalam kepemimpinan, daya tahan berpikir, dan tanggung jawab.  |
-| Adaptasi Teknologi      | 90% anggota mampu mengikuti, mempelajari, dan mengimplementasikan teknologi terbaru dalam proyek.  |
-| Kolaborasi Tim          | 88% anggota aktif berpartisipasi dalam kerja tim dan komunikasi efektif dalam proyek bersama.     |
-| Komitmen dan Tanggung Jawab | 80% anggota menyelesaikan tugas tepat waktu dengan integritas dan mempertanggungjawabkan hasil kerja. |
+| Penguasaan Hard Skill
+| 80% anggota mampu menguasai teknologi dasar dan lanjutan sesuai bidang Frontend, Backend, dan Sistem.
 
----
+| Pengembangan Soft Skill
+| 85% anggota menunjukkan peningkatan dalam kepemimpinan, daya tahan berpikir, dan tanggung jawab.
 
-## Penutup  
+| Adaptasi Teknologi
+| 90% anggota mampu mengikuti, mempelajari, dan mengimplementasikan teknologi terbaru dalam proyek.
+
+| Kolaborasi Tim
+| 88% anggota aktif berpartisipasi dalam kerja tim dan komunikasi efektif dalam proyek bersama.
+
+| Komitmen dan Tanggung Jawab
+| 80% anggota menyelesaikan tugas tepat waktu dengan integritas dan mempertanggungjawabkan hasil kerja.
+|===
+
+== Penutup
 Pembelajaran di COCONUT Computer Club merupakan pondasi utama dalam membentuk anggota yang tidak hanya kompeten secara teknis, tetapi juga kuat secara karakter dan mental. Melalui pembelajaran berkelanjutan dan evaluasi yang sistematis, kami membangun komunitas yang siap menghadapi tantangan teknologi masa kini dan masa depan dengan inovasi dan kolaborasi yang produktif.
