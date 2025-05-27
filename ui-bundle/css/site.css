@@ -680,7 +680,7 @@ body.-toc aside.toc.sidebar {
     background-size: 41.5%
 }
 
-.home-link {
+/* .home-link {
     display: block;
     background: url(../img/home-o.svg) no-repeat 50%;
     height: 1.25rem;
@@ -691,7 +691,7 @@ body.-toc aside.toc.sidebar {
 .home-link.is-current,
 .home-link:hover {
     background-image: url(../img/home.svg)
-}
+} */
 
 .edit-this-page {
     display: none;
@@ -2205,7 +2205,8 @@ body {
     flex-wrap: wrap;
     line-height: 1;
     position: relative;
-    padding-left: 2.5rem;
+    /* padding-left: 2.5rem; */
+    padding-left: 2rem;
 }
 
 .navbar-brand .navbar-item:first-child::before {
@@ -2220,7 +2221,7 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 50%; /* Optional: if you want the image to be circular */
+    border-radius: 50%;
 }
 
 .navbar-brand .navbar-item:first-child a {
