@@ -465,7 +465,7 @@ object[type="image/svg+xml"]:not([width]) {
 /* URGENT */
 
 .nav-item:hover {
-    /* background-color: #f2f2f2;  */
+    background-color: #f2f2f2; 
     /* Light gray background on hover */
     border-radius: 4px; /* Optional: adds rounded corners */
 }
