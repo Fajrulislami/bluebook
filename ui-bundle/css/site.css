@@ -464,16 +464,16 @@ object[type="image/svg+xml"]:not([width]) {
 
 /* URGENT */
 
-/* .nav-item:hover {
+.nav-item:hover {
     background-color: #f2f2f2; 
     border-radius: 4px;
-} */
+}
 
-.nav-item .nav-link:hover,
+/* .nav-item .nav-link:hover,
 .nav-item .nav-text:hover {
     background-color: #f2f2f2;
     border-radius: 4px;
-}
+} */
 
 /* USRGENT-END */
 .nav-panel-explore {
