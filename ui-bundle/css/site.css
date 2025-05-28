@@ -411,7 +411,8 @@ object[type="image/svg+xml"]:not([width]) {
 }
 
 .nav-menu>.nav-list+.nav-list {
-    margin-top: .5rem
+    margin-top: .5rem;
+    border-left: 2px solid #e1e1e1;
 }
 
 .nav-item {
