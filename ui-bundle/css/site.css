@@ -406,6 +406,10 @@ object[type="image/svg+xml"]:not([width]) {
     padding: 0
 }
 
+.nav-list:hover{
+    background-color: #fafafa;
+}
+
 .nav-menu>.nav-list+.nav-list {
     margin-top: .5rem
 }
@@ -465,11 +469,11 @@ object[type="image/svg+xml"]:not([width]) {
     border-radius: 4px; /* Optional: adds rounded corners */
 }
 
-.nav-item .nav-link:hover,
+/* .nav-item .nav-link:hover,
 .nav-item .nav-text:hover {
     background-color: #f2f2f2;
     border-radius: 4px;
-}
+} */
 
 /* USRGENT-END */
 .nav-panel-explore {
