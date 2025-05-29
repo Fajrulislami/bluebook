@@ -1,4 +1,4 @@
-= Meeting - Raker
+= Meeting - Rapat Kerja (RAKER)
 :navtitle: Bluebook - Meeting - Raker
 :description: Meeting tahunan COCONUT Computer Club untuk menyusun program kerja pengurus
 :keywords: COCONUT, rapat kerja, raker, proker, teknologi, study club
