@@ -7,18 +7,12 @@ content:
     - url: https://github.com/COCONUT-Compter-Club/bluebook.git
       branches: main
       start_path: docs
-
 asciidoc:
   attributes:
     experimental: ''
     idprefix: ''
     idseparator: '-'
     page-pagination: ''
-<<<<<<< HEAD
-    plantuml-server-url: http://www.plantuml.com/plantuml
-=======
-
->>>>>>> e1fb4ef241ca59fb196897a61daa9599728cb783
 ui:
   bundle:
     url: ./ui-bundle
@@ -26,3 +20,6 @@ ui:
 output:
   dir: ./build
   clean: true
+antora:
+  extensions:
+    - '@antora/lunr-extension'
