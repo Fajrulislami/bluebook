@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 = Raker
 :navtitle: Meeting - Raker
 :description: COCONUT's working meeting for planning
@@ -14,37 +15,99 @@ This section is under development. Details about Raker schedules, objectives, an
 Check back for updates on COCONUT's planning sessions.
 =======
 = Rapat Kerja COCONUT Computer Club
+=======
+= Meeting - Rapat Kerja (RAKER)
+>>>>>>> 6c9793f2945b033ec624ba54a09cb2ad2a9340d5
 :navtitle: Bluebook - Meeting - Raker
-:description: Forum tahunan COCONUT Computer Club untuk menyusun program kerja pengurus
-:keywords: COCONUT, rapat kerja, raker, program kerja, teknologi, study club
+:description: Meeting tahunan COCONUT Computer Club untuk menyusun program kerja pengurus
+:keywords: COCONUT, rapat kerja, raker, proker, teknologi, study club
 
 == Ikhtisar
-Rapat Kerja (Raker) COCONUT Computer Club adalah forum tahunan yang mempertemukan seluruh pengurus untuk menyusun dan menyepakati program kerja selama satu periode.
+*Rapat Kerja* (RAKER) adalah bagian meeting tahunan yang mempertemukan seluruh pengurus untuk menyusun dan menyepakati Proker (program kerja) selama satu periode serta penetapan Koordinator dan pembagian anggota antar departemen.
+Rapat Kerja merupakan kegiatan mandatory yang diselenggarakan di awal periode kepengurusan COCONUT Computer Club. Kegiatan ini dilaksanakan sebagai meeting perencanaan strategis yang mempertemukan seluruh pengurus untuk menyusun arah kerja organisasi selama satu tahun ke depan.
 
-== Latar Belakang
-Rapat Kerja (Raker) merupakan kegiatan penting yang diselenggarakan di awal periode kepengurusan COCONUT Computer Club. Kegiatan ini dilaksanakan sebagai forum perencanaan strategis yang mempertemukan seluruh pengurus untuk menyusun arah kerja organisasi selama satu tahun ke depan.
+Raker memberikan ruang bagi setiap departemen untuk :
 
-Raker memberikan ruang bagi setiap divisi untuk :
-
-- **Menyampaikan Ide** : Mengusulkan program kerja inovatif yang mendukung pengembangan teknologi dan komunitas.
+- **Menyampaikan Ide** : Mengusulkan program kerja inovatif yang mendukung pengembangan teknologi dan organisasi.
 - **Menyusun Strategi** : Merancang rencana pelaksanaan, alokasi sumber daya, dan evaluasi program.
-- **Membangun Kolaborasi** : Menyelaraskan tujuan antar-divisi untuk menciptakan sinergi dalam kegiatan organisasi.
+- **Membangun Kolaborasi** : Menyelaraskan tujuan antar-departemen untuk menciptakan sinergi dalam kegiatan organisasi.
 
 == Tujuan Rapat Kerja
 [cols="1,3",options="header",stripes=even,grid=rows,frame=all]
 |===
 | *Tujuan* | *Penjelasan*
-| Menyelaraskan Rencana Antar Divisi | Memastikan tidak ada kegiatan yang saling bertabrakan dalam hal waktu, sumber daya, maupun tujuan.
-| Menyusun Program Kerja | Merumuskan dan menyepakati program kerja tahunan setiap divisi secara terbuka dan kolaboratif, mencakup kegiatan teknologi seperti pelatihan pemrograman atau proyek inovasi.
+| Menyelaraskan Rencana Antar departemen | Memastikan tidak ada kegiatan yang saling bertabrakan dalam hal waktu, sumber daya, maupun tujuan.
+| Menyusun Program Kerja | Merumuskan dan menyepakati program kerja tahunan setiap departemen secara terbuka dan kolaboratif, mencakup kegiatan teknologi seperti workshop atau proyek inovasi.
 | Menentukan Prioritas & Jadwal | Menetapkan prioritas program, waktu pelaksanaan, dan pembagian tanggung jawab antar-pengurus untuk memastikan efisiensi dan efektivitas.
 | Merancang Strategi Pelaksanaan | Menyusun strategi pelaksanaan, pengelolaan sumber daya (manusia, dana, infrastruktur), dan mekanisme evaluasi untuk memantau keberhasilan program.
 |===
 
+== Struktur Organisasi BPH 013
+
+image::struktur-organisasi-BPH-013.png[BPH 013, width=100%, align=center]
+
+== Program Kerja BPH Periode 2024 - 2025
+
+[cols="1,3", options="header"]
+|===
+| **Departemen** | **Program Kerja**
+
+| **Ketua Umum**
+a|
+. Seminar Nasional / IT Fest
+
+| **Sekretaris Umum**
+a|
+. Pengarsipan, penjadwalan & Korespondensi 
+. Kalender Program Kerja BPH (Badan Pengurus Harian)
+
+| **Bendahara Umum**
+a|
+. Iuran BPH  
+. Iuran Anggota  
+. Sistem Keuangan Bendahara
+
+| **Departemen Keorganisasian**
+a|
+. Now Open (Requirement, Test, Interview)
+. ROOT (Research Orientation of Training)  
+. INESA (Inovasi dan Edukasi Desa) 
+. On - Boarding
+. Penambahan Atribut (KTA, PDL)  
+. Perawatan & Pengadaan Inventaris  
+. Pengadaan Sekretariat  
+. Meeting - Mubes (Musyawarah Besar)  
+. Danus (Dana dan Usaha)
+. Web ALGO-Coffe
+
+| **Departemen Pembelajaran**
+a|
+. Learning - Candidate Member   
+. Evaluation - Candidate Member  
+. Learning - Member  
+. Evaluation - Member  
+. Learning - BPH 
+. Project Riset BPH  
+. Project Riset Anggota  
+. Coconut Open Class (COC)  
+. Sunday Vocabulary  
+. Coconut Sharing Session
+
+| **Departemen Humas**
+a|
+. Dies Natalis  
+. Kunjungan Industri  
+. IT Camp
+|===
+
+[NOTE]
+Proker (Program Kerja) periode sebelumnya adalah sebagai landasan yang bersifat dinamis (*Update Periodik*) untuk beberapa jenis Proker. Proker yang mandatory ada di terdapat pada menu di samping.
+
 == Output yang Diharapkan
 Harapan dari pelaksanaan Rapat Kerja ini meliputi:
 
-- **Dokumen Program Kerja Resmi** : Tersusunnya dokumen program kerja setiap divisi yang jelas, terperinci, dan siap dijalankan, mencakup kegiatan seperti pelatihan teknologi, hackathon, atau proyek kolaboratif.
-- **Kesepakatan Kolaborasi Lintas Divisi** : Tercapainya sinergi antar-divisi untuk mendukung program bersama, seperti event teknologi atau riset komunitas.
+- **Dokumen Program Kerja Resmi** : Tersusunnya dokumen program kerja setiap departemen yang jelas, terperinci, dan siap dijalankan, mencakup kegiatan seperti pelatihan teknologi, hackathon, atau proyek kolaboratif.
+- **Kesepakatan Kolaborasi Lintas departemen** : Tercapainya sinergi antar-departemen untuk mendukung program bersama, seperti event teknologi atau riset club.
 - **Jadwal Kegiatan Tahunan**: Penyusunan timeline kegiatan organisasi yang terkoordinasi dan realistis.
 - **Rencana Pendanaan & Sumber Daya** : Tersusunnya alokasi anggaran dan sumber daya internal untuk mendukung pelaksanaan program.
 - **Komitmen Pengurus yang Kuat** : Terjalinnya semangat dan komitmen pengurus untuk menjalankan tugas dengan terarah dan terkoordinasi.
@@ -55,12 +118,15 @@ Keberhasilan Rapat Kerja diukur melalui indikator berikut:
 [cols="1,3",options="header",stripes=even,grid=rows,frame=all]
 |===
 | *Indikator* | *Penjelasan*
-| Kelengkapan Program Kerja | Setiap divisi menghasilkan dokumen program kerja yang komprehensif, mencakup tujuan, strategi, dan jadwal pelaksanaan.
+| Kelengkapan Program Kerja | Setiap departemen menghasilkan dokumen program kerja yang komprehensif, mencakup tujuan, strategi, dan jadwal pelaksanaan.
 | Partisipasi Aktif Pengurus | Keterlibatan penuh pengurus dalam diskusi, penyusunan program, dan pengambilan keputusan selama Raker.
-| Koordinasi Lintas Divisi | Tercapainya kesepakatan untuk kolaborasi antar-divisi dalam pelaksanaan program bersama.
+| Koordinasi Lintas departemen | Tercapainya kesepakatan untuk kolaborasi antar-departemen dalam pelaksanaan program bersama.
 | Kesesuaian dengan Rencana | Pelaksanaan program kerja sesuai dengan jadwal, anggaran, dan sumber daya yang telah disepakati selama Raker.
 |===
 
+<<<<<<< HEAD
 == Penutup
 Rapat Kerja bukan hanya kegiatan perencanaan teknis, tetapi juga ruang strategis untuk menyatukan visi, semangat, dan komitmen seluruh pengurus. Melalui Raker, diharapkan seluruh pengurus COCONUT dapat menjalankan tanggung jawabnya dengan lebih terarah dan terkoordinasi selama masa kepengurusan.
 >>>>>>> e1fb4ef241ca59fb196897a61daa9599728cb783
+=======
+>>>>>>> 6c9793f2945b033ec624ba54a09cb2ad2a9340d5

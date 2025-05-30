@@ -1,13 +1,74 @@
-= Mubes
-:navtitle: Meeting - Mubes
+= Meeting - Musyawarah Besar (MUBES)
+:navtitle: Bluebook - Meeting - MUBES
 :description: COCONUT's annual grand meeting
 :keywords: COCONUT, meeting, mubes, community
 
-== Overview
-The *Mubes* section describes COCONUT's annual grand meeting (Musyawarah Besar) to set strategic directions and elect leadership.
+== Ikhtisar
+Musyawarah Besar (MUBES) merupakan forum pengambilan keputusan tertinggi dalam struktur organisasi *COCONUT Computer Club*. Kegiatan ini diselenggarakan sebagai akhir dari satu periode kepengurusan dan menjadi momen reflektif untuk mengevaluasi perjalanan organisasi, mengesahkan laporan pertanggungjawaban, serta memilih Ketua Umum baru.
 
-== Details
+MUBES bersifat *formal, demokratis, dan strategis*, yang mempertemukan seluruh pengurus aktif dan anggota untuk merumuskan keputusan fundamental organisasi. Kegiatan ini menjadi wadah legitimasi untuk transisi kepemimpinan serta penyempurnaan arah kebijakan dan konstitusi organisasi.
+
+== Tujuan Musyawarah Besar
+[cols="1,3", options="header"]
+|===
+|Tujuan |Penjelasan
+
+|Evaluasi Kinerja Organisasi
+|Menelaah pencapaian program kerja setiap departemen selama satu periode kepengurusan.
+
+|Laporan Pertanggungjawaban (LPJ)
+|Mengesahkan LPJ dari Ketua Umum dan seluruh pengurus sebagai bentuk akuntabilitas organisasi.
+
+|Pemilihan Ketua Umum Baru
+|Menyelenggarakan pemilu internal yang demokratis untuk menentukan pemimpin baru organisasi.
+
+|Penyempurnaan AD/ART
+|Meninjau dan merevisi Anggaran Dasar dan Anggaran Rumah Tangga agar tetap relevan dengan perkembangan organisasi.
+
+|Perumusan Rekomendasi Strategis
+|Menghasilkan keputusan penting dan saran kebijakan untuk arah organisasi berikutnya.
+|===
+
+== Rangkaian Kegiatan MUBES
+. Pembukaan & Sidang Pleno I
+.. Menyampaikan agenda dan tata tertib sidang, serta pembentukan presidium sidang.
+. Pemaparan & Pengesahan Laporan Pertanggungjawaban (LPJ)
+.. Pemaparan laporan kinerja tiap departemen, diskusi terbuka, dan pengesahan oleh forum.
+. Penyampaian Visi Calon Ketua Umum
+.. Forum penyampaian visi, misi, dan program strategis dari para kandidat Ketua Umum.
+. Pemilihan Ketua Umum
+.. Pelaksanaan voting yang jujur dan adil untuk menentukan Ketua Umum terpilih.
+. Sidang Komisi & Penyempurnaan AD/ART
+.. Pembahasan dan revisi konstitusi organisasi sebagai penyesuaian terhadap dinamika internal dan eksternal.
+. Perumusan Rekomendasi & Penutupan
+.. Penetapan hasil keputusan strategis, rekomendasi lintas departemen, dan penutupan resmi.
+
+== Output yang Diharapkan
+* Dokumen LPJ Terverifikasi
+** LPJ disahkan oleh forum sebagai dokumen legal pertanggungjawaban pengurus.
+* Ketua Umum Terpilih
+** Terpilihnya pemimpin baru dengan mandat penuh melalui proses pemilu internal.
+* AD/ART yang Diperbarui
+** Versi terbaru Anggaran Dasar dan Rumah Tangga yang mencerminkan kebutuhan aktual organisasi.
+* Dokumen Rekomendasi MUBES
+** Berisi masukan dan arahan strategis dari forum untuk pengurus periode selanjutnya.
+
+== Indikator Keberhasilan MUBES
+[cols="1,3", options="header"]
+|===
+|Indikator |Penjelasan
+
+|Terlaksananya LPJ & Evaluasi Program
+|Forum berjalan efektif dalam mengevaluasi dan mengesahkan LPJ dari seluruh pengurus.
+
+|Partisipasi Anggota & Suara Demokratis
+|Seluruh elemen aktif terlibat dalam proses pemilu dan sidang pleno.
+
+|Tersusunnya Dokumen Legal & Strategis
+|AD/ART, LPJ, dan hasil pemilu didokumentasikan secara resmi dan sah.
+
+|Transisi Kepemimpinan yang Lancar
+|Proses pergantian Ketua Umum berjalan tertib dan diterima secara kolektif.
+|===
+
 [NOTE]
-This section is under development. Information about Mubes agendas, outcomes, and participation will be added soon.
-
-Check back for updates on COCONUT's grand meeting.

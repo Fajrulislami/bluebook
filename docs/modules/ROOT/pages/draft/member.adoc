@@ -1,13 +1,52 @@
-= Member
-:navtitle: Learning - Member
-:description: Learning programs for COCONUT full members
-:keywords: COCONUT, learning, member, training
+= Learning - Member
 
-== Overview
-The *Member* section details advanced learning programs for COCONUT's full members to enhance their technical and leadership capabilities.
+== Ikhtisar
+Pembelajaran anggota di COCONUT Computer Club bertujuan mengembangkan keterampilan teknis (hard skill) dan sosial (soft skill). Anggota akan dibekali kemampuan di bidang Front-end, Back-end, dan Sistem untuk berkontribusi dalam pengembangan aplikasi dan infrastruktur teknologi. Selain itu, mereka juga akan mengasah soft skill seperti kepemimpinan, daya tahan berpikir, resiliensi, keberanian, dan tanggung jawab untuk menghadapi tantangan dunia digital.
 
-== Details
-[NOTE]
-This section is under development. Details about member-specific workshops, projects, and growth opportunities will be added soon.
+== Tujuan
 
-Check back for updates on advancing as a COCONUT member.
+=== HARD SKILL
+
+==== Frontend
+Seorang anggota front-end diharapkan memiliki kemampuan untuk merancang dan membangun antarmuka aplikasi yang menarik, responsif, dan ramah pengguna. Selain itu, mereka juga dituntut untuk menguasai berbagai teknologi dan alat yang berkaitan dengan pengembangan tampilan aplikasi, seperti HTML, CSS, dan JavaScript, serta pustaka dan framework modern dan memahami prinsip desain antarmuka pengguna (UI) dan pengalaman pengguna (UX). Penguasaan terhadap teknologi dan praktik terbaik dalam pengembangan front-end menjadi bagian penting dari kompetensi yang harus dimiliki untuk mendukung terciptanya aplikasi yang fungsional dan estetis.
+
+==== Back-end
+Seorang anggota backend diharapkan memiliki kemampuan untuk mengembangkan logika dan fungsionalitas inti dari sebuah aplikasi, sehingga aplikasi tersebut dapat berjalan secara dinamis dan terintegrasi dengan baik. Selain itu, mereka juga dituntut untuk mampu merancang, membangun, dan mengelola layanan sisi server, termasuk implementasi dan integrasi Application Programming Interface (API), pengelolaan basis data, serta pengaturan autentikasi dan otorisasi pengguna. Penguasaan terhadap berbagai bahasa pemrograman sisi server, manajemen data, serta praktik terbaik dalam pengembangan back-end menjadi bagian penting dari kompetensi yang harus dimiliki untuk memastikan performa, keamanan, dan skalabilitas aplikasi.
+
+==== System
+Seorang anggota sistem diharapkan memiliki kemampuan untuk merancang, mengelola, dan mengamankan infrastruktur teknologi yang digunakan dalam suatu sistem informasi. Mereka bertanggung jawab dalam memastikan bahwa sistem berjalan secara optimal, stabil, dan terlindungi dari berbagai potensi ancaman keamanan. Selain itu, anggota sistem juga dituntut untuk memahami konsep dan implementasi keamanan jaringan, pengelolaan server, serta prosedur pemulihan bencana (disaster recovery). Penguasaan terhadap teknologi sistem operasi, virtualisasi, serta praktik terbaik dalam penguatan dan perlindungan sistem menjadi bagian penting dari kompetensi yang harus dimiliki untuk menjaga keberlangsungan dan keandalan layanan teknologi.
+
+=== SOFT SKILL
+
+==== Kepemimpinan (Leadership)
+Kemampuan untuk memimpin, membimbing, dan mengarahkan anggota tim secara efektif dalam mencapai tujuan bersama, serta mampu mengambil keputusan secara bijaksana dalam situasi yang menantang.
+
+==== Daya Tahan Berpikir (Mental Endurance)
+Kemampuan untuk tetap fokus, tenang, dan konsisten dalam menyelesaikan tugas meskipun berada dalam tekanan, serta mampu mengelola beban kognitif dengan stabilitas emosi yang baik.
+
+==== Kemampuan Bertahan (Resiliensi)
+Kemampuan untuk bangkit kembali dan tetap berproses secara produktif setelah menghadapi hambatan, kegagalan, atau perubahan mendadak dalam lingkungan kerja.
+
+==== Keberanian (Courage)
+Kemampuan untuk mengambil risiko yang terukur, menyampaikan pendapat secara terbuka, dan menghadapi tantangan dengan percaya diri demi kemajuan individu maupun tim.
+
+==== Tanggung Jawab (Responsibility)
+Sikap yang mencerminkan komitmen dalam menyelesaikan tugas dengan integritas tinggi, kesadaran terhadap dampak pekerjaan yang dilakukan, serta kesediaan untuk mempertanggungjawabkan setiap tindakan yang diambil.
+
+== Evaluasi
+Evaluasi terhadap anggota juga mencakup sejauh mana pemahaman dan keterlibatan mereka terhadap perkembangan teknologi, khususnya dalam mengikuti inovasi dan tren terbaru yang muncul pada masa kini. Hal ini meliputi kemampuan anggota dalam mengidentifikasi, mempelajari, dan menerapkan teknologi-teknologi terbaru yang relevan, baik dalam konteks perangkat lunak, perangkat keras, maupun metodologi kerja. Pemahaman terhadap kemajuan teknologi menjadi indikator penting dalam menilai kesiapan anggota untuk beradaptasi dengan perubahan, meningkatkan efisiensi kerja, serta mendukung terciptanya solusi yang inovatif dan berkelanjutan.
+
+== Aspek dan Indikator
+
+[cols="1,2", options="header"]
+|===
+| **Aspek**                  | **Indikator**
+
+| Penguasaan Hard Skill      | 80% anggota menguasai teknologi dan alat di bidang Front-end, Back-end, dan Sistem.
+|                            | 85% anggota mampu mengembangkan aplikasi dan infrastruktur teknologi yang fungsional dan aman.
+| Pengembangan Soft Skill    | 90% anggota menunjukkan peningkatan dalam kemampuan kepemimpinan, daya tahan berpikir, dan tanggung jawab.
+|                            | 85% anggota dapat menunjukkan kemampuan bertahan dalam situasi tekanan dan beradaptasi dengan perubahan di dunia digital.
+| Kolaborasi Tim             | 88% anggota aktif berpartisipasi dalam kerja tim dan berkomunikasi secara efektif dalam proyek bersama.
+| Adaptasi Teknologi         | 80% anggota mampu mengikuti dan mengimplementasikan teknologi terbaru yang relevan dalam proyek dan tugas.
+| Komitmen dan Tanggung Jawab | 85% anggota menyelesaikan tugas tepat waktu dengan integritas dan kualitas yang tinggi, serta mempertanggungjawabkan hasil kerja mereka.
+|===
