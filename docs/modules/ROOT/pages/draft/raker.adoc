@@ -1,23 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-= Raker
-:navtitle: Meeting - Raker
-:description: COCONUT's working meeting for planning
-:keywords: COCONUT, meeting, raker, planning
-
-== Overview
-The *Raker* section details COCONUT's working meeting (Rapat Kerja) for planning programs and initiatives.
-
-== Details
-[NOTE]
-This section is under development. Details about Raker schedules, objectives, and outcomes will be added soon.
-
-Check back for updates on COCONUT's planning sessions.
-=======
-= Rapat Kerja COCONUT Computer Club
-=======
 = Meeting - Rapat Kerja (RAKER)
->>>>>>> 6c9793f2945b033ec624ba54a09cb2ad2a9340d5
 :navtitle: Bluebook - Meeting - Raker
 :description: Meeting tahunan COCONUT Computer Club untuk menyusun program kerja pengurus
 :keywords: COCONUT, rapat kerja, raker, proker, teknologi, study club
@@ -123,10 +104,3 @@ Keberhasilan Rapat Kerja diukur melalui indikator berikut:
 | Koordinasi Lintas departemen | Tercapainya kesepakatan untuk kolaborasi antar-departemen dalam pelaksanaan program bersama.
 | Kesesuaian dengan Rencana | Pelaksanaan program kerja sesuai dengan jadwal, anggaran, dan sumber daya yang telah disepakati selama Raker.
 |===
-
-<<<<<<< HEAD
-== Penutup
-Rapat Kerja bukan hanya kegiatan perencanaan teknis, tetapi juga ruang strategis untuk menyatukan visi, semangat, dan komitmen seluruh pengurus. Melalui Raker, diharapkan seluruh pengurus COCONUT dapat menjalankan tanggung jawabnya dengan lebih terarah dan terkoordinasi selama masa kepengurusan.
->>>>>>> e1fb4ef241ca59fb196897a61daa9599728cb783
-=======
->>>>>>> 6c9793f2945b033ec624ba54a09cb2ad2a9340d5
