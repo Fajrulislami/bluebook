@@ -7,14 +7,12 @@ content:
     - url: https://github.com/COCONUT-Compter-Club/bluebook.git
       branches: main
       start_path: docs
-
 asciidoc:
   attributes:
     experimental: ''
     idprefix: ''
     idseparator: '-'
     page-pagination: ''
-
 ui:
   bundle:
     url: ./ui-bundle
@@ -22,3 +20,6 @@ ui:
 output:
   dir: ./build
   clean: true
+antora:
+  extensions:
+    - '@antora/lunr-extension'
