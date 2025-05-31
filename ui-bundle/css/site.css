@@ -2254,7 +2254,11 @@ body {
 
 .navba-logo{
     height: 2rem;
-    background: url(../img/BlueBook.png) no-repeat center cover;
+    width: 100%;
+    background-image: url(../img/BlueBook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
     padding-left: 1.5rem;
 }
 
