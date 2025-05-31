@@ -41,7 +41,6 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
 - Rezky Amaliah Rusli
 - Syahrul Ramadhan
 - Musdalipa
-- Dzikri Fauzan
 
 == Bluebook Version
 Bluebook - v25.0
