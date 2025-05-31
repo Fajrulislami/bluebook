@@ -2252,13 +2252,10 @@ body {
     padding-left: 1.5rem;
 } */
 
-.navba-logo{
+.navbar-logo{
     height: 2rem;
     width: 100%;
-    background-image: url(../img/BlueBook.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+    background: url(../img/BlueBook.png) no-repeat center cover;
     padding-left: 1.5rem;
 }
 
