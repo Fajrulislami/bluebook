@@ -2252,7 +2252,7 @@ body {
 
 .navbar-logo{
     width: 9rem;
-    padding-left: 2rem;
+    padding-left: .5rem;
 }
 
 .navbar-brand .navbar-item:first-child a {
