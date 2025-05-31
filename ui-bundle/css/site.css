@@ -2306,8 +2306,8 @@ body {
     border: 1px solid #dbdbdb;
     border-radius: .1em;
     line-height: 1.5;
-    /* padding: 5px 5px 5px 40px; */
-    padding: .3em .3em .3em 2.5em;
+    padding: 5px 5px 5px 40px !important;
+    /* padding: .3em .3em .3em 2.5em; */
 }
 
 #search-input:disabled {
