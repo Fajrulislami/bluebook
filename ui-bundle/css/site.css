@@ -1,3 +1,7 @@
+:root {
+  --color-primary: #115284;
+}
+
 @font-face {
     font-family: Roboto;
     font-style: normal;
@@ -2290,7 +2294,8 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    opacity: 0.6; 
+    opacity: 0.6;
+    font-size: inherit;
 }
 
 #search-input {
@@ -2301,7 +2306,7 @@ body {
     border: 1px solid #dbdbdb;
     border-radius: .1em;
     line-height: 1.5;
-    padding: 10px 15px 10px 40px;
+    padding: 5px 5px 5px 40px;
 }
 
 #search-input:disabled {
