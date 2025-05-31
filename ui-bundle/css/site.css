@@ -2294,9 +2294,7 @@ body {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    /* opacity: 0.6;
-    font-size: 1em;
-    font-weight: bold; */
+    opacity: 0.6;
 }
 
 #search-input {
