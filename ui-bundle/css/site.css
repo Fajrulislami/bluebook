@@ -2244,7 +2244,7 @@ body {
     transform: translateY(-50%);
     width: 2rem;
     height: 2rem;
-    background-image: url("https://avatars.githubusercontent.com/u/202527445?v=4");
+    background-image: url(../img/BlueBook.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
