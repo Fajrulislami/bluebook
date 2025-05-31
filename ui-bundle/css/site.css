@@ -407,7 +407,7 @@ object[type="image/svg+xml"]:not([width]) {
     padding: 0
 }
 
-.nav-list:hover{
+.nav-list:hover {
     background-color: #fafafa;
 }
 
@@ -418,9 +418,9 @@ object[type="image/svg+xml"]:not([width]) {
 
 .nav-item {
     /* margin-top: .5em */
-     margin-top: .5em;
+    margin-top: .5em;
     position: relative;
-    padding-right: 1.5em; 
+    padding-right: 1.5em;
 }
 
 .nav-item-toggle~.nav-list {
@@ -437,7 +437,7 @@ object[type="image/svg+xml"]:not([width]) {
 }
 
 .nav-item-toggle {
-    background: transparent url(../img/chevron-right.svg)  no-repeat 50%/50%;
+    background: transparent url(../img/chevron-right.svg) no-repeat 50%/50%;
     border: none;
     outline: none;
     line-height: inherit;
@@ -461,13 +461,13 @@ object[type="image/svg+xml"]:not([width]) {
 .is-current-page>.nav-text {
     font-weight: 600;
     color: var(--color-primary);
-    
+
 }
 
 /* URGENT */
 
 .nav-item:hover {
-    background-color: #f2f2f2; 
+    background-color: #f2f2f2;
     border-radius: 4px;
 }
 
@@ -2201,7 +2201,7 @@ body {
     flex-direction: column;
 }
 
-.navbar-main{
+.navbar-main {
     display: flex;
     padding-top: .5rem
 }
@@ -2219,6 +2219,7 @@ body {
     flex: auto;
     padding-left: 1rem
 }
+
 /* 
 .navbar-brand .navbar-item {
     color: #fff
@@ -2234,7 +2235,7 @@ body {
     line-height: 1;
     position: relative;
     /* padding-left: 2.5rem; */
-/*     padding-left: 2rem; */
+    /*     padding-left: 2rem; */
 }
 
 /* .navbar-brand .navbar-item:first-child::before {
@@ -2250,7 +2251,7 @@ body {
     padding-left: 1.5rem;
 } */
 
-.navbar-logo{
+.navbar-logo {
     width: 9rem;
     padding-left: .5rem;
 }
@@ -2273,12 +2274,13 @@ body {
     justify-content: flex-end
 }
 
-#search-field{
+#search-field {
     position: relative;
 }
 
-#search-field::before{
-     content: "🔍"; /* Simbol kaca pembesar (bisa diganti dengan gambar SVG jika diinginkan) */
+#search-field::before {
+    content: "🔍";
+    /* Simbol kaca pembesar (bisa diganti dengan gambar SVG jika diinginkan) */
     position: absolute;
     left: 15px;
     top: 50%;
@@ -2295,7 +2297,7 @@ body {
     border: 1px solid #dbdbdb;
     border-radius: .1em;
     line-height: 1.5;
-    padding: 0 .25em
+    padding: 10px 15px 10px 40px;
 }
 
 #search-input:disabled {
