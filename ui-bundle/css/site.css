@@ -2203,6 +2203,7 @@ body {
 
 .navbar-main{
     display: flex;
+    padding-top: .5rem
 }
 
 .navbar a {
@@ -2250,7 +2251,6 @@ body {
 } */
 
 .navbar-logo{
-    margin-top: .5rem;
     width: 9rem;
     padding-left: 2rem;
 }
