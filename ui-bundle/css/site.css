@@ -459,7 +459,7 @@ object[type="image/svg+xml"]:not([width]) {
 .is-current-page>.nav-link,
 .is-current-page>.nav-text {
     font-weight: 600;
-    color: #115284;
+    color: var(--color-primary);
     
 }
 
@@ -659,11 +659,10 @@ body.-toc aside.toc.sidebar {
 }
 
 .toolbar {
-    color: #115284;
+    color: var(--color-primary);
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    /* background-color: #fafafa; */
     -webkit-box-shadow: 0 1px 0 #e1e1e1;
     box-shadow: 0 1px 0 #e1e1e1;
     display: -webkit-box;
@@ -681,7 +680,7 @@ body.-toc aside.toc.sidebar {
 }
 
 .toolbar a {
-    color: #115284;
+    color: var(--color-primary);
 }
 
 .nav-toggle {
