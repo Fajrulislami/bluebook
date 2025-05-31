@@ -2244,10 +2244,7 @@ body {
     transform: translateY(-50%);
     width: 2rem;
     height: 2rem;
-    background-image: url(../img/BlueBook.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
+ 
     border-radius: 50%;
     padding-left: 1.5rem;
 } */
@@ -2255,7 +2252,10 @@ body {
 .navbar-logo{
     height: 2rem;
     width: 100%;
-    background: url(../img/BlueBook.png) no-repeat center cover;
+    background-image: url(../img/BlueBook.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
     padding-left: 1.5rem;
     position: absolute;
      left: 0;
