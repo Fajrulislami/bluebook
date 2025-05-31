@@ -2279,14 +2279,18 @@ body {
 }
 
 #search-field::before {
-    content: "🔍";
-    /* Simbol kaca pembesar (bisa diganti dengan gambar SVG jika diinginkan) */
+    content: "";
     position: absolute;
     left: 15px;
     top: 50%;
     transform: translateY(-50%);
-    font-size: 16px;
-    color: #999;
+    width: 16px;
+    height: 16px;
+    background-image: url(../img/search.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.6; /* Untuk mendapatkan warna abu-abu mirip dengan #999 */
 }
 
 #search-input {
