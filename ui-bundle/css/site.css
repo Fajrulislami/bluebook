@@ -2236,7 +2236,7 @@ body {
     padding-left: 2rem;
 }
 
-.navbar-brand .navbar-item:first-child::before {
+/* .navbar-brand .navbar-item:first-child::before {
     content: "";
     position: absolute;
     left: 0;
@@ -2249,6 +2249,12 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 50%;
+    padding-left: 1.5rem;
+} */
+
+.navba-logo{
+    height: 2rem;
+    background: url(../img/BlueBook.png) no-repeat center cover;
     padding-left: 1.5rem;
 }
 
