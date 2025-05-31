@@ -2250,16 +2250,8 @@ body {
 } */
 
 .navbar-logo{
-    height: 2rem;
-    width: 100%;
-    background-image: url(../img/BlueBook.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    padding-left: 1.5rem;
-    position: absolute;
-     left: 0;
-    top: 50%;
+    margin-top: .5rem;
+    width: 9rem;
 }
 
 .navbar-brand .navbar-item:first-child a {
