@@ -1,7 +1,11 @@
 <aside class="toc sidebar" data-title="{{{or page.attributes.toctitle 'Contents'}}}" data-levels="{{{or page.attributes.toclevels 2}}}">
-  <div class="toc-menu"></div>
+  <h3 class="toc-title">{{{or page.attributes.toctitle 'Contents'}}}</h3>
   
-  {{! Tombol action di dalam element .toc }}
+  <div class="toc-scroll-container">
+    <div class="toc-menu"></div>
+  </div>
+  
+  {{! Tombol action di dalam element .toc tapi di luar area scroll }}
   <div class="toc-actions">
     <a class="toc-action-btn github-btn" target="_blank" href="https://github.com/COCONUT-Compter-Club/bluebook">
       <span class="icon">
