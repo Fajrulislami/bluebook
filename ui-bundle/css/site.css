@@ -687,6 +687,7 @@ object[type="image/svg+xml"]:not([width]) {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  border-radius: 0.5rem;
 }
 
 .github-btn:hover {
@@ -702,6 +703,7 @@ object[type="image/svg+xml"]:not([width]) {
   gap: 0.5rem;
   border: 1px solid #e1e1e1;
   color: #333 !important;
+  border-radius: 0.5rem;
 }
 
 .pdf-btn:hover {
