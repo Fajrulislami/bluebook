@@ -632,6 +632,91 @@ object[type="image/svg+xml"]:not([width]) {
     opacity: 1
 }
 
+/* URGENT-3 */
+/* Styling untuk tombol aksi di TOC */
+.toc-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 1.5rem;
+  padding: 0 0.75rem;
+}
+
+.toc-action-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.github-btn {
+  background-color: var(--color-primary);
+  color: white;
+  border: none;
+}
+
+.github-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+}
+
+.pdf-btn {
+  display: flex;
+  align-items: center;
+  border: 1px solid #e1e1e1;
+  color: #333;
+}
+
+.pdf-btn:hover {
+  background-color: #f5f5f5;
+  text-decoration: none;
+}
+
+.toc-action-btn .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Area feedback */
+.toc-feedback {
+  margin-top: 2rem;
+  padding: 0 0.75rem;
+  font-size: 0.875rem;
+  color: #666;
+}
+
+.feedback-buttons {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
+}
+
+.feedback-btn {
+  background: white;
+  border: 1px solid #e1e1e1;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.feedback-btn:hover {
+  transform: scale(1.1);
+}
+
+/* URGENT-3 END */
+
 body.-toc aside.toc.sidebar {
     display: none
 }
