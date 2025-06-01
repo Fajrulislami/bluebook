@@ -638,8 +638,9 @@ object[type="image/svg+xml"]:not([width]) {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  margin-top: 1.5rem;
-  padding: 0 0.75rem;
+  margin-top: 1rem;
+  padding: 0 0.5rem;
+  width: 100%;
 }
 
 .toc-action-btn {
@@ -655,64 +656,35 @@ object[type="image/svg+xml"]:not([width]) {
 
 .github-btn {
   background-color: var(--color-primary);
-  color: white;
+  color: white !important; /* Gunakan !important untuk mengatasi style lain */
   border: none;
 }
 
 .github-btn:hover {
   transform: translateY(-1px);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  text-decoration: none;
+  text-decoration: none !important;
+  color: white !important;
 }
 
 .pdf-btn {
   display: flex;
   align-items: center;
   border: 1px solid #e1e1e1;
-  color: #333;
+  color: #333 !important; /* Gunakan !important untuk mengatasi style lain */
 }
 
 .pdf-btn:hover {
   background-color: #f5f5f5;
-  text-decoration: none;
-}
-
-.toc-action-btn .icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  text-decoration: none !important;
 }
 
 /* Area feedback */
 .toc-feedback {
-  margin-top: 2rem;
-  padding: 0 0.75rem;
+  margin-top: 1.5rem;
+  padding: 0 0.5rem;
   font-size: 0.875rem;
   color: #666;
-}
-
-.feedback-buttons {
-  display: flex;
-  gap: 0.5rem;
-  margin-top: 0.25rem;
-}
-
-.feedback-btn {
-  background: white;
-  border: 1px solid #e1e1e1;
-  border-radius: 50%;
-  width: 2rem;
-  height: 2rem;
-  font-size: 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  transition: transform 0.2s;
-}
-
-.feedback-btn:hover {
-  transform: scale(1.1);
 }
 
 /* URGENT-3 END */
