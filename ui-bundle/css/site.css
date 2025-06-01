@@ -633,20 +633,18 @@ object[type="image/svg+xml"]:not([width]) {
 }
 
 /* URGENT-3 */
+/* Menambahkan container untuk area scroll */
 .toc-scroll-container {
   max-height: calc(100vh - 15rem); /* Tinggi maksimal untuk area scroll */
   overflow-y: auto;
   -ms-scroll-chaining: none;
   overscroll-behavior: none;
   margin-bottom: 1rem;
-  border-bottom: 1px solid #e1e1e1;
 }
 
 /* Memperbaiki struktur TOC */
 .toc.sidebar .toc-menu {
   margin-right: .75rem;
-  position: relative; /* Ubah dari sticky ke relative */
-  top: 0; /* Hapus posisi sticky */
 }
 
 /* Menambahkan judul TOC yang tetap */
@@ -658,19 +656,63 @@ object[type="image/svg+xml"]:not([width]) {
   margin: 0 -.5px;
   padding-bottom: .25rem;
   margin-bottom: 0.5rem;
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  z-index: 2;
 }
 
-/* Positioning untuk tombol dan feedback */
+/* Styling untuk tombol aksi di TOC */
 .toc-actions {
   margin-top: 1rem;
   position: relative;
   z-index: 1;
+  border-top: 1px solid #e1e1e1;
+  padding-top: 1rem;
 }
 
-.toc-feedback {
-  margin-top: 1rem;
-  position: relative;
-  z-index: 1;
+.toc-action-btn {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  font-size: 0.875rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.github-btn {
+  background-color: var(--color-primary);
+  color: white !important;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.github-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.pdf-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: 1px solid #e1e1e1;
+  color: #333 !important;
+}
+
+.pdf-btn:hover {
+  background-color: #f5f5f5;
+  text-decoration: none !important;
+}
+
+.toc-action-btn .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 /* URGENT-3 END */
 
