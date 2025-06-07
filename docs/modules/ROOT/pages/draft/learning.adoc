@@ -6,35 +6,30 @@
 == Ikhtisar
 Pembelajaran di dalam COCONUT Computer Club dirancang untuk membekali anggota dengan keterampilan teknis (hard skill) dan keterampilan sosial (soft skill) yang relevan dengan perkembangan teknologi terkini. Proses pembelajaran ini tidak hanya fokus pada penguasaan teknologi, tetapi juga membangun karakter dan kemampuan adaptasi anggota agar siap menghadapi tantangan di dunia digital yang terus berubah.
 
-== Tujuan
-Pembelajaran bertujuan untuk memastikan setiap anggota:
-- Memiliki kompetensi teknis yang kuat di bidang Frontend, Backend, dan System.
-- Mengembangkan soft skill seperti kepemimpinan, daya tahan berpikir, kemampuan bertahan, keberanian, dan tanggung jawab.
-- Mampu mengikuti dan mengimplementasikan teknologi terbaru sesuai dengan kebutuhan dan tren industri.
-- Siap berkontribusi secara efektif dalam proyek dan kolaborasi tim.
+== Tujuan Pembelajaran
+[IMPORTANT]
+====
+Pembelajaran bertujuan memastikan setiap anggota memiliki kompetensi dan karakter yang kuat untuk berkontribusi dalam ekosistem teknologi.
+====
 
-== Candidate Member
-Calon anggota adalah mahasiswa yang menunjukkan motivasi belajar tinggi dan keselarasan dengan nilai COCONUT. Pada tahap ini, calon anggota diuji dan dibimbing untuk mengembangkan dasar keterampilan teknis serta soft skill yang mendukung proses pembelajaran dan kolaborasi. Mereka didorong untuk aktif mengenali perkembangan teknologi dan siap beradaptasi secara berkelanjutan.
+- *Kompetensi Teknis*: Menguasai bidang Frontend, Backend, dan System dengan kuat.
+- *Pengembangan Soft Skill*: Meningkatkan kepemimpinan, daya tahan berpikir, kemampuan bertahan, keberanian, dan tanggung jawab.
+- *Adaptasi Teknologi*: Mengikuti dan mengimplementasikan teknologi terbaru sesuai tren industri.
+- *Kontribusi Efektif*: Siap berkolaborasi dan memberikan dampak nyata dalam proyek tim.
 
-== Member
-Anggota adalah individu yang telah melewati proses seleksi dan pembekalan awal, serta menunjukkan kesiapan untuk terlibat aktif dalam pembelajaran lanjutan dan proyek nyata. Mereka diharapkan mampu mengaplikasikan hard skill dan soft skill yang telah dikuasai, serta terus mengikuti perkembangan teknologi untuk meningkatkan kualitas kontribusi dalam komunitas.
+== Tahapan Anggota
 
-[plantuml, learning-flow, svg]
-....
-@startuml
-skinparam monochrome true
-skinparam shadowing false
-skinparam arrowColor #333333
-skinparam backgroundColor #FFFFFF
+=== Candidate Member
+[NOTE]
+====
+Calon anggota adalah benih potensial yang akan dibimbing menjadi pilar COCONUT.
+====
 
-[*] --> Candidate Member
-Candidate Member --> [Seleksi & Pembekalan]
-[Seleksi & Pembekalan] --> Member
-Member --> [Pembelajaran Lanjutan & Proyek Nyata]
-[Pembelajaran Lanjutan & Proyek Nyata] --> [*]
+Calon anggota adalah mahasiswa yang menunjukkan *motivasi belajar tinggi* dan keselarasan dengan nilai COCONUT. Pada tahap ini, mereka diuji dan dibimbing untuk mengembangkan dasar *keterampilan teknis* serta *soft skill* yang mendukung proses pembelajaran dan kolaborasi. Mereka didorong untuk aktif mengenali perkembangan teknologi dan siap beradaptasi secara berkelanjutan.
 
-@enduml
-....
+=== Member
+
+Anggota adalah individu yang telah melewati proses seleksi dan pembekalan awal, serta menunjukkan kesiapan untuk terlibat aktif dalam pembelajaran lanjutan dan proyek nyata. Mereka diharapkan mampu mengaplikasikan *hard skill* dan *soft skill* yang telah dikuasai, serta terus mengikuti perkembangan teknologi untuk meningkatkan kualitas kontribusi dalam komunitas.
 
 == Indikator Keberhasilan
 
@@ -53,21 +48,6 @@ Member --> [Pembelajaran Lanjutan & Proyek Nyata]
 | Komitmen dan Tanggung Jawab | 80% anggota menyelesaikan tugas tepat waktu dengan integritas dan mempertanggungjawabkan hasil kerja.
 |===
 
-[mermaid, indicators-chart, svg]
-....
-graph TD
-    A[Penguasaan Hard Skill] -->|80%| B
-    B[Pengembangan Soft Skill] -->|85%| C
-    C[Adaptasi Teknologi] -->|90%| D
-    D[Kolaborasi Tim] -->|88%| E
-    E[Komitmen dan Tanggung Jawab] -->|80%| F
 
-    style A fill:#f9e79f,stroke:#d4ac0d,stroke-width:2px
-    style B fill:#f9e79f,stroke:#d4ac0d,stroke-width:2px
-    style C fill:#f9e79f,stroke:#d4ac0d,stroke-width:2px
-    style D fill:#f9e79f,stroke:#d4ac0d,stroke-width:2px
-    style E fill:#f9e79f,stroke:#d4ac0d,stroke-width:2px
-    style F fill:#f9e79f,stroke:#d4ac0d,stroke-width:2px
-....
 == Penutup
 Pembelajaran di COCONUT Computer Club merupakan pondasi utama dalam membentuk anggota yang tidak hanya kompeten secara teknis, tetapi juga kuat secara karakter dan mental. Melalui pembelajaran berkelanjutan dan evaluasi yang sistematis, kami membangun komunitas yang siap menghadapi tantangan teknologi masa kini dan masa depan dengan inovasi dan kolaborasi yang produktif.
