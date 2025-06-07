@@ -22,10 +22,6 @@ Pembelajaran anggota di COCONUT Computer Club bertujuan mengembangkan keterampil
 |===
 
 == Soft Skill
-[TIP]
-====
-Karakter kuat adalah pendorong kesuksesan dalam dunia teknologi dan kepemimpinan (Buktikan /:0\).
-====
 
 [cols="1,3", options="header"]
 |===
@@ -37,6 +33,11 @@ Karakter kuat adalah pendorong kesuksesan dalam dunia teknologi dan kepemimpinan
 | *Keberanian*           | Mengambil risiko terukur, menyampaikan pendapat terbuka, dan menghadapi tantangan dengan percaya diri.
 | *Tanggung Jawab*       | Menyelesaikan tugas dengan integritas, sadar akan dampak pekerjaan, dan mempertanggungjawabkan tindakan.
 |===
+
+[NOTE]
+====
+Content Materi *Hardskill* dan *Softskill* bersifat dinamis, *Update Periodik* sesuai dengan perkembangan materi teknologi + 5 sektor
+====
 
 == Evaluasi
 Evaluasi terhadap anggota juga mencakup sejauh mana pemahaman dan keterlibatan mereka terhadap perkembangan teknologi, khususnya dalam mengikuti inovasi dan tren terbaru yang muncul pada masa kini. Hal ini meliputi kemampuan anggota dalam mengidentifikasi, mempelajari, dan menerapkan teknologi-teknologi terbaru yang relevan, baik dalam konteks perangkat lunak, perangkat keras, maupun metodologi kerja. Pemahaman terhadap kemajuan teknologi menjadi indikator penting dalam menilai kesiapan anggota untuk beradaptasi dengan perubahan, meningkatkan efisiensi kerja, serta mendukung terciptanya solusi yang inovatif dan berkelanjutan.
