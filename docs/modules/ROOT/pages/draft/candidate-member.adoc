@@ -15,10 +15,6 @@ Membangun dan membentuk Calon Anggota yang kompeten dan tangguh untuk mendukung 
 - *Kontribusi Tim*: Siap berkolaborasi dalam proyek nyata.
 
 == Hard Skill
-[NOTE]
-====
-Keterampilan teknis adalah dasar untuk menjadi pengembang teknologi masa depan.
-====
 
 [cols="1,3", options="header"]
 |===
@@ -34,11 +30,13 @@ Keterampilan teknis adalah dasar untuk menjadi pengembang teknologi masa depan.
 | *Algoritma Penyortiran* | Pengenalan bubble sort, selection sort, dan insertion sort dengan studi kasus seperti pengurutan nilai atau data transaksi.
 |===
 
+== Soft Skill
+
 [cols="1,3", options="header"]
 |===
 | *Komponen*             | *Deskripsi*
 
-| *Kedisiplinan*         | pembelajaran melalui penjadwalan ketat dan pengawasan rutin untuk menghargai waktu, terlihat dari kehadiran dan ketepatan tugas.
+| *Kedisiplinan*         | Pelatihan melalui penjadwalan ketat dan pengawasan rutin untuk menghargai waktu, terlihat dari kehadiran dan ketepatan tugas.
 | *Kerja Keras*          | Komitmen tinggi dalam menghadapi tantangan, menunjukkan ketahanan dan usaha maksimal meski ada kendala teknis.
 | *Empati*               | Saling membantu dan memahami rekan dalam sesi kelompok, membentuk sikap peduli dan penghargaan terhadap perbedaan.
 | *Loyalitas*            | Sikap loyal terhadap kegiatan dan tim, ditunjukkan dengan kontribusi aktif dan semangat kebersamaan.
