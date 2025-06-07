@@ -5,33 +5,42 @@ Pembelajaran anggota di COCONUT Computer Club bertujuan mengembangkan keterampil
 
 == Tujuan
 
-=== HARD SKILL
+- *Kompetensi Teknis*: Menguasai pengembangan Front-end, Back-end, dan Sistem dengan standar industri.
+- *Kepemimpinan dan Resiliensi*: Meningkatkan kemampuan memimpin dan bertahan di lingkungan yang menantang.
+- *Adaptasi Teknologi*: Mengikuti dan menerapkan tren teknologi terkini.
+- *Kontribusi Tim*: Mendukung proyek dengan kolaborasi dan tanggung jawab tinggi.
 
-==== Frontend
-Seorang anggota front-end diharapkan memiliki kemampuan untuk merancang dan membangun antarmuka aplikasi yang menarik, responsif, dan ramah pengguna. Selain itu, mereka juga dituntut untuk menguasai berbagai teknologi dan alat yang berkaitan dengan pengembangan tampilan aplikasi, seperti HTML, CSS, dan JavaScript, serta pustaka dan framework modern dan memahami prinsip desain antarmuka pengguna (UI) dan pengalaman pengguna (UX). Penguasaan terhadap teknologi dan praktik terbaik dalam pengembangan front-end menjadi bagian penting dari kompetensi yang harus dimiliki untuk mendukung terciptanya aplikasi yang fungsional dan estetis.
+== Hard Skill
+[NOTE]
+====
+Keterampilan teknis adalah fondasi untuk membangun solusi teknologi inovatif.
+====
 
-==== Back-end
-Seorang anggota backend diharapkan memiliki kemampuan untuk mengembangkan logika dan fungsionalitas inti dari sebuah aplikasi, sehingga aplikasi tersebut dapat berjalan secara dinamis dan terintegrasi dengan baik. Selain itu, mereka juga dituntut untuk mampu merancang, membangun, dan mengelola layanan sisi server, termasuk implementasi dan integrasi Application Programming Interface (API), pengelolaan basis data, serta pengaturan autentikasi dan otorisasi pengguna. Penguasaan terhadap berbagai bahasa pemrograman sisi server, manajemen data, serta praktik terbaik dalam pengembangan back-end menjadi bagian penting dari kompetensi yang harus dimiliki untuk memastikan performa, keamanan, dan skalabilitas aplikasi.
+[cols="1,3", options="header"]
+|===
+| *Komponen*             | *Deskripsi*
 
-==== System
-Seorang anggota sistem diharapkan memiliki kemampuan untuk merancang, mengelola, dan mengamankan infrastruktur teknologi yang digunakan dalam suatu sistem informasi. Mereka bertanggung jawab dalam memastikan bahwa sistem berjalan secara optimal, stabil, dan terlindungi dari berbagai potensi ancaman keamanan. Selain itu, anggota sistem juga dituntut untuk memahami konsep dan implementasi keamanan jaringan, pengelolaan server, serta prosedur pemulihan bencana (disaster recovery). Penguasaan terhadap teknologi sistem operasi, virtualisasi, serta praktik terbaik dalam penguatan dan perlindungan sistem menjadi bagian penting dari kompetensi yang harus dimiliki untuk menjaga keberlangsungan dan keandalan layanan teknologi.
+| *Frontend*             | Merancang antarmuka aplikasi yang menarik, memiliki nilai estetika tinggi, responsif, dan ramah pengguna dengan penguasaan HTML, CSS, JavaScript, serta framework modern (e.g., Svelte, Next JS, etc), termasuk prinsip UI/UX.
+| *Back-end*             | Mengembangkan logika aplikasi, merancang API, mengelola basis data, dan menangani autentikasi/otorisasi dengan bahasa pemrograman (Golang) sisi server dan praktik terbaik.
+| *System Engineer*      | Merancang dan mengelola infrastruktur teknologi, pengembangan (development),memastikan stabilitas, keamanan, jaringan, server, scripting (bash), basaha program (e,g., Python, C, etc. (Nilai +)) , dan serta prosedur pemulihan bencana dengan teknologi sistem operasi dan virtualisasi.... #WindowHaram awkoakwoakwoakwo
+|===
 
-=== SOFT SKILL
+== Soft Skill
+[TIP]
+====
+Karakter kuat adalah pendorong kesuksesan dalam dunia teknologi dan kepemimpinan (Buktikan /:0\).
+====
 
-==== Kepemimpinan (Leadership)
-Kemampuan untuk memimpin, membimbing, dan mengarahkan anggota tim secara efektif dalam mencapai tujuan bersama, serta mampu mengambil keputusan secara bijaksana dalam situasi yang menantang.
+[cols="1,3", options="header"]
+|===
+| *Komponen*             | *Deskripsi*
 
-==== Daya Tahan Berpikir (Mental Endurance)
-Kemampuan untuk tetap fokus, tenang, dan konsisten dalam menyelesaikan tugas meskipun berada dalam tekanan, serta mampu mengelola beban kognitif dengan stabilitas emosi yang baik.
-
-==== Kemampuan Bertahan (Resiliensi)
-Kemampuan untuk bangkit kembali dan tetap berproses secara produktif setelah menghadapi hambatan, kegagalan, atau perubahan mendadak dalam lingkungan kerja.
-
-==== Keberanian (Courage)
-Kemampuan untuk mengambil risiko yang terukur, menyampaikan pendapat secara terbuka, dan menghadapi tantangan dengan percaya diri demi kemajuan individu maupun tim.
-
-==== Tanggung Jawab (Responsibility)
-Sikap yang mencerminkan komitmen dalam menyelesaikan tugas dengan integritas tinggi, kesadaran terhadap dampak pekerjaan yang dilakukan, serta kesediaan untuk mempertanggungjawabkan setiap tindakan yang diambil.
+| *Kepemimpinan*         | Memimpin tim secara efektif, membimbing anggota, dan mengambil keputusan bijaksana dalam situasi menantang.
+| *Daya Tahan Berpikir*  | Tetap fokus dan tenang di bawah tekanan, mengelola beban kognitif dengan stabilitas emosi yang baik.
+| *Kemampuan Bertahan*   | Bangkit dari kegagalan atau perubahan mendadak dengan produktivitas yang terjaga.
+| *Keberanian*           | Mengambil risiko terukur, menyampaikan pendapat terbuka, dan menghadapi tantangan dengan percaya diri.
+| *Tanggung Jawab*       | Menyelesaikan tugas dengan integritas, sadar akan dampak pekerjaan, dan mempertanggungjawabkan tindakan.
+|===
 
 == Evaluasi
 Evaluasi terhadap anggota juga mencakup sejauh mana pemahaman dan keterlibatan mereka terhadap perkembangan teknologi, khususnya dalam mengikuti inovasi dan tren terbaru yang muncul pada masa kini. Hal ini meliputi kemampuan anggota dalam mengidentifikasi, mempelajari, dan menerapkan teknologi-teknologi terbaru yang relevan, baik dalam konteks perangkat lunak, perangkat keras, maupun metodologi kerja. Pemahaman terhadap kemajuan teknologi menjadi indikator penting dalam menilai kesiapan anggota untuk beradaptasi dengan perubahan, meningkatkan efisiensi kerja, serta mendukung terciptanya solusi yang inovatif dan berkelanjutan.
