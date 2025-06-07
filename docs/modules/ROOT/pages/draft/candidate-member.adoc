@@ -1,63 +1,65 @@
 = Learning - Candidate Member
 
 == Ikhtisar
-Program pelatihan kandidat member dirancang sebagai fondasi awal untuk membentuk individu yang unggul secara teknis dan karakter. Peserta dibekali keterampilan dasar di bidang teknologi informasi melalui penguasaan konsep pemrograman seperti algoritma, flowchart, tipe data, serta kemampuan berpikir komputasional. Selain itu, pelatihan ini juga menekankan penguatan soft skill yang mencakup kedisiplinan, kerja keras, empati, loyalitas, dan percaya diri. Dengan pendekatan yang integratif, program ini mendorong peserta untuk berkembang secara seimbang, siap menghadapi tantangan teknis maupun dinamika kerja tim di lingkungan teknologi.
+Pembelajaran Calon Anggota member dirancang sebagai fondasi awal untuk membentuk individu yang unggul secara teknis dan karakter. Calon Anggota dibekali keterampilan dasar di bidang teknologi informasi melalui penguasaan konsep pemrograman seperti algoritma, flowchart, tipe data, serta kemampuan berpikir komputasional. Selain itu, pembelajaran ini juga menekankan penguatan soft skill yang mencakup kedisiplinan ,daya tahan, kerja keras, empati, loyalitas, dan percaya diri. Dengan pendekatan yang integratif, Pembelajaran ini mendorong Calon Anggota untuk berkembang secara seimbang, siap menghadapi tantangan teknis maupun dinamika kerja tim di lingkungan teknologi.
 
 == Tujuan
+[IMPORTANT]
+====
+Membangun dan membentuk Calon Anggota yang kompeten dan tangguh untuk mendukung dan mengembangkan ekosistem teknologi Global.
+====
 
-=== Hard Skill
+- *Kompetensi Teknis*: Menguasai bidang teknologi informasi dengan pendekatan praktis.
+- *Pengembangan Soft Skill*: Meningkatkan karakter dan kemampuan interpersonal yang mendukung kolaborasi.
+- *Adaptasi Teknologi*: Mengikuti tren terbaru untuk relevansi industri.
+- *Kontribusi Tim*: Siap berkolaborasi dalam proyek nyata.
 
-==== Algoritma
-Peserta dilatih untuk memahami pentingnya algoritma dalam proses penyelesaian masalah. Mereka belajar merumuskan langkah-langkah logis secara sistematis untuk mencapai solusi yang efisien. Dengan pendekatan problem-solving, kandidat mampu mengkonversi permasalahan sehari-hari menjadi bentuk algoritmik.
+== Hard Skill
+[NOTE]
+====
+Keterampilan teknis adalah dasar untuk menjadi pengembang teknologi masa depan.
+====
 
-==== Computational Thinking
-Dalam bagian ini, kandidat diajak melatih pola pikir komputasional, seperti decomposition, pattern recognition, abstraction, dan algorithm design. Kemampuan ini memperkuat fondasi berpikir kritis dan sistematis dalam menyelesaikan masalah yang kompleks.
+[cols="1,3", options="header"]
+|===
+| *Komponen*             | *Deskripsi*
 
-==== Flowchart
-Materi flowchart memperkenalkan cara visualisasi logika program. Kandidat diajak untuk membuat bagan alur dari proses logis yang telah dirancang, guna mempermudah pemahaman alur program sebelum dikonversi ke dalam kode nyata.
+| *Algoritma*            | pembelajaran untuk merumuskan langkah-langkah logis secara sistematis, mengkonversi masalah sehari-hari menjadi solusi efisien dengan pendekatan problem-solving.
+| *Computational Thinking* | Latihan pola pikir seperti decomposition, pattern recognition, abstraction, dan algorithm design untuk berpikir kritis dan sistematis.
+| *Flowchart*            | Pengenalan visualisasi logika Pembelajaran melalui bagan alur untuk mempermudah pemahaman sebelum coding.
+| *Tipe Data*            | Pemahaman tipe data primer (integer, float, char, boolean) dan non-primer (array, struct, objek) dengan studi kasus sederhana.
+| *Operator*             | Penggunaan operator aritmatika, logika, pembanding, dan penugasan dalam ekspresi dan logika Pembelajaran, diperkuat dengan skenario praktis.
+| *If (Pengkondisian)*        | Penguasaan struktur if, else if, dan else untuk pengambilan keputusan, diterapkan dalam validasi input dan respons data dinamis.
+| *For (Perulangan)*           | pembelajaran penggunaan for dan while untuk tugas repetitif, seperti mencetak deret angka atau menjumlahkan elemen array.
+| *Algoritma Penyortiran* | Pengenalan bubble sort, selection sort, dan insertion sort dengan studi kasus seperti pengurutan nilai atau data transaksi.
+|===
 
-==== Tipe Data
-Kandidat memahami bahwa tipe data terbagi menjadi dua kategori utama, yakni tipe data primer seperti integer, float, char, dan boolean; serta tipe data non-primer seperti array, struct, dan objek. Pemahaman ini tidak hanya bersifat teoritis, namun juga diterapkan dalam studi kasus sederhana yang relevan.
+[cols="1,3", options="header"]
+|===
+| *Komponen*             | *Deskripsi*
 
-==== Operator
-Kandidat diperkenalkan pada penggunaan operator sebagai dasar dalam membentuk ekspresi dan logika program. Operator dibagi menjadi beberapa kategori utama, seperti aritmatika (penjumlahan, pengurangan), logika (AND, OR, NOT), pembanding (>, <, ==), dan penugasan (=, +=, -=). Pemahaman ini diperkuat dengan penerapan dalam skenario perhitungan, evaluasi logika, dan manipulasi nilai variabel.
+| *Kedisiplinan*         | pembelajaran melalui penjadwalan ketat dan pengawasan rutin untuk menghargai waktu, terlihat dari kehadiran dan ketepatan tugas.
+| *Kerja Keras*          | Komitmen tinggi dalam menghadapi tantangan, menunjukkan ketahanan dan usaha maksimal meski ada kendala teknis.
+| *Empati*               | Saling membantu dan memahami rekan dalam sesi kelompok, membentuk sikap peduli dan penghargaan terhadap perbedaan.
+| *Loyalitas*            | Sikap loyal terhadap kegiatan dan tim, ditunjukkan dengan kontribusi aktif dan semangat kebersamaan.
+| *Percaya Diri*         | Dorongan untuk berani mengemukakan pendapat dalam diskusi dan presentasi, menjadi modal menghadapi tantangan.
+|===
 
-==== Pengkondisian
-Kandidat memahami bahwa pengkondisian merupakan alat utama untuk pengambilan keputusan dalam program. Struktur seperti if, else if, dan else digunakan untuk menentukan alur logika berdasarkan kondisi tertentu. Pemahaman ini diasah melalui studi kasus seperti validasi input, pemberian kategori nilai, dan respons terhadap data dinamis.
-
-==== Perulangan
-Kandidat dilatih untuk menggunakan perulangan dalam menyelesaikan tugas-tugas yang bersifat repetitif. Struktur seperti for dan while digunakan untuk mengeksekusi blok kode berulang kali sesuai kondisi yang ditentukan. Konsep ini diterapkan dalam latihan seperti mencetak deret angka, menjumlahkan elemen dalam array, hingga simulasi proses iteratif sederhana.
-
-==== Algoritma Penyortiran
-Kandidat dikenalkan pada algoritma penyortiran sebagai bagian dari proses pengolahan dan pengorganisasian data. Berbagai metode seperti bubble sort, selection sort, dan insertion sort diperkenalkan untuk memberi pemahaman perbandingan performa dan efisiensi. Studi kasus konkret digunakan untuk mengaplikasikan algoritma ini dalam konteks dunia nyata, seperti pengurutan nilai siswa atau data transaksi.
-
-== Soft Skill
-Selain aspek teknis, pembentukan karakter juga menjadi fokus penting dalam kegiatan ini. Kandidat dilatih untuk menumbuhkan sikap profesional dan tangguh, yang dibutuhkan di dunia kerja maupun lingkungan organisasi.
-
-=== Kedisiplinan
-Melalui penjadwalan yang ketat dan pengawasan rutin, peserta dilatih untuk menghargai waktu dan tanggung jawab. Kedisiplinan ini terlihat dari kehadiran, ketepatan waktu tugas, dan keseriusan dalam mengikuti setiap sesi.
-
-=== Kerja Keras
-Kandidat menunjukkan komitmen yang tinggi dalam menyelesaikan setiap tantangan yang diberikan. Mereka tidak mudah menyerah, dan selalu berusaha menyelesaikan tugas meskipun menemui kendala teknis.
-
-=== Empati
-Dalam sesi kelompok, peserta dituntut untuk saling membantu dan memahami kondisi rekan-rekannya. Hal ini membentuk sikap peduli dan saling menghargai perbedaan kemampuan serta latar belakang.
-
-=== Loyalitas
-Selama program berjalan, peserta menunjukkan sikap loyal terhadap kegiatan dan tim. Mereka aktif berkontribusi dan menjaga semangat kebersamaan.
-
-=== Percaya Diri
-Kandidat didorong untuk berani mengemukakan pendapat, baik dalam diskusi kelompok maupun presentasi individu. Kepercayaan diri ini menjadi modal penting dalam menghadapi tantangan di luar pelatihan.
+[NOTE]
+====
+Content Materi *Hardskill* dan *Softskill* bersifat dinamis, *Update Periodik* sesuai dengan perkembangan materi teknologi
+====
 
 == Public Speaking
-Materi public speaking difokuskan pada kemampuan berbicara di depan umum secara terstruktur dan meyakinkan. Kandidat dilatih untuk menyampaikan ide dengan artikulasi yang jelas, kontak mata yang baik, dan penggunaan bahasa tubuh yang mendukung.
+
+Materi *public speaking* difokuskan pada kemampuan berbicara di depan umum secara *terstruktur* dan *meyakinkan*. Calon Anggota dilatih untuk menyampaikan ide dengan *artikulasi yang jelas*, *kontak mata yang baik*, dan *penggunaan bahasa tubuh* yang mendukung.
 
 == Evaluasi
-Evaluasi kandidat dilakukan secara berkala setiap akhir minggu (hari Minggu) untuk mengukur sejauh mana pemahaman dan penerapan materi yang telah dipelajari selama satu pekan. Evaluasi ini dilakukan melalui pemberian soal berbasis studi kasus yang menuntut peserta untuk menerapkan konsep-konsep teknis seperti algoritma, flowchart, tipe data, operator, pengkondisian, perulangan, hingga algoritma penyortiran.
+Evaluasi Calon Anggota dilakukan secara berkala setiap akhir minggu (hari Minggu) untuk mengukur sejauh mana pemahaman dan penerapan materi yang telah dipelajari selama satu pekan. Evaluasi ini dilakukan melalui pemberian soal berbasis studi kasus yang menuntut Calon Anggota untuk menerapkan konsep-konsep teknis seperti algoritma, flowchart, tipe data, operator, pengkondisian, perulangan, hingga algoritma penyortiran.
 
-Setiap soal dirancang untuk mendorong kandidat mengintegrasikan pemikiran logis dan kreatif dalam menyelesaikan masalah nyata, sekaligus menilai kemampuan computational thinking mereka. Di sisi lain, aspek soft skill juga dievaluasi melalui pengamatan terhadap sikap, keaktifan, dan kolaborasi selama proses diskusi kelompok dan presentasi hasil.
+Setiap soal dirancang untuk mendorong Calon Anggota mengintegrasikan pemikiran logis dan kreatif dalam menyelesaikan masalah nyata, sekaligus menilai kemampuan computational thinking mereka. Di sisi lain, aspek soft skill juga dievaluasi melalui pengamatan terhadap sikap, keaktifan, dan kolaborasi selama proses diskusi kelompok dan presentasi hasil.
 
-Evaluasi ini bukan hanya bersifat penilaian, tetapi juga menjadi sarana refleksi bagi peserta untuk memahami kekuatan dan area pengembangan pribadi. Hasil evaluasi digunakan sebagai dasar untuk memberikan umpan balik yang konstruktif dan sebagai tolok ukur kemajuan peserta dalam program.
+Evaluasi juga berfungsi sebagai *sarana refleksi* untuk memahami kekuatan dan area pengembangan, dengan *umpan balik konstruktif* sebagai dasar kemajuan. Hasil evaluasi digunakan sebagai dasar untuk memberikan umpan balik yang konstruktif dan sebagai tolok ukur kemajuan Calon Anggota dalam Pembelajaran.
 
 == Aspek dan Indikator
 
@@ -65,12 +67,12 @@ Evaluasi ini bukan hanya bersifat penilaian, tetapi juga menjadi sarana refleksi
 |===
 | **Aspek**                        | **Indikator**
 
-| Penguasaan Hard Skill            | 85% kandidat memahami dan dapat mengimplementasikan algoritma, flowchart, tipe data, operator, pengkondisian, perulangan, dan algoritma penyortiran dasar.
-|                                  | 80% kandidat mampu memecahkan masalah menggunakan pendekatan computational thinking dan mengubahnya menjadi bentuk algoritma yang efisien.
-| Pengembangan Soft Skill          | 90% kandidat menunjukkan peningkatan dalam sikap disiplin, kerja keras, dan loyalitas selama proses pelatihan.
-|                                  | 85% kandidat aktif berpartisipasi dalam kegiatan kelompok dengan empati dan kepedulian terhadap sesama peserta.
-| Komunikasi dan Kepercayaan Diri  | 85% kandidat mampu mengungkapkan ide secara jelas dan percaya diri dalam diskusi kelompok dan presentasi individu.
-|                                  | 80% kandidat menunjukkan kemampuan dasar public speaking, termasuk artikulasi, kontak mata, dan penggunaan bahasa tubuh yang mendukung.
-| Komitmen dan Tanggung Jawab      | 85% kandidat menyelesaikan tugas tepat waktu dengan kualitas yang baik dan menunjukkan tanggung jawab terhadap peran yang diemban.
-| Kesiapan Beradaptasi dalam Tim Teknologi | 80% kandidat mampu beradaptasi dengan dinamika kerja kelompok dan menunjukkan potensi kontribusi dalam lingkungan pengembangan teknologi.
+| Penguasaan Hard Skill            | 85% Calon Anggota memahami dan dapat mengimplementasikan algoritma, flowchart, tipe data, operator, pengkondisian, perulangan, dan algoritma penyortiran dasar.
+|                                  | 80% Calon Anggota mampu memecahkan masalah menggunakan pendekatan computational thinking dan mengubahnya menjadi bentuk algoritma yang efisien.
+| Pengembangan Soft Skill          | 90% Calon Anggota menunjukkan peningkatan dalam sikap disiplin, kerja keras, dan loyalitas selama proses pembelajaran.
+|                                  | 85% Calon Anggota aktif berpartisipasi dalam kegiatan kelompok dengan empati dan kepedulian terhadap sesama Calon Anggota.
+| Komunikasi dan Kepercayaan Diri  | 85% Calon Anggota mampu mengungkapkan ide secara jelas dan percaya diri dalam diskusi kelompok dan presentasi individu.
+|                                  | 80% Calon Anggota menunjukkan kemampuan dasar public speaking, termasuk artikulasi, kontak mata, dan penggunaan bahasa tubuh yang mendukung.
+| Komitmen dan Tanggung Jawab      | 85% Calon Anggota menyelesaikan tugas tepat waktu dengan kualitas yang baik dan menunjukkan tanggung jawab terhadap peran yang diemban.
+| Kesiapan Beradaptasi dalam Tim Teknologi | 80% Calon Anggota mampu beradaptasi dengan dinamika kerja kelompok dan menunjukkan potensi kontribusi dalam lingkungan pengembangan teknologi.
 |===
