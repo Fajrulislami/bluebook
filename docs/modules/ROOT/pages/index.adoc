@@ -36,18 +36,16 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
   ** xref:draft/triwulan.adoc[Triwulan]
 
 == Author
-- Abd Rahman
+- Abd Rahman Al-Gazali
 - Nurman Awaluddin
 - Rezky Amaliah Rusli
 - Syahrul Ramadhan
 - Musdalipa
 - Dzikri Fauzan
-- tes
-- tes
-- tes
-- tes
-- tes
-- tes
+- Salsabila Putri
+- Galbi Nadifah
+- 
+
 
 
 == Bluebook Version
