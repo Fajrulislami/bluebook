@@ -16,7 +16,7 @@ Pembelajaran anggota di COCONUT Computer Club bertujuan mengembangkan keterampil
 |===
 | *Komponen*             | *Deskripsi*
 
-| *Frontend*             | Merancang antarmuka aplikasi yang menarik, memiliki nilai estetika tinggi, responsif, dan ramah pengguna dengan penguasaan HTML, CSS, JavaScript, serta framework modern (e.g., Svelte, Next JS, etc), termasuk prinsip UI/UX.
+| *Front-end*             | Merancang antarmuka aplikasi yang menarik, memiliki nilai estetika tinggi, responsif, dan ramah pengguna dengan penguasaan HTML, CSS, JavaScript, serta framework modern (e.g., Svelte, Next JS, etc), termasuk prinsip UI/UX.
 | *Back-end*             | Mengembangkan logika aplikasi, merancang API, mengelola basis data, dan menangani autentikasi/otorisasi dengan bahasa pemrograman (Golang) sisi server dan praktik terbaik.
 | *System Engineer*      | Merancang dan mengelola infrastruktur teknologi, pengembangan (development),memastikan stabilitas, keamanan, jaringan, server, scripting (bash), basaha program (e,g., Python, C, etc. (Nilai +)) , dan serta prosedur pemulihan bencana dengan teknologi sistem operasi dan virtualisasi.... #WindowHaram awkoakwoakwoakwo
 |===
