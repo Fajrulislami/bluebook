@@ -11,10 +11,6 @@ Pembelajaran anggota di COCONUT Computer Club bertujuan mengembangkan keterampil
 - *Kontribusi Tim*: Mendukung proyek dengan kolaborasi dan tanggung jawab tinggi.
 
 == Hard Skill
-[NOTE]
-====
-Keterampilan teknis adalah fondasi untuk membangun solusi teknologi inovatif.
-====
 
 [cols="1,3", options="header"]
 |===
