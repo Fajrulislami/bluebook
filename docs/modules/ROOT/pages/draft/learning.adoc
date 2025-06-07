@@ -7,6 +7,7 @@
 Pembelajaran di dalam COCONUT Computer Club dirancang untuk membekali anggota dengan keterampilan teknis (hard skill) dan keterampilan sosial (soft skill) yang relevan dengan perkembangan teknologi terkini. Proses pembelajaran ini tidak hanya fokus pada penguasaan teknologi, tetapi juga membangun karakter dan kemampuan adaptasi anggota agar siap menghadapi tantangan di dunia digital yang terus berubah.
 
 == Tujuan
+
 Pembelajaran bertujuan untuk memastikan setiap anggota:
 - Memiliki kompetensi teknis yang kuat di bidang Frontend, Backend, dan System.
 - Mengembangkan soft skill seperti kepemimpinan, daya tahan berpikir, kemampuan bertahan, keberanian, dan tanggung jawab.
