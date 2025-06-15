@@ -3,11 +3,73 @@
 :description: Strategic meetings and planning sessions for COCONUT
 :keywords: COCONUT, meetings, Mubes, Raker, Triwulan
 
-== Overview
-The *Meeting* section outlines COCONUT's strategic gatherings, including *Mubes* (Musyawarah Besar), *Raker* (Rapat Kerja), *Triwulan* (quarterly meetings), and other planning sessions.
+= Meetings
 
-== Details
-[NOTE]
-This section is under development. Details about meeting schedules, agendas, and outcomes will be added soon.
+== Pengantar
 
-Check back for updates on COCONUT's collaborative planning efforts.
+Dalam konteks organisasi COCONUT Computer Club, _meeting_ atau *rapat* adalah forum formal yang menjadi medium utama untuk perencanaan, pengambilan keputusan, evaluasi, serta refleksi organisasi. Istilah “meeting” dalam dokumen ini merujuk pada “rapat”, baik yang bersifat tahunan, triwulanan, maupun musyawarah besar.
+
+== Ikhtisar
+
+Meeting merupakan pilar utama dalam mekanisme manajemen dan tata kelola organisasi COCONUT Computer Club. Forum-forum ini diselenggarakan secara sistematis dan berkala untuk memastikan keberjalanan organisasi yang transparan, partisipatif, dan berkelanjutan.
+
+Tiga jenis meeting utama yang membentuk fondasi pengelolaan organisasi, yaitu:
+
+* *Musyawarah Besar (MUBES)* — Forum tertinggi organisasi yang diselenggarakan setiap akhir periode kepengurusan.
+* *Rapat Kerja (RAKER)* — Forum perencanaan strategis di awal periode kepengurusan.
+* *Triwulan* — Forum monitoring dan evaluasi kinerja departemen yang dilaksanakan setiap tiga bulan.
+
+Ketiganya saling terhubung membentuk siklus pengambilan keputusan organisasi yang sistematis dan berorientasi hasil.
+
+== Struktur dan Fungsi Forum
+
+[cols="1,3,3", options="header"]
+|===
+| Forum | Fungsi Utama | Waktu Pelaksanaan
+
+| Musyawarah Besar (MUBES)
+| Forum pengambilan keputusan tertinggi: evaluasi akhir, pengesahan laporan pertanggungjawaban (LPJ), revisi AD/ART, dan pemilihan Ketua Umum.
+| Setahun sekali (akhir periode kepengurusan)
+
+| Rapat Kerja (RAKER)
+| Forum perencanaan tahunan untuk menyusun program kerja setiap departemen dan struktur organisasi.
+| Setahun sekali (awal periode kepengurusan)
+
+| Triwulan
+| Forum evaluasi berkala untuk memantau progres program kerja dan menyusun rekomendasi tindak lanjut.
+| Setiap 3 bulan (Triwulanan)
+|===
+
+== Integrasi dalam Siklus Organisasi
+
+Ketiga meeting tersebut dirancang saling terintegrasi dalam satu _governance cycle_ organisasi:
+
+* *RAKER* menjadi fondasi perencanaan tahunan organisasi.
+* *Triwulan* berfungsi sebagai kontrol dan evaluasi berkala terhadap pelaksanaan program.
+* *MUBES* menjadi penutup yang reflektif dan transformatif untuk melahirkan kepemimpinan baru dan memperbarui arah kebijakan organisasi.
+
+== Tujuan Umum Meetings
+
+* Menjamin akuntabilitas dan transparansi kepengurusan.
+* Mendorong partisipasi aktif seluruh elemen organisasi.
+* Menyusun dan merealisasikan program kerja secara terukur.
+* Menyediakan forum refleksi dan perbaikan berkelanjutan.
+* Memastikan keberlanjutan organisasi melalui kepemimpinan yang sah.
+
+== Prinsip Pelaksanaan
+
+Meetings dilaksanakan berdasarkan prinsip-prinsip sebagai berikut:
+
+* *Transparansi* — Semua hasil meeting didokumentasikan secara resmi dan dapat diakses.
+* *Partisipatif* — Setiap peserta memiliki hak suara dan ruang berpendapat.
+* *Efisien & Fokus* — Forum berjalan sesuai jadwal dan agenda yang ditentukan.
+* *Berorientasi Tindak Lanjut* — Setiap keputusan harus dapat ditindaklanjuti secara konkret.
+
+== Output Terpadu
+
+* Dokumen Program Kerja Tahunan (RAKER)
+* Laporan Pertanggungjawaban Triwulan dan Tahunan (LPJ)
+* Notulen Meeting dan Rekomendasi Strategis
+* Revisi AD/ART (jika diperlukan)
+* Keputusan resmi hasil Musyawarah Besar, termasuk Ketua Umum terpilih
+
