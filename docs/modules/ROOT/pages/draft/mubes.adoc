@@ -30,18 +30,40 @@ MUBES bersifat *formal, demokratis, dan strategis*, yang mempertemukan seluruh p
 |===
 
 == Rangkaian Kegiatan MUBES
-. Pembukaan & Sidang Pleno I
-.. Menyampaikan agenda dan tata tertib sidang, serta pembentukan presidium sidang.
-. Pemaparan & Pengesahan Laporan Pertanggungjawaban (LPJ)
-.. Pemaparan laporan kinerja tiap departemen, diskusi terbuka, dan pengesahan oleh forum.
-. Penyampaian Visi Calon Ketua Umum
-.. Forum penyampaian visi, misi, dan program strategis dari para kandidat Ketua Umum.
-. Pemilihan Ketua Umum
-.. Pelaksanaan voting yang jujur dan adil untuk menentukan Ketua Umum terpilih.
-. Sidang Komisi & Penyempurnaan AD/ART
-.. Pembahasan dan revisi konstitusi organisasi sebagai penyesuaian terhadap dinamika internal dan eksternal.
-. Perumusan Rekomendasi & Penutupan
-.. Penetapan hasil keputusan strategis, rekomendasi lintas departemen, dan penutupan resmi.
+
+. *Persiapan Teknis dan Administratif*
++
+Panitia melaksanakan berbagai persiapan sebelum kegiatan dimulai, termasuk logistik, akomodasi, dan perlengkapan sidang.
+
+. *Sesi Pembukaan*
++
+Dibuka oleh MC, dilanjutkan dengan pembacaan doa, laporan ketua panitia, serta sambutan dari perwakilan senior dan Ketua Umum demisioner sebagai bentuk apresiasi dan pengantar forum.
+
+. *Sidang Pleno I – Agenda dan Tata Tertib*
++
+Membahas serta menetapkan agenda MUBES dan tata tertib sidang. Sidang ini dipimpin oleh presidium sementara.
+
+. *Sidang Pleno II – Pemilihan Presidium Tetap*
++
+Menetapkan presidium sidang tetap yang akan memimpin seluruh jalannya persidangan, termasuk pengalihan palu sidang dari presidium sementara.
+
+. *Sidang Pleno III – Laporan Pertanggungjawaban (LPJ)*
++
+Pemaparan dan evaluasi terhadap LPJ Badan Pengurus Harian (BPH) periode sebelumnya. Forum memberi catatan atau pengesahan terhadap laporan tersebut.
+
+. *Sidang Pleno IV – Revisi AD/ART dan GBHO*
++
+Membahas serta memperbarui Anggaran Dasar dan Anggaran Rumah Tangga (AD/ART), sekaligus menetapkan Garis Besar Haluan Organisasi (GBHO) sebagai acuan strategis organisasi ke depan.
+
+. *Sidang Pleno V – Pemilihan Ketua Umum*
++
+Menentukan mekanisme pencalonan, menetapkan syarat-syarat calon, memilih Ketua Umum dan Dewan Pertimbangan Organisasi periode selanjutnya, serta mengesahkannya secara forum.
+
+. *Sidang Pleno VI – Transisi Kepemimpinan dan Penutupan*
++
+Berisi sambutan dari Ketua Umum terpilih, penyerahan berkas dan dokumen organisasi, serta penetapan keputusan akhir MUBES. Ditutup dengan doa dan pernyataan resmi berakhirnya forum.
+
+
 
 == Output yang Diharapkan
 * Dokumen LPJ Terverifikasi
