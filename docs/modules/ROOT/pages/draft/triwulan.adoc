@@ -3,10 +3,86 @@
 :description: COCONUT's quarterly meetings
 :keywords: COCONUT, meeting, triwulan, community
 
-== Overview
-The *Triwulan* section covers COCONUT's quarterly meetings to review progress and align community activities.
+=== Ikhtisar
 
-== Details
+Triwulan merupakan forum evaluasi berkala yang dilaksanakan setiap tiga bulan sekali oleh COCONUT Computer Club selama satu periode kepengurusan. Forum ini bersifat internal dan semi-formal, yang bertujuan untuk memantau perkembangan kinerja program kerja masing-masing departemen, serta menguatkan koordinasi antarpengurus.
+
+Berbeda dengan Musyawarah Besar (MUBES) yang bersifat akumulatif dan berorientasi pada transisi kepemimpinan, Triwulan lebih menekankan pada evaluasi proses, pelaporan progres, serta pembenahan strategis secara dinamis. Forum ini sekaligus menjadi sarana pembuktian komitmen departemen terhadap perencanaan kerja yang telah disusun di awal periode.
+
+Melalui Triwulan, organisasi memastikan bahwa program-program berjalan sesuai arah kebijakan, memiliki dampak yang terukur, dan mampu beradaptasi terhadap tantangan yang muncul di lapangan.
+
+=== Tujuan Pelaksanaan Triwulan
+
+[cols="1,3", options="header"]
+|===
+| Tujuan | Penjelasan
+
+| Evaluasi Progres Kinerja
+| Menelaah capaian program kerja masing-masing departemen dalam rentang tiga bulan terakhir.
+
+| Identifikasi Hambatan
+| Menggali kendala teknis maupun non-teknis dalam pelaksanaan kegiatan untuk dicarikan solusi kolektif.
+
+| Sinkronisasi Program
+| Menyelaraskan agenda dan timeline lintas departemen agar lebih terstruktur dan saling mendukung.
+
+| Peningkatan Akuntabilitas
+| Mendorong transparansi pertanggungjawaban antar pengurus serta budaya pelaporan yang teratur dan valid.
+
+| Penyusunan Rekomendasi
+| Merumuskan strategi dan langkah tindak lanjut untuk memperbaiki performa kerja di triwulan selanjutnya.
+|===
+
+=== Rangkaian Kegiatan Triwulan
+
+. *Pembukaan Forum*
++
+Forum dimulai dengan sambutan oleh Ketua Umum atau penanggung jawab Triwulan, disusul dengan pembacaan tata tertib dan mekanisme presentasi.
+
+. *Pemaparan Laporan Per Departemen*
++
+Setiap departemen menyampaikan Laporan Pertanggungjawaban Triwulan (LPJ-T) yang berisi:
+  * Capaian program kerja dan indikator keberhasilan
+  * Dokumentasi kegiatan
+  * Analisis kendala dan solusi
+  * Rencana tindak lanjut
+
+. *Diskusi Terbuka dan Tanggapan*
++
+Forum terbuka memberikan ruang bagi peserta lain, termasuk pengurus pusat dan bidang lain, untuk memberi masukan, pertanyaan, atau rekomendasi atas laporan yang disampaikan.
+
+. *Pencatatan Evaluasi dan Rangkuman*
++
+Tim notulen mencatat hasil evaluasi dan menyusunnya menjadi dokumen rekomendasi strategis sebagai acuan perbaikan bersama.
+
+. *Penutupan*
++
+Forum ditutup dengan simpulan umum, pernyataan komitmen lintas departemen, dan penegasan timeline untuk evaluasi selanjutnya.
+
+=== Output Forum Triwulan
+
+[cols="1,3", options="header"]
+|===
+| Output | Penjelasan
+
+| Laporan LPJ-T Terstruktur
+| Laporan setiap departemen yang terdokumentasi secara naratif dan visual, memuat progres dan hambatan yang dialami.
+
+| Notulen Evaluasi
+| Dokumen hasil diskusi yang memuat rekomendasi spesifik dan saran lintas departemen untuk triwulan berikutnya.
+
+| Repositori Dokumentasi
+| File kegiatan, foto, video, dan data pendukung lainnya yang dapat digunakan untuk laporan akhir, publikasi, atau pengarsipan.
+|===
+
+=== Indikator Keberhasilan Triwulan
+
+* Terlaksananya forum evaluasi tepat waktu sesuai kalender organisasi.
+* Setiap departemen aktif menyampaikan LPJ-T dengan format dan isi yang lengkap.
+* Terciptanya diskusi yang konstruktif dan menghasilkan solusi yang konkret.
+* Rekomendasi Triwulan diimplementasikan dalam aksi nyata sebelum evaluasi berikutnya.
+
+
 [NOTE]
 This section is under development. Information about Triwulan agendas, reviews, and participation will be added soon.
 
