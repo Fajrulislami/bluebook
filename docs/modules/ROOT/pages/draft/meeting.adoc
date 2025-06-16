@@ -3,8 +3,6 @@
 :description: Strategic meetings and planning sessions for COCONUT
 :keywords: COCONUT, meetings, Mubes, Raker, Triwulan
 
-= Meetings
-
 == Pengantar
 
 Dalam konteks organisasi COCONUT Computer Club, _meeting_ atau *rapat* adalah forum formal yang menjadi medium utama untuk perencanaan, pengambilan keputusan, evaluasi, serta refleksi organisasi. Istilah “meeting” dalam dokumen ini merujuk pada “rapat”, baik yang bersifat tahunan, triwulanan, maupun musyawarah besar.
