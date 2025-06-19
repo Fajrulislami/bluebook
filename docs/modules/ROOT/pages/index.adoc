@@ -5,7 +5,7 @@
 
 image::banner-blue-book-dark.png[Banner, width=100%, align=center]
 == Bluebook COCONUT
-Manifesto strategis yang dirancang oleh para anggota COCONUT untuk memandu setiap langkah dalam membangun perubahan. Di balik setiap inisiatif, ada visi kepemimpinan yang mengarahkan kami untuk memberdayakan masyarakat melalui teknologi, dengan hati dan pikiran tertuju pada transformasi inovasi.
+Manifesto strategis yang dirancang oleh para anggota COCONUT untuk memandu setiap langkah dalam membangun perubahan menuju yang seharusnya (+).
 
 [IMPORTANT]
 COCONUT menganut *Natural Selection* untuk mencapai efisiensi yang efektif; menjunjung ketegasan tanpa kekerasan, serta menegakkan aturan yang terukur dan rasional.
