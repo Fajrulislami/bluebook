@@ -10,7 +10,9 @@ Manifesto strategis yang dirancang oleh para anggota COCONUT untuk memandu setia
 [IMPORTANT]
 COCONUT menganut *Natural Selection* untuk mencapai efisiensi yang efektif; menjunjung ketegasan tanpa kekerasan, serta menegakkan aturan yang terukur dan rasional.
 
-Bluebook ini adalah panduan dan cerminan dari komitmen para penggerak untuk mewujudkan inklusi digital sebagai pilar pembangunan berkelanjutan. Berlandaskan pada prinsip kepemimpinan transformasional, kami merancang proses dan tujuan yang inovatif dan berakar pada kebutuhan masyarakat. Kita akan menyelami bagaimana teknologi dapat menjadi jembatan menuju pemberdayaan, menghubungkan potensi pedesaan dengan peluang global. Ikut serta dalam perjalanan panjang untuk menciptakan dampak nyata! Membantu berbagai pihak untuk memahami tiap makna kebajikan.
+Bluebook ini adalah panduan dan cerminan dari komitmen para penggerak untuk mewujudkan inklusi digital sebagai pilar pembangunan berkelanjutan. Berlandaskan pada tujuan dan visi misi COCONUT Computer Club, kami merancang proses dan tujuan yang inovatif dan berakar pada kebutuhan masyarakat dan perkembangan teknologi dalam 5 sektor. 
+
+Kita akan menyelami bagaimana teknologi dapat menjadi jembatan menuju pemberdayaan, menghubungkan potensi pedesaan dengan peluang global. Ikut serta dalam perjalanan panjang untuk menciptakan dampak nyata! Membantu berbagai pihak untuk memahami tiap makna kebajikan.
 
 [quote]
 ____
@@ -51,4 +53,4 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
 == Bluebook Version
 Bluebook - v25.0
 
-Telusuri bagian-bagian ini untuk memahami bagaimana COCONUT mengelola kegiatannya, mulai dari perekrutan, pembelajaran, hingga rapat strategis, semua demi menciptakan dampak yang berkelanjutan untuk masyarakat.
+Telusuri bagian-bagian ini untuk memahami bagaimana COCONUT mengelola kegiatan (program), mulai dari Now Open, ROOT, Learning, INESA, Onboarding hingga Meeting, semua demi menciptakan dampak bermanfaat yang berkelanjutan.
