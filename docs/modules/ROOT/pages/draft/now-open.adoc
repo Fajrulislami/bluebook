@@ -31,7 +31,6 @@ Tahap *Requirement* adalah langkah awal untuk memastikan pendaftar siap bergabun
   . Komitmen untuk mengikuti seluruh proses seleksi dan pembekalan awal.
 - **Keterampilan Awal**
   . Pemahaman dasar teknologi (misalnya, penggunaan komputer atau perangkat lunak dasar).
-    .. Tidak diperlukan pengalaman lanjutan; COCONUT menyediakan pembelajaran untuk calon anggota.
   . Kemampuan logika dan pemecahan masalah (akan diuji melalui tes tertulis).
 - **Sikap dan Komitmen**
   . Semangat belajar dan keterbukaan terhadap pengalaman baru.
