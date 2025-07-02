@@ -456,6 +456,49 @@ object[type="image/svg+xml"]:not([width]) {
     box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
 }
 
+/* Styling untuk edit-this-page link dan icon */
+.edit-this-page a {
+    display: inline-flex !important;
+    align-items: center;
+    gap: 0.4rem;
+    background-color: var(--color-primary);
+    color: white !important;
+    border-radius: .5rem;
+    padding: 0.5rem 0.75rem;
+    font-weight: 500;
+    text-decoration: none !important;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    transition: all 0.3s ease;
+    font-size: 0.875rem;
+}
+
+.edit-this-page a:hover {
+    transform: scale(1.04);
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.edit-this-page .edit-icon {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    margin: 0 !important;
+    vertical-align: middle !important;
+}
+
+.edit-this-page .edit-icon svg {
+    width: 16px !important;
+    height: 16px !important;
+    display: block !important;
+    vertical-align: middle !important;
+}
+
+/* Override toolbar edit-this-page color */
+.toolbar .edit-this-page a {
+    color: white !important;
+}
+
 /* URGENT-2 END */
 
 .nav-item-toggle {
