@@ -47,6 +47,7 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
 - Salsabila Putri
 - Galbi Nadifah
 - Muhammad Syarif
+- updated
 
 
 == Bluebook Version & Release Rate
