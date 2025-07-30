@@ -1,0 +1,50 @@
+= Constitution - AAPP (Asas-Asas Pokok Pengorganisasian)
+:navtitle: Bluebook - Constitution - Asas-Asas Pokok Pengorganisasian
+:description: Asas-Asas Pokok Pengorganisasian COCONUT Computer Club
+:keywords: COCONUT, Konstitusi, Asas-Asas Pokok Pengorganisasian
+
+== Pendahuluan
+
+Dokumen ini merupakan {Judul Dokumen} dari *Computer Club Oriented Network, Utility and Technology (COCONUT)* untuk periode 2024-2025. Dokumen ini berfungsi sebagai {tujuan dokumen, misalnya, kerangka konstitusi, pedoman operasional, atau prinsip pengorganisasian} yang mengatur kegiatan dan struktur organisasi COCONUT. Dokumen ini disusun untuk mendukung pencapaian visi dan misi organisasi, yang berlandaskan pada Pancasila, Undang-Undang Dasar 1945, Tri Dharma Perguruan Tinggi, dan Sumpah Mahasiswa.
+
+== Latar Belakang
+
+{Judul Dokumen} dirancang untuk memberikan panduan yang jelas bagi anggota COCONUT dalam {ruang lingkup dokumen, misalnya, menjalankan organisasi, mengembangkan program kerja, atau menetapkan aturan tambahan}. Dokumen ini disusun berdasarkan kebutuhan untuk menciptakan organisasi yang dinamis, terstruktur, dan berorientasi pada pengembangan teknologi informasi serta pengabdian masyarakat.
+
+== Isi Dokumen
+
+=== Bab {Nomor}: {Judul Bab}
+
+==== Pasal {Nomor}
+
+{Isi pasal, merangkum poin utama seperti definisi, tugas, wewenang, atau prosedur yang relevan dengan dokumen.}
+
+- {Item daftar, jika ada, misalnya, aturan spesifik, persyaratan, atau langkah-langkah}
+- {Item daftar, jika ada}
+
+==== Pasal {Nomor}
+
+{Isi pasal berikutnya, merinci ketentuan atau regulasi tambahan.}
+
+=== Bab {Nomor}: {Judul Bab}
+
+{Deskripsi tujuan atau cakupan bab.}
+
+==== Pasal {Nomor}
+
+{Isi spesifik pasal, seperti struktur organisasi, mekanisme rapat, atau ketentuan sanksi.}
+
+- {Item daftar, jika ada}
+- {Item daftar, jika ada}
+
+== Penetapan dan Pengesahan
+
+{Judul Dokumen} ditetapkan dan disahkan melalui Musyawarah Besar (Mubes) COCONUT pada tanggal {tanggal} di {lokasi}, dipimpin oleh {nama presidium, jika ada}. Amandemen dilakukan pada {daftar tanggal dan lokasi amandemen, jika ada}, untuk memastikan dokumen tetap relevan dengan kebutuhan organisasi.
+
+== Ketentuan Tambahan
+
+Hal-hal yang belum diatur dalam dokumen ini akan diatur melalui peraturan organisasi tambahan atau keputusan yang diambil dalam Musyawarah Besar atau Musyawarah Besar Luar Biasa.
+
+== Aturan Peralihan
+
+Setelah berlakunya {Judul Dokumen} ini, semua peraturan sebelumnya yang berkaitan dengan {ruang lingkup dokumen} dinyatakan tidak berlaku lagi.

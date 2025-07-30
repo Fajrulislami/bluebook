@@ -1,0 +1,42 @@
+= Konstitusi
+:navtitle: Bluebook - Konstitusi
+:description: COCONUT Constitution
+:keywords: COCONUT, Konstitusi, Aturan, Landasan
+
+== Pendahuluan
+Konstitusi *Computer Club Oriented Network, Utility and Technology (COCONUT)* periode 2024-2025 merupakan landasan utama yang mengatur struktur, operasional, dan visi organisasi mahasiswa ini. Berbasis di Makassar, COCONUT didirikan pada 1 April 2008 dengan tujuan memupuk kreativitas, penalaran ilmiah, dan pengembangan teknologi informasi di kalangan mahasiswa. Konstitusi ini mencakup enam dokumen utama: Anggaran Dasar (AD), Anggaran Rumah Tangga (ART), Garis-Garis Besar Haluan Organisasi (GBHO), Pedoman Kerja Organisasi (PKO), Asas-Asas Pokok Pengorganisasian (AAPP), dan Aturan-Aturan Tambahan Organisasi (AATO). Dokumen-dokumen ini disusun untuk memastikan organisasi berjalan secara dinamis, terarah, dan selaras dengan nilai-nilai Pancasila, Undang-Undang Dasar 1945, Tri Dharma Perguruan Tinggi, dan Sumpah Mahasiswa.
+
+== Latar Belakang
+COCONUT lahir dari kesadaran akan pentingnya teknologi informasi dalam kehidupan modern. Sebagai wadah bagi mahasiswa, organisasi ini bertujuan untuk mengembangkan potensi anggota melalui kegiatan yang mendukung pengembangan ilmu pengetahuan, teknologi, dan pengabdian masyarakat. Konstitusi ini dirancang untuk memberikan kerangka kerja yang jelas, mulai dari struktur organisasi, mekanisme keanggotaan, hingga pedoman strategis untuk mencapai tujuan organisasi. Dokumen ini disahkan melalui Musyawarah Besar (Mubes) dan diperbarui secara berkala untuk menyesuaikan dengan kebutuhan organisasi.
+
+== Ikhtisar Konstitusi
+
+=== Anggaran Dasar (AD)
+xref:draft/anggarandasar.adoc[Anggaran Dasar (AD)] menetapkan identitas, asas, dan tujuan utama COCONUT. AD menguraikan nama organisasi, waktu pendirian, kedudukan, serta landasan seperti Pancasila dan Tri Dharma Perguruan Tinggi. AD juga mengatur struktur organisasi, sidang-sidang, dan mekanisme pengambilan keputusan, termasuk quorum dan perubahan organisasi.
+
+=== Anggaran Rumah Tangga (ART)
+xref:draft/anggaranrumahtangga.adoc[Anggaran Rumah Tangga (ART)] mengatur aspek operasional, termasuk syarat keanggotaan, hak dan kewajiban anggota, serta struktur organisasi secara rinci. ART juga mencakup mekanisme rapat, seperti Musyawarah Besar, Rapat Kerja, dan Rapat Badan Pengurus Harian, serta prosedur sanksi dan pembelaan.
+
+=== Garis-Garis Besar Haluan Organisasi (GBHO)
+xref:draft/garisbesarhaluanorganisasi.adoc[Garis-Garis Besar Haluan Organisasi (GBHO)] memberikan arah strategis jangka panjang dan pendek untuk program kerja COCONUT. GBHO menekankan pengembangan sumber daya manusia yang bertakwa, kreatif, dan kompeten dalam teknologi informasi, dengan fokus pada pembelajaran, penelitian, dan kerja sama internal maupun eksternal.
+
+=== Pedoman Kerja Organisasi (PKO)
+xref:draft/pedomankerjaorganisasi.adoc[Pedoman Kerja Organisasi (PKO)] menguraikan prinsip-prinsip operasional untuk mencapai tujuan COCONUT. PKO menekankan tanggung jawab anggota, pengabdian kepada masyarakat, dan pentingnya menjalankan Anggaran Dasar dan Rumah Tangga secara konsisten.
+
+=== Asas-Asas Pokok Pengorganisasian (AAPP)
+xref:draft/asaspokokpengorganisasian.adoc[Asas-Asas Pokok Pengorganisasian (AAPP)] menetapkan prinsip-prinsip pengelolaan organisasi, seperti pembagian tugas, fungsionalitas, kesinambungan, dan fleksibilitas. AAPP memastikan tugas dan wewenang terdistribusi dengan jelas untuk menghindari tumpang tindih dan mendukung efisiensi organisasi.
+
+=== Aturan-Aturan Tambahan Organisasi (AATO)
+xref:draft/aturantambahanorganisasi.adoc[Aturan-Aturan Tambahan Organisasi (AATO)] mengatur sanksi dan mekanisme pembelaan bagi anggota atau pengurus yang melanggar aturan. AATO memberikan panduan tentang jenis sanksi, alasan pemberian, dan prosedur untuk memastikan keadilan dalam organisasi.
+
+== Penetapan dan Pengesahan
+
+Konstitusi COCONUT, termasuk AD, ART, GBHO, PKO, AAPP, dan AATO, ditetapkan dan disahkan melalui Musyawarah Besar (Mubes) sejak pendirian organisasi pada 2 April 2008 di BTN Tabania, Makassar. Amandemen terbaru dilakukan pada 7 September 2024 di Sekretariat COCONUT, J. Mom. Emmy Sesalan III No. 70, Makassar, dipimpin oleh Presidium I: Syarful Mujaddi, Presidium II: Nurmisba, dan Presidium III: Nur Hidayati.
+
+== Ketentuan Tambahan
+
+Hal-hal yang belum diatur dalam konstitusi ini akan diatur melalui peraturan organisasi tambahan atau keputusan dalam Musyawarah Besar atau Musyawarah Besar Luar Biasa.
+
+== Aturan Peralihan
+
+Setelah berlakunya konstitusi ini, semua peraturan sebelumnya yang bertentangan dengan dokumen ini dinyatakan tidak berlaku lagi.
