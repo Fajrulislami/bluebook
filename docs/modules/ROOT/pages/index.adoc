@@ -20,7 +20,7 @@ Terhadap banyak tragedi, barang siapa yang belajar banyak akan menyelami semua k
 ____
 
 == Jelajahi Bluebook
-Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
+Berikut adalah panduan untuk menyelami berbagai inisiatif dan landasan-landasan COCONUT Computer Club:
 
 - xref:draft/now-open.adoc[Now Open]
   ** xref:draft/requirement.adoc[Requirement]
@@ -36,6 +36,13 @@ Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
   ** xref:draft/mubes.adoc[Mubes]
   ** xref:draft/raker.adoc[Raker]
   ** xref:draft/triwulan.adoc[Triwulan]
+- xref:draft/konstitusi.adoc[Constitution]
+  ** xref:draft/anggarandasar.adoc[AD]
+  ** xref:draft/anggaranrumahtangga.adoc[ART]
+  ** xref:draft/garisbesarhaluanorganisasi.adoc[GBHO]
+  ** xref:draft/pedomankerjaorganisasi.adoc[PKO]
+  ** xref:draft/asaspokokpengorganisasian.adoc[AAPP]
+  ** xref:draft/aturantambahanorganisasi.adoc[AATO]
 
 == Author
 - Abd Rahman
