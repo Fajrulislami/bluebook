@@ -19,45 +19,40 @@ Anggota COCONUT adalah mahasiswa yang telah memenuhi syarat-syarat keanggotaan.
 
 Syarat-syarat Anggota :
 
-[loweralpha]
-. Bertaqwa kepada Tuhan Yang Maha Esa.
-. Mengikuti seluruh prosesi penerimaan calon anggota.
-. Telah dikukuhkan sebagai anggota.
+.. Bertaqwa kepada Tuhan Yang Maha Esa.
+.. Mengikuti seluruh prosesi penerimaan calon anggota.
+.. Telah dikukuhkan sebagai anggota.
 
 ==== Pasal 4 Hak dan Kewajiban Anggota
 
 Anggota COCONUT berhak :
 
-[loweralpha]
-. Memilih dan dipilih.
-. Mendapat perlakuan dan pelayanan yang sama.
-. Mengeluarkan pendapat secara lisan dan atau tulisan.
+.. Memilih dan dipilih.
+.. Mendapat perlakuan dan pelayanan yang sama.
+.. Mengeluarkan pendapat secara lisan dan atau tulisan.
 
 Anggota COCONUT berkewajiban :
 
-[loweralpha]
-. MematuhiAnggaran Dasardan Anggaran RumahTangga serta peraturan organisasi lainnya yang berlaku di lingkungan COCONUT
-. Menjunjung tinggi, Menjaga dan memelihara nama baik COCONUT .
-. Saling Menghargai dan saling menjaga sesama anggota COCONUT.
-. Membayar Iuran Bph dan Anggota aktif dengan jumlah yang ditetapkan oleh BPH.
+.. MematuhiAnggaran Dasardan Anggaran RumahTangga serta peraturan organisasi lainnya yang berlaku di lingkungan COCONUT
+.. Menjunjung tinggi, Menjaga dan memelihara nama baik COCONUT .
+.. Saling Menghargai dan saling menjaga sesama anggota COCONUT.
+.. Membayar Iuran Bph dan Anggota aktif dengan jumlah yang ditetapkan oleh BPH.
 
 ==== Pasal 5 Berakhirnya Keanggotaan
 
 [loweralpha]
-. Meninggal Dunia.
-. Atas permintaan sendiri secara lisan atau tulisan yang disampaikan dalam forum yang dibuat khusus untuk itu.
-. Diberhentikan keanggotaannya oleh COCONUT dengan alasan yang dapat dipertanggung jawabkan.
+.. Meninggal Dunia.
+.. Atas permintaan sendiri secara lisan atau tulisan yang disampaikan dalam forum yang dibuat khusus untuk itu.
+.. Diberhentikan keanggotaannya oleh COCONUT dengan alasan yang dapat dipertanggung jawabkan.
 
 ==== Pasal 6 Sanksi - Sanksi
 
 . Pengurus dan atau Anggota COCONUT dikenakan sanksi apabila tidak mematuhi Anggaran Dasar dan Anggaran Rumah Tangga serta peraturan organisasi lainnya yang berlaku dilingkungan COCONUT.
 . Sanksi-sanksi dapat berupa :
-
-[loweralpha]
-. Peringatan dan atau teguran
-. Karantina di Sekret
-. Ressufle
-. Pemecatan.
+.. Peringatan dan atau teguran
+.. Karantina di Sekret
+.. Ressufle
+.. Pemecatan.
 
 . Sanksi berupa peringatan dan atau teguran terhadap anggota dilakukan oleh Badan Pengurus Harian jika dianggap perlu.
 . Sanksi yang berupa karantina di Sekret terhadap anggota dilakukan pada rapat anggota yang diadakan khusus untuk itu, atas pertimbangan Dewan Pertimbangan Organisasi (DPO),Badan Pendiri,Anggota Luar Biasa.
@@ -128,10 +123,9 @@ Peserta Musyawarah Besar dihadiri oleh BPH, DPO, Anggota luar biasa, Anggota, da
 . Membahas serta menetapkan Agenda Acara, Tata tertib, Anggaran Dasar, Anggaran Rumah Tangga serta peraturan organisasi lainnya
 . Merumuskan kebijakan dalam bidang :
 
-[loweralpha]
-. Keorganisasian.
-. Program Kerja.
-. Rekomendasi.
+.. Keorganisasian.
+.. Program Kerja.
+.. Rekomendasi.
 
 . Memilih serta menetapkan Formatur & Mide Formatur COCONUT
 . Menyerahkan, Penerimaan atau Penolakan Laporan Pertanggung jawaban Badan Pengurus Harian COCONUT .
@@ -158,10 +152,10 @@ Peserta Musyawarah Besar Luar Biasa dihadiri oleh BPH, DPO, Anggota luar biasa, 
 . Mendengarkan dan menerima atau menolak pembelaan pengurus yang dikenakan sanksi.
 . Meninjau kembali kebijakan dalam bidang :
 
-[loweralpha]
-. Keorganisasian.
-. Program Kerja.
-. Rekomendasi.
+
+.. Keorganisasian.
+.. Program Kerja.
+.. Rekomendasi.
 
 === Bab 7 : Rapat Kerja
 
@@ -270,9 +264,9 @@ Peserta Rapat Anggota dihadiri oleh BPH, Anggota, dan dapat dihadiri oleh DPO.
 . Dewan pengawas adalah badan pembimbing dan pengarah organisasi.
 . Kekuasaan dan Wewenang :
 
-[loweralpha]
-. Memberikan bimbingan arahan dan pengawasan kepada Pengurus Harian.
-. Memberikan saran, nasehat atau petunjuk Organisasi kepada Dewan Pertimbangan Organisasi dan atau Pengurus Harian terhadap pelaksanaan
+
+.. Memberikan bimbingan arahan dan pengawasan kepada Pengurus Harian.
+.. Memberikan saran, nasehat atau petunjuk Organisasi kepada Dewan Pertimbangan Organisasi dan atau Pengurus Harian terhadap pelaksanaan
 Kegiatan atau bila dianggap perlu.
 
 === Bab 13 : Badan Pendiri
@@ -328,30 +322,29 @@ melalui Dewan Pertimbangan Organisasi (DPO).
 
 . Badan Pengurus Harian COCONUT berhak :
 
-[loweralpha]
-. Memilih dan dipilih.
-. Mendapat perlakuan dan pelayanan yang sama.
-. Mengeluarkan pendapat secara lisan dan atau tulisan.
+
+.. Memilih dan dipilih.
+.. Mendapat perlakuan dan pelayanan yang sama.
+.. Mengeluarkan pendapat secara lisan dan atau tulisan.
 
 . Badan Pengurus Harian COCONUT berkewajiban :
 
-[loweralpha]
-. Mematuhi Anggaran Dasar dan Anggaran Rumah Tangga serta peraturan organisasi lainnya yang berlaku di lingkungan COCONUT.
-. Menjunjung tinggi, menjaga dan atau memelihara nama baik COCONUT.
-. Saling Menghargai dan saling menjaga sesama anggota COCONUT.
-. Membayar Iuran Anggota dengan jumlah yang ditetapkan oleh BPH.
+
+.. Mematuhi Anggaran Dasar dan Anggaran Rumah Tangga serta peraturan organisasi lainnya yang berlaku di lingkungan COCONUT.
+.. Menjunjung tinggi, menjaga dan atau memelihara nama baik COCONUT.
+.. Saling Menghargai dan saling menjaga sesama anggota COCONUT.
+.. Membayar Iuran Anggota dengan jumlah yang ditetapkan oleh BPH.
 
 ==== Pasal 49 Sanksi - Sanksi
 
 . BPH COCONUT dikenakan sanksi apabila tidak mematuhi Anggaran Dasar dan Anggaran Rumah Tangga serta peraturan organisasi lainnya yang berlaku di lingkungan COCONUT.
 . Sanksi-sanksi dapat berupa :
 
-[loweralpha]
-. Peringatan dan atau teguran,
-. Skorsing,
-. Karantina Di Sekret,
-. Ressufle,
-. Pemecatan.
+.. Peringatan dan atau teguran,
+.. Skorsing,
+.. Karantina Di Sekret,
+.. Ressufle,
+.. Pemecatan.
 
 . Sanksi berupa peringatan dan atau teguran terhadap pengurus dilakukan oleh Badan Pengurus Harian jika dianggap perlu.
 . Sanksi yang berupa karantina disekret terhadap pengurus dilakukan pada rapat MUBESLUB yang dilakukan khusus untuk itu.
@@ -375,11 +368,10 @@ melalui Dewan Pertimbangan Organisasi (DPO).
 
 ==== Pasal 51 Atribut Organisasi terdiri dari :
 
-[loweralpha]
-. Logo COCONUT merupakan logo yang dipakai pada periode XII dan akan dipakai sampai batas waktu yang tidak ditentukan ,
-. Pakaian Dinas Harian (PDH) hanya digunakan pada aktivitas harian keorganisasian,
-. Pakaian Dinas Lapangan (PDL) hanya digunakan pada aktivitas lapangan Keorganisasian,
-. Bendera hanya di gunakan pada aktivitas simbolis keorganisasian.
+.. Logo COCONUT merupakan logo yang dipakai pada periode XII dan akan dipakai sampai batas waktu yang tidak ditentukan ,
+.. Pakaian Dinas Harian (PDH) hanya digunakan pada aktivitas harian keorganisasian,
+.. Pakaian Dinas Lapangan (PDL) hanya digunakan pada aktivitas lapangan Keorganisasian,
+.. Bendera hanya di gunakan pada aktivitas simbolis keorganisasian.
 
 === Bab 18 : Perubahan Anggaran Rumah Tangga COCONUT
 
