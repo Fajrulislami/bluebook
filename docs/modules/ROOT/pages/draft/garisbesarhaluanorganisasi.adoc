@@ -43,6 +43,7 @@ Menghimpun mahasiswa yang tergabung dalam Computer Club Oriented Network, Utilit
 ==== Potensi Dasar
 
 Potensi dasar pengembangan Computer Club Oriented Network, Utility and Technology (COCONUT) merupakan modal dasar yang dimiliki mahasiswa baik secara langsung maupun secara tidak langsung, yaitu :
+
 . Mempunyai kuantitas anggota yang memadai untuk mengembangkan organisasi.
 . Kualitas anggota dalam meningkatkan daya nalar / pikir analisis riset untuk menghadapi masalah-masalah internal dan eksternal yang sedang berkembang.
 . Sekretariat yang dapat difungsikan sebagai pusat kegiatan organisasi
@@ -57,6 +58,7 @@ Sebagai organisasi kemahasiswaan yang bersifat otonom yang mengacuh pada media p
 === Bab 3 : Pola Umum Jangka Panjang
 
 Untuk memberikan arah program yang berkesinambungan maka perlu ditetapkan suatu pola umum yang bertolak dari orientasi pengembangan Computer Club Oriented Network, Utility and Technology (COCONUT) yang secara bertahap dilaksanakan dari periode ke periode secara terencana dan terpadu. Berdasarkan pola dasar program Computer Club Oriented Network, Utility and Technology (COCONUT), maka disusunlah pola umum jangka panjang, yang merupakan acuan yang bersifat umum dan mendasar bagi penataan Computer Club Oriented Network, Utility and Technology (COCONUT) sebagai berikut :
+
 . Penyusunan rencana kerja guna pencapaian tujuan organisasi dengan perencanaan tahunan, semester, Tri Wulan, agar program kerja dapat dilaksanakan secara efektif dan efisien berdasarkan Anggaran Dasar dan Anggaran Rumah Tangga.
 . Melakukan Rapat evaluasi kegiatan minimum 1 (satu) bulan sekali.
 . Melaksanakan ketetapan-ketetapan musyawarah anggota serta keputusankeputusan yang ada setelah Musyawarah Besar.
@@ -72,10 +74,11 @@ Departemen Pembelajaran berperan aktif dalam peningkatan dan pengembangan sumber
 Sasaran : Peningkatan dan pengembangan informasi dan teknologi yang merata terhadap anggota.
 
 Kegiatan Departemen :
+
 . Melaksanakan pengembangan tentang ilmu yang didapatkan dikampus dan diluar kampus berupa :
 
-... Mengadakan pembelajaran dalam bidang komputer secara umum seperti hardware , software dan jaringan.
-... Memberikan penghargaan kepada anggota yang dianggap cakap didalam disiplin keilmuan.
+.. Mengadakan pembelajaran dalam bidang komputer secara umum seperti hardware , software dan jaringan.
+.. Memberikan penghargaan kepada anggota yang dianggap cakap didalam disiplin keilmuan.
 
 . Menunjang terlaksananya riset dan penelitian.
 . Melaksanakan rapat departemen.
@@ -87,6 +90,7 @@ Berperan aktif dan bertugas sebagai penanggung jawab yang berhubungan dengan keg
 Sasaran : Pembentukan Anggota baru serta menjadi pusat keorganisasian dalam kelancaran organisasi.
 
 Kegiatan Departemen :
+
 . Penerimaan anggota & upgrading.
 . Meningkatkan kedisiplinan dan tata krama antar sesama anggota COCONUT.
 . Pengawasan dan pengontrolan.
@@ -101,6 +105,7 @@ Berperan aktif dalam menjalankan kerja sama baik intern maupun ekstern organisas
 Sasaran : Menjalin kerja sama secara intern maupun ekstern organisasi serta menjadi pusat informasi dan pengembangan anggota.
 
 Kegiatan Departemen :
+
 . Menjalin kerjasama intern dan ekstern organisasi.
 . Mempublikasikan informasi intern dan ekstern organisasi.
 . Melaksanakan rapat departemen.
