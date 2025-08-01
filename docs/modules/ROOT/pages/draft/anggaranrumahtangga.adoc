@@ -3,48 +3,427 @@
 :description: Anggaran Rumah Tangga COCONUT Computer Club
 :keywords: COCONUT, Konstitusi, Anggaran Rumah Tangga
 
-== Pendahuluan
+=== Bab 1 : Status
 
-Dokumen ini merupakan {Judul Dokumen} dari *Computer Club Oriented Network, Utility and Technology (COCONUT)* untuk periode 2024-2025. Dokumen ini berfungsi sebagai {tujuan dokumen, misalnya, kerangka konstitusi, pedoman operasional, atau prinsip pengorganisasian} yang mengatur kegiatan dan struktur organisasi COCONUT. Dokumen ini disusun untuk mendukung pencapaian visi dan misi organisasi, yang berlandaskan pada Pancasila, Undang-Undang Dasar 1945, Tri Dharma Perguruan Tinggi, dan Sumpah Mahasiswa.
+==== Pasal 1 Berstatus
 
-== Latar Belakang
+Otonom dan terdaftar di Kementrian Hukum dan Hak Asasi Manusia
 
-{Judul Dokumen} dirancang untuk memberikan panduan yang jelas bagi anggota COCONUT dalam {ruang lingkup dokumen, misalnya, menjalankan organisasi, mengembangkan program kerja, atau menetapkan aturan tambahan}. Dokumen ini disusun berdasarkan kebutuhan untuk menciptakan organisasi yang dinamis, terstruktur, dan berorientasi pada pengembangan teknologi informasi serta pengabdian masyarakat.
+=== Bab 2 : Keanggotaan
 
-== Isi Dokumen
+==== Pasal 2
 
-=== Bab {Nomor}: {Judul Bab}
+Anggota COCONUT adalah mahasiswa yang telah memenuhi syarat-syarat keanggotaan.
 
-==== Pasal {Nomor}
+==== Pasal 3 Syarat-Syarat Anggota
 
-{Isi pasal, merangkum poin utama seperti definisi, tugas, wewenang, atau prosedur yang relevan dengan dokumen.}
+Syarat-syarat Anggota :
 
-- {Item daftar, jika ada, misalnya, aturan spesifik, persyaratan, atau langkah-langkah}
-- {Item daftar, jika ada}
+[loweralpha]
+. Bertaqwa kepada Tuhan Yang Maha Esa.
+. Mengikuti seluruh prosesi penerimaan calon anggota.
+. Telah dikukuhkan sebagai anggota.
 
-==== Pasal {Nomor}
+==== Pasal 4 Hak dan Kewajiban Anggota
 
-{Isi pasal berikutnya, merinci ketentuan atau regulasi tambahan.}
+Anggota COCONUT berhak :
 
-=== Bab {Nomor}: {Judul Bab}
+[loweralpha]
+. Memilih dan dipilih.
+. Mendapat perlakuan dan pelayanan yang sama.
+. Mengeluarkan pendapat secara lisan dan atau tulisan.
 
-{Deskripsi tujuan atau cakupan bab.}
+Anggota COCONUT berkewajiban :
 
-==== Pasal {Nomor}
+[loweralpha]
+. MematuhiAnggaran Dasardan Anggaran RumahTangga serta peraturan organisasi lainnya yang berlaku di lingkungan COCONUT
+. Menjunjung tinggi, Menjaga dan memelihara nama baik COCONUT .
+. Saling Menghargai dan saling menjaga sesama anggota COCONUT.
+. Membayar Iuran Bph dan Anggota aktif dengan jumlah yang ditetapkan oleh BPH.
 
-{Isi spesifik pasal, seperti struktur organisasi, mekanisme rapat, atau ketentuan sanksi.}
+==== Pasal 5 Berakhirnya Keanggotaan
 
-- {Item daftar, jika ada}
-- {Item daftar, jika ada}
+[loweralpha]
+. Meninggal Dunia.
+. Atas permintaan sendiri secara lisan atau tulisan yang disampaikan dalam forum yang dibuat khusus untuk itu.
+. Diberhentikan keanggotaannya oleh COCONUT dengan alasan yang dapat dipertanggung jawabkan.
 
-== Penetapan dan Pengesahan
+==== Pasal 6 Sanksi - Sanksi
 
-{Judul Dokumen} ditetapkan dan disahkan melalui Musyawarah Besar (Mubes) COCONUT pada tanggal {tanggal} di {lokasi}, dipimpin oleh {nama presidium, jika ada}. Amandemen dilakukan pada {daftar tanggal dan lokasi amandemen, jika ada}, untuk memastikan dokumen tetap relevan dengan kebutuhan organisasi.
+. Pengurus dan atau Anggota COCONUT dikenakan sanksi apabila tidak mematuhi Anggaran Dasar dan Anggaran Rumah Tangga serta peraturan organisasi lainnya yang berlaku dilingkungan COCONUT.
+. Sanksi-sanksi dapat berupa :
 
-== Ketentuan Tambahan
+[loweralpha]
+. Peringatan dan atau teguran
+. Karantina di Sekret
+. Ressufle
+. Pemecatan.
 
-Hal-hal yang belum diatur dalam dokumen ini akan diatur melalui peraturan organisasi tambahan atau keputusan yang diambil dalam Musyawarah Besar atau Musyawarah Besar Luar Biasa.
+. Sanksi berupa peringatan dan atau teguran terhadap anggota dilakukan oleh Badan Pengurus Harian jika dianggap perlu.
+. Sanksi yang berupa karantina di Sekret terhadap anggota dilakukan pada rapat anggota yang diadakan khusus untuk itu, atas pertimbangan Dewan Pertimbangan Organisasi (DPO),Badan Pendiri,Anggota Luar Biasa.
+. Sanksi berupa Resuffle untuk Badan Pengurus Harian dilakukan pada MUSLUB yang dilakukan khusus untuk itu.
+. Sanksi berupa Resuffle untuk Departemen dan Divisi dilakukan pada Rapat anggota yang dilakukan khusus untuk itu.
+. Sanksi berupa pemecatan untuk anggota dilakukan pada rapat anggota yang dilakukan khusus untuk itu.
+. Kriteria dan mekanisme pemberian sanksi diatur dalam peraturan organisasi tersendiri.
 
-== Aturan Peralihan
+==== Pasal 7 Pembelaan
 
-Setelah berlakunya {Judul Dokumen} ini, semua peraturan sebelumnya yang berkaitan dengan {ruang lingkup dokumen} dinyatakan tidak berlaku lagi.
+Pengurus dan atau Anggota yang akan dikenakan sanksi dapat mengadakan pembelaan diri dalam suatu forum khusus untuk itu. Kriteria dan mekanisme pembelaan akan diatur dalam peraturan organisasi tersendiri.
+
+=== Struktur Organisasi
+
+==== Pasal 8
+
+. Dewan pengawas adalah badan pembimbing dan pengarah Organisasi.
+. Badan Pendiri COCONUT adalah orang yang ikut serta aktif dalam mendirikan dan membentuk COCONUT.
+. Anggota Luar Biasa adalah orang yang pernah menjabat sebagai badan pengurus harian (BPH) dan atau sudah tidak berstatus sebagai mahasiswa .
+. Dewan Pertimbangan Organisasi adalah badan konsultatif yang terdiri dari perwakilan tiap angkatan yang dianggap cakap, memiliki loyalitas, kapabilitas serta pemahaman organisasi dan telah menjadi pengurus demisioner.
+. Badan Pengurus Harian merupakan badan tertinggi organisasi yang terdiri dari Ketua, Sekretaris, dan Bendahara, Koordinator Departemen menjadi pelaksana organisasi.
+. Departemen merupakan perpanjangan tangan dari BPH dengan pekerjaan khusus.
+. Anggota adalah mahasiswa yang telah memenuhi syarat keanggotaan.
+
+==== Pasal 9 Hubungan
+
+. Hubungan antara Badan Pengurus Harian dengan Dewan Pengawas bersifat konsultatif.
+. Hubungan antara Badan Pengurus Harian dengan Badan Pendiri. COCONUT bersifat koordinatif dan konsultatif.
+. Hubungan antara Anggota Luar Biasa dengan Dewan Pertimbangan Organisasi Bersifat Konsultatif.
+. Hubungan antara Badan Pengurus Harian dengan Dewan Pertimbangan Organisasi bersifat koordinatif dan konsultatif
+. Hubungan antara Ketua Badan Pengurus Harian dengan Staf Departemen bersifat koordinatif dan kooperatif.
+. Hubungan antara Koordinator Departemen dengan Anggota Departemen bersifat koordinatif dan kooperatif
+. Hubungan antara Badan Pengurus Harian dengan Anggota bersifat kooperatif dan konsultatif.
+
+=== Bab 4 : Badan Pekerja Musyawarah Besar
+
+==== Pasal 10 Status dan Sifat
+
+. Badan Pekerja dimandat oleh Badan Pengurus Harian COCONUT.
+. Badan pekerja bersifat independen.
+
+==== Pasal 11 Waktu
+
+Badan pekerja Musyawarah Besar dibentuk minimal satu bulan sebelum Musyawarah Besar dilaksanakan.
+
+==== Pasal 12 Tugas dan Fungsi
+
+Menyusun draft agenda acara MUBES, Tata tertib, Anggaran Dasar, Anggaran Rumah tangga, dan Peraturan Organisasi lainnya.
+
+=== Bab 5 : Musyawarah Besar Anggota
+
+==== Pasal 13 Status dan Sifat
+
+. Musyawarah Besar memegang kekuasaan tertinggi.
+. Musyawarah Besar bersifat mengikat.
+
+==== Pasal 14 Waktu
+
+. Musyawarah Besar dilakukan 1 (satu) kali Periode Kepengurusan.
+. Dalam keadaan tertentu, Musyawarah Besar dapat dilakukan lebih dari 1(satu) kali periode kepengurusan.
+
+==== Pasal 15 Peserta
+
+Peserta Musyawarah Besar dihadiri oleh BPH, DPO, Anggota luar biasa, Anggota, dan dapat dihadiri oleh Dewan Pengawas dan BADAN PENDIRI.
+
+==== Pasal 16 Kekuasaan dan Wewenang
+
+. Membahas serta menetapkan Agenda Acara, Tata tertib, Anggaran Dasar, Anggaran Rumah Tangga serta peraturan organisasi lainnya
+. Merumuskan kebijakan dalam bidang :
+
+[loweralpha]
+. Keorganisasian.
+. Program Kerja.
+. Rekomendasi.
+
+. Memilih serta menetapkan Formatur & Mide Formatur COCONUT
+. Menyerahkan, Penerimaan atau Penolakan Laporan Pertanggung jawaban Badan Pengurus Harian COCONUT .
+. Mengevaluasi aktivitas anggota COCONUT.
+. Penjatuhan sanksi terhadap seluruh komponen yang berada dalam lingkup struktur organisasi.
+
+=== Bab 6 : Musyawarah Besar Luar Biasa
+
+=== Pasal 17 Status dan Sifat
+
+. Musyawarah Besar Luar Biasa merupakan kekuasaan tertinggi setelah Musyawarah Besar.
+. Musyawarah Besar Luar Biasa bersifat mengikat.
+
+Musyawarah Besar Luar Biasa dilaksanakan apabila terjadi kondisi yang luar biasa.
+
+==== Pasal 19 Peserta
+
+Peserta Musyawarah Besar Luar Biasa dihadiri oleh BPH, DPO, Anggota luar biasa, Anggota, dan dapat dihadiri oleh Dewan Pengawas dan BADAN PENDIRI.
+
+==== Pasal 20 Kekuasaan dan Wewenang
+
+. Membahas serta menetapkan Agenda Acara, Tata tertib, Anggaran Dasar, Anggaran Rumah Tangga serta peraturan organisasi lainnya.
+. Memberikan sanksi kepada pengurus.
+. Mendengarkan dan menerima atau menolak pembelaan pengurus yang dikenakan sanksi.
+. Meninjau kembali kebijakan dalam bidang :
+
+[loweralpha]
+. Keorganisasian.
+. Program Kerja.
+. Rekomendasi.
+
+=== Bab 7 : Rapat Kerja
+
+==== Pasal 21 Status dan Sifat
+
+. Rapat Kerja merupakan pengambilan keputusan tertinggi dalam hal penyusunan program kerja.
+. Rapat Kerja bersifat mengikat.
+
+==== Pasal 22 Waktu
+
+. Rapat Kerja dilaksanakan maksimal 1 (satu) Bulan setelah Musyawarah Besar.
+. Rapat Kerja dilaksanakan 1 (satu) kali dalam 1 (satu) periode kepengurusan.
+
+==== Pasal 23 Peserta
+
+Peserta Rapat Kerja dihadiri oleh BPH, DPO dan dapat dihadiri oleh anggota luar biasa.
+
+==== Pasal 24 Kekuasaan dan Wewenang
+
+Merumuskan dan menetapkan Program kerja dalam 1 (satu) periode kepengurusan. 
+Menetapkan kebijakan-kebijakan yang berhubungan dengan Program Kerja.
+
+=== Bab 8 : Rapat Badan Pengurus Harian
+
+==== Pasal 25 Status dan Sifat
+
+. Rapat Badan Pengurus Harian merupakan rapat tertinggi pada tingkat pengurus.
+. Rapat Badan Pengurus Harian bersifat mengikat.
+
+==== Pasal 26 Waktu
+
+Rapat Badan Pengurus Harian dilaksanakan jika seperlunya dalam 1 periode.
+
+==== Pasal 27 Peserta
+
+Peserta Rapat Badan Pengurus Harian (BPH) dihadiri oleh seluruh pengurus dari BPH.
+
+==== Pasal 28 Kekuasaan dan Wewenang
+
+. Mengevaluasi kinerja Badan Pengurus Harian.
+. Mengevaluasi kinerja tiap Departemen.
+
+=== Bab 9 : Rapat Evaluasi Kepengurusan
+
+==== Pasal 29 Status dan Sifat
+
+. Rapat Evaluasi kepengurusan merupakan kekuasaan tertinggi setelah Musyawarah Besar Luar Biasa.
+. Rapat Evaluasi Kepengurusan bersifat mengikat.
+
+==== Pasal 30 Waktu
+
+Rapat Evaluasi kepengurusan dilaksanakan minimal 1 (satu) kali dalam 3 (tiga) bulan.
+
+==== Pasal 31 Peserta
+
+Peserta Rapat Evaluasi dihadiri oleh semua Pengurus dan dapat dihadiri oleh DPO.
+
+==== Pasal 32 Kekuasaan dan Wewenang
+
+Mengevaluasi kinerja kepengurusan.
+
+=== Bab 10 : Rapat Departemen
+
+==== Pasal 33 Status dan Sifat
+
+. Rapat Departemen merupakan rapat tertinggi pada tingkat departemen.
+. Rapat Departemen bersifat mengikat.
+
+==== Pasal 34 Waktu
+
+Rapat Departemen dilaksanakan seperlunya.
+
+==== Pasal 35 Peserta
+
+Peserta Rapat Departemen dihadiri oleh seluruh anggota departemen.
+
+==== Pasal 36 Kekuasaan dan Wewenang
+
+Membahas dan atau mengevaluasi program kerja departemen.
+
+=== Bab 11 : Rapat Anggota
+
+==== Pasal 37 Status dan Sifat
+
+. Rapat Anggota merupakan kekuasaan tertinggi setelah rapat evaluasi.
+. Rapat Anggota bersifat mengikat.
+
+==== Pasal 38 Waktu
+
+Rapat Anggota dilaksanakan seperlunya.
+
+==== Pasal 39 Peserta
+
+Peserta Rapat Anggota dihadiri oleh BPH, Anggota, dan dapat dihadiri oleh DPO.
+
+==== Pasal 40 Kekuasaan dan Wewenang
+
+. Memberikan sanksi kepada anggota.
+. Mendengarkan dan menerima atau menolak pembelaan anggota yang dikenakan sanksi.
+. Mengevaluasi aktivitas seluruh anggota.
+
+=== Bab 12 : Dewan Pengawas
+
+=== Pasal 41
+
+. Dewan pengawas adalah badan pembimbing dan pengarah organisasi.
+. Kekuasaan dan Wewenang :
+
+[loweralpha]
+. Memberikan bimbingan arahan dan pengawasan kepada Pengurus Harian.
+. Memberikan saran, nasehat atau petunjuk Organisasi kepada Dewan Pertimbangan Organisasi dan atau Pengurus Harian terhadap pelaksanaan
+Kegiatan atau bila dianggap perlu.
+
+=== Bab 13 : Badan Pendiri
+
+==== Pasal 42
+
+. Badan Pendiri COCONUT adalah Badan yang terdiri dari: Anggota COCONUT STMIK Profesional yang telah mendirikan COCONUT.
+. Badan Pendiri COCONUT bertugas memberikan saran, usul, dan pendapat serta pokok-pokok pikiran kepada BPH secara tertulis maupun tidak tertulis baik diminta maupun tidak diminta.
+
+=== Bab 14 : Anggota Luar Biasa
+
+==== Pasal 43
+
+. Anggota luar biasa adalah orang yang pernah menjabat sebagai BPH dan laporan BPH pertanggung jawaban diterima.
+. Kekuasaan dan wewenang : Memberikan saran, nasehat dan petunjuk organisasi kepada BPH dan anggota
+melalui Dewan Pertimbangan Organisasi (DPO).
+
+=== Bab 15 : Dewan Pertimbangan Organisasi
+
+==== Pasal 44
+
+. Dewan Pertimbangan Organisasi adalah badan yang terdiri dari anggota COCONUT yang telah menjadi pengurus demisioner.
+. Dewan Pertimbangan Organisasi bertugas memberikan saran, usul dan pendapat serta pokok-pokok pikiran kepada Badan Pengurus Harian secara tertulis maupun tidak tertulis baik diminta maupun tidak diminta
+. Dewan Pertimbangan Organisasi adalah perwakilan tiap angkatan yang memiliki loyalitas dan kapabilitas terhadap organisasi.
+
+=== Bab 16 : Badan Pengurus Harian
+
+==== Pasal 45
+
+. Badan Pengurus Harian COCONUT adalah Badan Tertinggi penyelenggara organisasi yang bertanggung jawab baik intern maupun extern.
+. Masa jabatan Fungsionaris Badan Pengurus Harian bisa lebih dari 1 (satu) kali periode kepengurusan.
+. Struktur Badan Pengurus Harian minimal terdiri dari Ketua, Sekretaris dan Bendahara.
+
+==== Pasal 46 Tugas dan Wewenang Badan Pengurus Harian :
+
+. Melaksanakan Anggaran Dasar dan Anggaran Rumah Tangga serta Aturan -aturan Tambahan Organisasi yang berlaku di COCONUT.
+. Menjalankan segala aktivitas organisasi yang telah dirumuskan dalam Garis-garis Besar Haluan Organisasi (GBHO) dan program kerja COCONUT.
+. Menentukan kebijaksanaan Internal dan eksternal COCONUT sesuai dengan konstitusi yang berlaku di lingkungan COCONUT.
+. Meminta pertanggung jawaban koordinator tiap Departemen atas program kerja yang telah dilaksanakan.
+. Membentuk Badan Pekerja Musyawarah Besar bila dipandang perlu .
+. Memberikan sanksi berupa teguran atau peringatan baik secara lisan maupun tertulis atau pencabutan hak sebagai anggota kepada anggota.
+
+==== Pasal 47 Syarat-Syarat menjadi Badan Pengurus Harian
+
+. Bertaqwa Kepada Tuhan Yang Maha Esa .
+. Telah memenuhi syarat-syarat keanggotaan.
+. Berkelakuan baik, memiliki integritas kepribadian, loyalitas dan kerja sama yang baik dan berwawasan luas.
+. Telah Mengikuti Latihan Kepemimpinan.
+. Tidak cacat organisasi.
+. Menyatakan kesediaan sebagai Badan Pengurus Harian COCONUT
+
+==== Pasal 48 Hak dan Kewajiban BPH
+
+. Badan Pengurus Harian COCONUT berhak :
+
+[loweralpha]
+. Memilih dan dipilih.
+. Mendapat perlakuan dan pelayanan yang sama.
+. Mengeluarkan pendapat secara lisan dan atau tulisan.
+
+. Badan Pengurus Harian COCONUT berkewajiban :
+
+[loweralpha]
+. Mematuhi Anggaran Dasar dan Anggaran Rumah Tangga serta peraturan organisasi lainnya yang berlaku di lingkungan COCONUT.
+. Menjunjung tinggi, menjaga dan atau memelihara nama baik COCONUT.
+. Saling Menghargai dan saling menjaga sesama anggota COCONUT.
+. Membayar Iuran Anggota dengan jumlah yang ditetapkan oleh BPH.
+
+==== Pasal 49 Sanksi - Sanksi
+
+. BPH COCONUT dikenakan sanksi apabila tidak mematuhi Anggaran Dasar dan Anggaran Rumah Tangga serta peraturan organisasi lainnya yang berlaku di lingkungan COCONUT.
+. Sanksi-sanksi dapat berupa :
+
+[loweralpha]
+. Peringatan dan atau teguran,
+. Skorsing,
+. Karantina Di Sekret,
+. Ressufle,
+. Pemecatan.
+
+. Sanksi berupa peringatan dan atau teguran terhadap pengurus dilakukan oleh Badan Pengurus Harian jika dianggap perlu.
+. Sanksi yang berupa karantina disekret terhadap pengurus dilakukan pada rapat MUBESLUB yang dilakukan khusus untuk itu.
+. Sanksi berupa ressufle untuk pengurus dilakukan pada rapat Badan Pengurus Harian (BPH) yang dilakukan khusus untuk itu, atas pertimbangan Dewan Pertimbangan Organisasi (DPO) dan Badan Pendiri.
+. Sanksi berupa pemecatan untuk pengurus dilakukan pada rapat Badan Pengurus Harian (BPH) yang dilakukan khusus untuk itu, atas pertimbangan Dewan Pertimbangan Organisasi (DPO) dan minimal 2 Badan Pendiri.
+. Kriteria dan mekanisme pemberian sanksi diatur dalam peraturan organisasi tersendiri.
+
+==== Pasal 50 Syarat-Syarat Menjadi Ketua Umum COCONUT
+
+. Bertaqwa Kepada Tuhan Yang Maha Esa.
+. Telah memenuhi syarat-syarat keanggotaan.
+. Berkelakuan baik, berjiwa kepemimpinan memiliki integritas kepribadian, loyalitas dan kerjasama yang baik serta berwawasan luas.
+. Pernah menduduki jabatan strategis dalam sebuah kepanitian minimal pada tingkat organisasi kemahasiswaan.
+. Tidak menduduki jabatan BPH strategis pada organisasi lain dalam periode yang sama.
+. Telah Mengikuti Latihan Kepemimpinan.
+. Telah atau akan mengikuti latihan kepemimpinan II atau sedarajat.
+. Memiliki sifat leadership dan manajerial.
+. Memiliki Minimal IPK 3,2.
+
+=== Bab 17 : Atribut Organisasi
+
+==== Pasal 51 Atribut Organisasi terdiri dari :
+
+[loweralpha]
+. Logo COCONUT merupakan logo yang dipakai pada periode XII dan akan dipakai sampai batas waktu yang tidak ditentukan ,
+. Pakaian Dinas Harian (PDH) hanya digunakan pada aktivitas harian keorganisasian,
+. Pakaian Dinas Lapangan (PDL) hanya digunakan pada aktivitas lapangan Keorganisasian,
+. Bendera hanya di gunakan pada aktivitas simbolis keorganisasian.
+
+=== Bab 18 : Perubahan Anggaran Rumah Tangga COCONUT
+
+==== Pasal 52
+
+Perubahan Anggaran Rumah Tangga COCONUT hanya dapat dilakukan pada Musyawarah Besar atau Musyawarah Besar Luar Biasa.
+
+=== Bab 19 : Pengesahan Anggaran Rumah Tangga COCONUt
+
+==== Pasal 53
+
+Pengesahan Anggaran Rumah Tangga COCONUT hanya dapat dilakukan pada Musyawarah Besar atau Musyawarah Besar Luar Biasa.
+
+=== Bab 20 : Aturan Tambahan
+
+==== Pasal 54
+
+Hal-hal yang belum diatur dalam Anggaran Rumah Tangga ini akan diatur dalam Peraturan Organisasi lainnya.
+
+=== Bab 21 : Aturan Peralihan
+
+==== Pasal 55 
+
+Segala Peraturan Organisasi COCONUT harus sesuai dengan Anggaran Rumah Tangga ini.
+
+==== Pasal 56
+
+Anggaran Rumah Tangga ini mulai berlaku sejak tanggal ditetapkannya.
+
+=== Bab 22 : Penetapan
+
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk pertama kalinya dan disahkan untuk pertama kalinya oleh peserta mubes COCONUT pada hari Rabu, 2 April 2008 bertempat di BTN Tabaria, Makassar.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk kedua kalinya dan disahkan untuk kedua kalinya oleh peserta mubes COCONUT pada hari Minggu, 2 Agustus 2009 bertempat di Tanjung Anging Mamiri, Makassar.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk ketiga kalinya dan disahkan untuk ketiga kalinya oleh peserta mubes COCONUT pada hari Minggu, 18 Juli 2010 bertempat di Malino, Kab. Gowa.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk keempat kalinya dan disahkan untuk keempat kalinya oleh peserta mubes COCONUT pada hari Minggu, 17 Juli 2011 bertempat di Benteng Somba Opu, Kab. Gowa.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk kelima kalinya oleh Peserta Mubes COCONUT dan disahkan untuk kelima kalinya oleh Presidium I : Suherman, Presidium II : M.Ramli, Presidium III : Darmawan Setiawan pada hari Minggu, 15 Juli 2012 bertempat di Malino, Kab. Gowa.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk keenam kalinya oleh Peserta Mubes COCONUT dan disahkan untuk keenam kalinya oleh Presidium I : Yaomal, Presidium II : Daud Desmawanto, Presidium III : Lalu Nasirin pada hari Minggu, 14 Juli 2013 bertempat di Malino, Kab. Gowa.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk ketujuh kalinya oleh Peserta Mubes COCONUT dan disahkan untuk ketujuh kalinya oleh Presidium I : Yaomal, Presidium II : Maulana Ishak, Presidium III : Sulaiman Patabang pada hari Minggu, 17 Agustus 2014 bertempat di Bengo-bengo, Kab. Maros.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk kedelapan kalinya oleh Peserta Mubes COCONUT dan disahkan untuk kedelapan kalin ya oleh Presidium I : Hilman, Presidium II : Andy Abdul Azis, Presidium III : Elfira Febrianti pada hari Minggu, 17 Agustus 2015 bertempat di Benteng Somba Opu, Kab. Gowa.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk kesembilan kalinya oleh Peserta Mubes COCONUT dan disahkan untuk kesembilan kalinya oleh Presidium I : Abdul Rasyid Ramadhan, Presidium II : Andre Tupelu, Presidium III : Andy Abdul Azis pada hari Minggu, 21 Agustus 2016 bertempat di Benteng Somba Opu, Kab. Gowa.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk kesepuluh kalinya oleh Peserta Mubes COCONUT dan disahkan untuk kesepuluh kalinya oleh Presidium I : Reynaldi Rahmat, Presidium II : Bagas Eryan Bimantoro, Presidium III : Muhlis pada
+hari Sabtu, 6 Oktober 2018 bertempat di Sekretariat COCONUT di Jl. Tidung 10 no. 157, Kota Makassar.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk kesebelas kalinya oleh Peserta Mubes COCONUT dan disahkan untuk kesebelas kalinya oleh Presidium I : Reynaldi Rahmat, Presidium II : Kevin Yoshua Patu, Presidium III : Abd. Girandi pada hari Minggu, 13 Oktober 2019 bertempat di Benteng Somba Opu (Rumah Adat Soppeng), Kab. Gowa.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk keduabelas kalinya oleh Peserta Mubes COCONUT dan disahkan untuk keduabelas kalinya oleh Presidium I : Charos George Selan, Presidium II : Rukiani, Presidium III : Subhan Sidik pada hari Minggu, 13 Desember 2020 bertempat di Makassar.
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk ketigabelas kalinya oleh Peserta Mubes COCONUT dan disahkan untuk ketigabelas kalinya oleh Presidium I : Reynaldi Rahmat, Presidium II : Abd. Mutawalli Amar, Presidium III : Nurman Awaluddin pada hari Senin, 8 Agustus 2022 bertempat di Jl. Mon. Emmy Saelan III No 70 Makassar (Sekretariat COCONUT).
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk keempatbelas kalinya oleh Peserta Mubes COCONUT dan disahkan untuk keempatbelas kalinya oleh Presidium I : Kamran, Presidium II : Resky Agus, Presidium III : Nurman Awaluddin pada hari Minggu, 24 September 2023 bertempat di Jl. Mon. Emmy Saelan III No 70 Makassar (Sekretariat COCONUT).
+. Anggaran Rumah Tangga COCONUT ditetapkan untuk kelimabelas kalinya oleh Peserta Mubes COCONUT dan disahkan untuk kelimabelas kalinya oleh Presidium I : Syariful Mujaddiq, Presidium II : Nurmisba, Presidium III : Nur Hidayat pada hari Sabtu, 07 September 2024 bertempat di Jl. Mon. Emmy Saelan III No 70 Makassar (Sekretariat COCONUT).
