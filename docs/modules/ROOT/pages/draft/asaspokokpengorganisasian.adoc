@@ -57,14 +57,12 @@ Bertanggung jawab atas alokasi dan sirkulasi dana COCONUT.
 . Koord Departemen :
 Bertanggung jawab terhadap departemennya masing- masing.
 
-..Departemen Pembelajaran :
-
+.. Departemen Pembelajaran :
 Bertugas sebagai penanggung jawab yang berhubungan dengan kegiatan Departemen pembelajaran dalam pencapaian sasaran departemen pembelajaran.
 
-..Departemen keorganisasian :
-
+.. Departemen keorganisasian :
 Bertugas sebagai penanggung jawab yang berhubungan dengan kegiatan departemen keorganisasian dalam pencapaian sasaran departemen
 keorganisasian.
 
-..Departemen Humas :
+.. Departemen Humas :
 Bertugas sebagai penanggung jawab yang berhubungan dengan kegiatan Departemen Humas.
