@@ -3,48 +3,42 @@
 :description: Asas-Asas Pokok Pengorganisasian COCONUT Computer Club
 :keywords: COCONUT, Konstitusi, Asas-Asas Pokok Pengorganisasian
 
-== Pendahuluan
+=== 1. Asas Pembagian Tugas
 
-Dokumen ini merupakan {Judul Dokumen} dari *Computer Club Oriented Network, Utility and Technology (COCONUT)* untuk periode 2024-2025. Dokumen ini berfungsi sebagai {tujuan dokumen, misalnya, kerangka konstitusi, pedoman operasional, atau prinsip pengorganisasian} yang mengatur kegiatan dan struktur organisasi COCONUT. Dokumen ini disusun untuk mendukung pencapaian visi dan misi organisasi, yang berlandaskan pada Pancasila, Undang-Undang Dasar 1945, Tri Dharma Perguruan Tinggi, dan Sumpah Mahasiswa.
+Dalam pengorganisasian Computer Club Oriented Network, Utility and Technology (COCONUT), tugas-tugas pengurus perlu dibagi dalam tugas-tugas departemen dan divisi. Sesuai dengan asas ini, maka perlu adanya rumusan tugas yang jelas sehingga dapat dicegah duplikasi, benturan dan kekaburan.
 
-== Latar Belakang
+=== 2. Asas Fungsional
 
-{Judul Dokumen} dirancang untuk memberikan panduan yang jelas bagi anggota COCONUT dalam {ruang lingkup dokumen, misalnya, menjalankan organisasi, mengembangkan program kerja, atau menetapkan aturan tambahan}. Dokumen ini disusun berdasarkan kebutuhan untuk menciptakan organisasi yang dinamis, terstruktur, dan berorientasi pada pengembangan teknologi informasi serta pengabdian masyarakat.
+Dalam penyelenggaran tugas dan fungsi pengurus harus ada salah satu presidium secara fungsional bertanggung jawab atas suatu divisi atau suatu departemen, asas ini menentukan bahwa penanganan suatu masalah dalam rangka mewujudkan koordinasi yang baik antar kegiatan pengurus, maka presedium memprakarsainya.
 
-== Isi Dokumen
+=== 3. Asas Koordinasi
 
-=== Bab {Nomor}: {Judul Bab}
+Asas ini menentukan perlunya setiap divisi dan departemen memadukan dan menyelaraskan baik dalam kegiatan, waktu maupun perumusan, kebijaksanaan, perencanaan, penganggaran, pengendalian tugas dan fungsi yang diembannya. Karena pada dasarnya pelaksanaan tugas umum kepengurusan harus ditangani secara multi nasional.
 
-==== Pasal {Nomor}
+=== 4. Asas Kesinambungan
 
-{Isi pasal, merangkum poin utama seperti definisi, tugas, wewenang, atau prosedur yang relevan dengan dokumen.}
+Asas ini mengharuskan adanya kesinambungan kerja dalam arti bahwa tugas-tugas umum pengurus dan kegiatan terus-menerus harus sesuai dengan kebijaksanaan dan program organisasi.
 
-- {Item daftar, jika ada, misalnya, aturan spesifik, persyaratan, atau langkah-langkah}
-- {Item daftar, jika ada}
+=== 5. Asas Akordian
 
-==== Pasal {Nomor}
+Asas akordian menentukan bahwa dapat berkembang atau mengecilnya tugas sesuai tuntutan dan beban kerja.
 
-{Isi pasal berikutnya, merinci ketentuan atau regulasi tambahan.}
+=== 6. Asas Pendelegasian Wewenang
 
-=== Bab {Nomor}: {Judul Bab}
+Asas ini mengharuskan setiap pimpinan untuk melimpahkan sebagian tugas dan wewenangnya kepada anggotanya.
 
-{Deskripsi tujuan atau cakupan bab.}
+=== 7. Asas Keluwesan
 
-==== Pasal {Nomor}
+Asas ini menghendaki organisasi selalu mengikuti dan menyesuaikan diri dengan perkembangan dan perubahan keadaan sehingga dapat dihindarkan kekakuan dalam pelaksanaan tugasnya.
 
-{Isi spesifik pasal, seperti struktur organisasi, mekanisme rapat, atau ketentuan sanksi.}
+=== 8. Asas Jalur dan Staf
 
-- {Item daftar, jika ada}
-- {Item daftar, jika ada}
+Asas jalur dan staf adalah jalur yang digunakan dalam penentuan penyusunan tugastugas pokok pengurus.
 
-== Penetapan dan Pengesahan
+=== 9. Asas Kejelasan dan Pembangunan
 
-{Judul Dokumen} ditetapkan dan disahkan melalui Musyawarah Besar (Mubes) COCONUT pada tanggal {tanggal} di {lokasi}, dipimpin oleh {nama presidium, jika ada}. Amandemen dilakukan pada {daftar tanggal dan lokasi amandemen, jika ada}, untuk memastikan dokumen tetap relevan dengan kebutuhan organisasi.
+Asas ini mengharuskan organisasi Computer Club Oriented Network, Utility and Technology (COCONUT) menggambarkan susunan organisasi agar setiap pihak yang berkepentingan dapat segera memahami kedudukan dan hubungan dari setiap divisi organisasi yang ada.
 
-== Ketentuan Tambahan
+=== 10. Asas Kebersamaan
 
-Hal-hal yang belum diatur dalam dokumen ini akan diatur melalui peraturan organisasi tambahan atau keputusan yang diambil dalam Musyawarah Besar atau Musyawarah Besar Luar Biasa.
-
-== Aturan Peralihan
-
-Setelah berlakunya {Judul Dokumen} ini, semua peraturan sebelumnya yang berkaitan dengan {ruang lingkup dokumen} dinyatakan tidak berlaku lagi.
+Asas kebersamaan adalah mengharuskan kepada pengurus terpilih untuk dapat melibatkan seluruh anggota Computer Club Oriented Network, Utility and Technology (COCONUT) pada setiap kegiatan kepanitiaan dalam upaya pengembangan potensi anggota.
