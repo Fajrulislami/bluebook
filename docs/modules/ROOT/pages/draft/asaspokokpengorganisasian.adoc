@@ -46,30 +46,25 @@ Asas kebersamaan adalah mengharuskan kepada pengurus terpilih untuk dapat meliba
 === JOB DESCRIPTION PENGURUS COCONUT
 
 . Ketua :
-
 Bertanggung jawab atas kelangsungan COCONUT secara keseluruhan intern dan extern. Pemegang kebijaksanaan umum organisasi berdasarkan Anggaran Dasar dan Anggaran Rumah Tangga serta ketetapan -ketetapan organisasi lainnya.
 
 . Sekretaris :
-
 Membantu ketua umum dalam hal administrasi serta tugas-tugas intern dan ekstern.
 
 . Bendahara :
-
 Bertanggung jawab atas alokasi dan sirkulasi dana COCONUT.
 
 . Koord Departemen :
-
 Bertanggung jawab terhadap departemennya masing- masing.
 
-.. Departemen Pembelajaran :
+..Departemen Pembelajaran :
 
 Bertugas sebagai penanggung jawab yang berhubungan dengan kegiatan Departemen pembelajaran dalam pencapaian sasaran departemen pembelajaran.
 
-.. Departemen keorganisasian :
+..Departemen keorganisasian :
 
- Bertugas sebagai penanggung jawab yang berhubungan dengan kegiatan departemen keorganisasian dalam pencapaian sasaran departemen
+Bertugas sebagai penanggung jawab yang berhubungan dengan kegiatan departemen keorganisasian dalam pencapaian sasaran departemen
 keorganisasian.
 
-.. Departemen Humas :
-
+..Departemen Humas :
 Bertugas sebagai penanggung jawab yang berhubungan dengan kegiatan Departemen Humas.
