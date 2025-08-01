@@ -3,48 +3,108 @@
 :description: Garis Besar Haluan Organisasi COCONUT Computer Club
 :keywords: COCONUT, Konstitusi, Garis Besar Haluan Organisasi
 
-== Pendahuluan
+=== Bab 1 Pendahuluan
 
-Dokumen ini merupakan {Judul Dokumen} dari *Computer Club Oriented Network, Utility and Technology (COCONUT)* untuk periode 2024-2025. Dokumen ini berfungsi sebagai {tujuan dokumen, misalnya, kerangka konstitusi, pedoman operasional, atau prinsip pengorganisasian} yang mengatur kegiatan dan struktur organisasi COCONUT. Dokumen ini disusun untuk mendukung pencapaian visi dan misi organisasi, yang berlandaskan pada Pancasila, Undang-Undang Dasar 1945, Tri Dharma Perguruan Tinggi, dan Sumpah Mahasiswa.
+Computer Club Oriented Network, Utility and Technology (COCONUT) merupakan organisasi mahasiswa berlandaskan Undang-undang dasar 1945, Tri Dharma Perguruan Tinggi dan sumpah mahasiswa dengan pola pengembangan kreatifitas sehingga dapat meningkatkan Sumber Daya Manusia. Suatu organisasi antar kampus maka Computer Club Oriented Network, Utility and Technology (COCONUT) juga berinteraksi dengan beberapa komponen besar yakni mahasiswa, perguruan tinggi, pemerintah, dan masyarakat.
 
-== Latar Belakang
+Menyadari hal tersebut diatas, maka Computer Club Oriented Network, Utility and Technology (COCONUT) mengemban amanah untuk menghimpun mahasiswa yang ingin bergabung dalam Computer Club Oriented Network, Utility and Technology (COCONUT) dalam meningkatkan kualitas dan peranan mahasiswa untuk berpartisipasi serta bertanggung jawab mewujudkan masyarakat adil makmur serta bertaqwa kepada Tuhan Yang Maha Esa .
 
-{Judul Dokumen} dirancang untuk memberikan panduan yang jelas bagi anggota COCONUT dalam {ruang lingkup dokumen, misalnya, menjalankan organisasi, mengembangkan program kerja, atau menetapkan aturan tambahan}. Dokumen ini disusun berdasarkan kebutuhan untuk menciptakan organisasi yang dinamis, terstruktur, dan berorientasi pada pengembangan teknologi informasi serta pengabdian masyarakat.
+Untuk mewujudkan hal tersebut di atas, maka perlu suatu penjabaran lebih lanjut dalam suatu Garis-garis Besar Haluan Organisasi .
 
-== Isi Dokumen
+==== Pengertian
 
-=== Bab {Nomor}: {Judul Bab}
+. Garis-garis Besar Haluan Organisasi (GBHO) adalah pedoman organisasi secara garis besar sebagai aspirasi anggota yang ditetapkan dalam musyawarah Besar.
+. Garis-Garis Besar Haluan Organisasi (GBHO) berisi rumusan tentang arah kebijakan program kerja sistematis yg bersifat extern maupun intern dan harus dilaksanakan secara menyeluruh, terpadu, terencana dan berkesinambungan merupakan implementasi dari Anggaran Dasar dan Anggaran Rumah Tangga sehingga terwujud tujuan organisasi.
 
-==== Pasal {Nomor}
+==== Maksud dan Tujuan
 
-{Isi pasal, merangkum poin utama seperti definisi, tugas, wewenang, atau prosedur yang relevan dengan dokumen.}
+Garis-garis Besar Haluan Organisasi dimaksudkan untuk memberikan dasar-dasar, taktik, strategi, dan sasaran program kerja secara terpadu dan berkesinambungan dari suatu siklus periodesasi kepengurusan Computer Club Oriented Network, Utility and Technology (COCONUT) guna pencapaian mahasiswa yang bertaqwa kepada Tuhan Yang Maha Esa baik secara material maupun secara spiritual.
 
-- {Item daftar, jika ada, misalnya, aturan spesifik, persyaratan, atau langkah-langkah}
-- {Item daftar, jika ada}
+==== Landasan
 
-==== Pasal {Nomor}
+Penyusunan GBHO berlandaskan pada Anggaran Dasar (AD) dan Anggaran Rumah Tangga (ART) serta peraturan / ketentuan yang ditetapkan dalam musyawarah Besar.
 
-{Isi pasal berikutnya, merinci ketentuan atau regulasi tambahan.}
+==== Sistematika
 
-=== Bab {Nomor}: {Judul Bab}
+Sebagai gambaran rinci tentang arah pengembangan program organisasi baik arah pengembangan jangka panjang maupun jangka pendek, maka disusun dan dituangkan dalam pola umum program kerja Computer Club Oriented Network, Utility and Technology (COCONUT) dengan sistematika sebagai berikut :
 
-{Deskripsi tujuan atau cakupan bab.}
+. PENDAHULUAN
+. POLA DASAR PROGRAM COCONUT
+. POLA UMUM JANGKA PANJANG
+. POLA UMUM JANGKA PENDEK
+. PENUTUP
 
-==== Pasal {Nomor}
+=== Bab 2 : Pola Dasar Program COCONUT
 
-{Isi spesifik pasal, seperti struktur organisasi, mekanisme rapat, atau ketentuan sanksi.}
+==== Tujuan
 
-- {Item daftar, jika ada}
-- {Item daftar, jika ada}
+Menghimpun mahasiswa yang tergabung dalam Computer Club Oriented Network, Utility and Technology (COCONUT) untuk mewujudkan insan yang berilmu, berbudi pekerti luhur, kreatif, dan mampu mengaktualisasikan ide dan pemikirannya menjadi sebuah kerja nyata serta mampu bertanggung jawab atas pembangunan masyarakat luas demi terwujudnya masyarakat Indonesia adil makmur serta bertaqwa kepada Tuhan Yang Maha Esa .
 
-== Penetapan dan Pengesahan
+==== Potensi Dasar
 
-{Judul Dokumen} ditetapkan dan disahkan melalui Musyawarah Besar (Mubes) COCONUT pada tanggal {tanggal} di {lokasi}, dipimpin oleh {nama presidium, jika ada}. Amandemen dilakukan pada {daftar tanggal dan lokasi amandemen, jika ada}, untuk memastikan dokumen tetap relevan dengan kebutuhan organisasi.
+Potensi dasar pengembangan Computer Club Oriented Network, Utility and Technology (COCONUT) merupakan modal dasar yang dimiliki mahasiswa baik secara langsung maupun secara tidak langsung, yaitu :
+. Mempunyai kuantitas anggota yang memadai untuk mengembangkan organisasi.
+. Kualitas anggota dalam meningkatkan daya nalar / pikir analisis riset untuk menghadapi masalah-masalah internal dan eksternal yang sedang berkembang.
+. Sekretariat yang dapat difungsikan sebagai pusat kegiatan organisasi
+. Kampus sebagai alternatif/penunjang pusat kegiatan organisasi
+. Kemampuan kerjasama anggota dengan pihak luar.
+. Memiliki Badan Pendiri yang menunjang dalam pengembangan organisasi.
 
-== Ketentuan Tambahan
+==== Sasaran Pelaksanaan Program
 
-Hal-hal yang belum diatur dalam dokumen ini akan diatur melalui peraturan organisasi tambahan atau keputusan yang diambil dalam Musyawarah Besar atau Musyawarah Besar Luar Biasa.
+Sebagai organisasi kemahasiswaan yang bersifat otonom yang mengacuh pada media pembelajaran sosial, maka sasaran pelaksanaan program adalah peningkatan kualitas diri dan kualitas aksi dari anggotanya sehingga tercipta generasi yang tangguh mandiri, serta memiliki penguasaan IMTAQ dan IPTEK sebagai instrument dalam rekayasa masyarakat.
 
-== Aturan Peralihan
+=== Bab 3 : Pola Umum Jangka Panjang
 
-Setelah berlakunya {Judul Dokumen} ini, semua peraturan sebelumnya yang berkaitan dengan {ruang lingkup dokumen} dinyatakan tidak berlaku lagi.
+Untuk memberikan arah program yang berkesinambungan maka perlu ditetapkan suatu pola umum yang bertolak dari orientasi pengembangan Computer Club Oriented Network, Utility and Technology (COCONUT) yang secara bertahap dilaksanakan dari periode ke periode secara terencana dan terpadu. Berdasarkan pola dasar program Computer Club Oriented Network, Utility and Technology (COCONUT), maka disusunlah pola umum jangka panjang, yang merupakan acuan yang bersifat umum dan mendasar bagi penataan Computer Club Oriented Network, Utility and Technology (COCONUT) sebagai berikut :
+. Penyusunan rencana kerja guna pencapaian tujuan organisasi dengan perencanaan tahunan, semester, Tri Wulan, agar program kerja dapat dilaksanakan secara efektif dan efisien berdasarkan Anggaran Dasar dan Anggaran Rumah Tangga.
+. Melakukan Rapat evaluasi kegiatan minimum 1 (satu) bulan sekali.
+. Melaksanakan ketetapan-ketetapan musyawarah anggota serta keputusankeputusan yang ada setelah Musyawarah Besar.
+
+=== Bab 4 : Pola Umum Jangka Pendek
+
+Dengan mengacu pada pola dasar program Computer Club Oriented Network, Utility and Technology (COCONUT) serta pola umum jangka panjang dengan berbagai pertimbangan dan strategi pengembangan maka disusunlah pola umum program dalam kurung waktu satu tahun atau satu masa kepengurusan sebagai berikut.
+
+==== Departemen Pembelajaran
+
+Departemen Pembelajaran berperan aktif dalam peningkatan dan pengembangan sumber daya anggota sesuai bidang keilmuan.
+
+Sasaran : Peningkatan dan pengembangan informasi dan teknologi yang merata terhadap anggota.
+
+Kegiatan Departemen :
+. Melaksanakan pengembangan tentang ilmu yang didapatkan dikampus dan diluar kampus berupa :
+
+... Mengadakan pembelajaran dalam bidang komputer secara umum seperti hardware , software dan jaringan.
+... Memberikan penghargaan kepada anggota yang dianggap cakap didalam disiplin keilmuan.
+
+. Menunjang terlaksananya riset dan penelitian.
+. Melaksanakan rapat departemen.
+
+==== Departemen Organisasi
+
+Berperan aktif dan bertugas sebagai penanggung jawab yang berhubungan dengan kegiatan Departemen Organisasi dalam pencapaian sasaran Departemen Organisasi.
+
+Sasaran : Pembentukan Anggota baru serta menjadi pusat keorganisasian dalam kelancaran organisasi.
+
+Kegiatan Departemen :
+. Penerimaan anggota & upgrading.
+. Meningkatkan kedisiplinan dan tata krama antar sesama anggota COCONUT.
+. Pengawasan dan pengontrolan.
+. Pengadaan serta perawatan sekretariat dan alat-alat kesektariatan.
+. Pengembangan dan pemeliharaan sistem database anggota saat penambahan atribut organisasi.
+. Melaksanakan rapat departemen.
+
+==== Departemen Humas
+
+Berperan aktif dalam menjalankan kerja sama baik intern maupun ekstern organisasi sebagai pusat informasi COCONUT guna kelancaran program kerja dan tujuan organisasi.
+
+Sasaran : Menjalin kerja sama secara intern maupun ekstern organisasi serta menjadi pusat informasi dan pengembangan anggota.
+
+Kegiatan Departemen :
+. Menjalin kerjasama intern dan ekstern organisasi.
+. Mempublikasikan informasi intern dan ekstern organisasi.
+. Melaksanakan rapat departemen.
+
+=== Bab 4 : Penutup
+
+Demikianlah Garis-garis Besar Haluan Organisasi (GBHO) Computer Club Oriented Network, Utility and Technology (COCONUT) dibuat untuk dijadikan acuan program kerja pengurus harian Computer Club Oriented Network, Utility and Technology (COCONUT) pada periode kepengurusan 2024 – 2025.
