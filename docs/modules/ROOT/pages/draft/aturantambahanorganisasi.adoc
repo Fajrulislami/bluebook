@@ -3,48 +3,90 @@
 :description: Aturan-Aturan Tambahan Organisasi COCONUT Computer Club
 :keywords: COCONUT, Konstitusi, Aturan-Aturan Tambahan Organisasi
 
-== Pendahuluan
+=== Bab 1 : Sanksi
 
-Dokumen ini merupakan {Judul Dokumen} dari *Computer Club Oriented Network, Utility and Technology (COCONUT)* untuk periode 2024-2025. Dokumen ini berfungsi sebagai {tujuan dokumen, misalnya, kerangka konstitusi, pedoman operasional, atau prinsip pengorganisasian} yang mengatur kegiatan dan struktur organisasi COCONUT. Dokumen ini disusun untuk mendukung pencapaian visi dan misi organisasi, yang berlandaskan pada Pancasila, Undang-Undang Dasar 1945, Tri Dharma Perguruan Tinggi, dan Sumpah Mahasiswa.
+==== Pasal 1 Jenis - Jenis Sanksi
 
-== Latar Belakang
+Adapun jenis-jenis sanksi sebagai berikut :
 
-{Judul Dokumen} dirancang untuk memberikan panduan yang jelas bagi anggota COCONUT dalam {ruang lingkup dokumen, misalnya, menjalankan organisasi, mengembangkan program kerja, atau menetapkan aturan tambahan}. Dokumen ini disusun berdasarkan kebutuhan untuk menciptakan organisasi yang dinamis, terstruktur, dan berorientasi pada pengembangan teknologi informasi serta pengabdian masyarakat.
+.. Peringatan dan atau teguran
+.. Karantina di Sekretariat
+.. Resuffle
+.. Pemecatan
 
-== Isi Dokumen
+==== Pasal 2 Alasan Pemberian Sanksi
 
-=== Bab {Nomor}: {Judul Bab}
+Adapun alasan pemberian sanksi sebagai berikut :
 
-==== Pasal {Nomor}
+. Tidak mematuhi Anggaran Dasar, Anggaran Rumah Tangga, serta peraturan organisasi yang berlaku di COCONUT.
+. Mencemarkan nama baik organisasi.
+. Tidak membayar iuran yang telah diwajibkan.
+. Tidak memberikan keterangan yang dapat dipertanggung jawabkan apabila tidak menghadiri kegiatan resmi COCONUT.
 
-{Isi pasal, merangkum poin utama seperti definisi, tugas, wewenang, atau prosedur yang relevan dengan dokumen.}
+==== Pasal 3 Mekanisme Pemberian Sanksi
 
-- {Item daftar, jika ada, misalnya, aturan spesifik, persyaratan, atau langkah-langkah}
-- {Item daftar, jika ada}
+. Apabila Sanksi atau teguran dan atau teguran mas I dan II diberikan oleh BPH atas persetujuan DPO.
+. Apabila Sanksi peringatan di sekretariat atau teguran selama 2 kali masih dielakkan maka sanksi dilanjutkan ke karantina disekretariat.
+. Apabila Sanksi karantina di sekretariat selama waktu yang ditentukan dan dalam tataran pengurus masih dielakkan maka sanksi dilanjutkan ke resuffle.
+. Apabila Sanksi karantina disekretariat selama waktu yang ditentukan dan dalam tataran anggota masih dielakkan maka sanksi dilanjutkan ke pemberian Sanksi III (pemecatan).
+. Apabila Sanksi reshuffle, masih dielakkan maka sanksi dilanjutkan ke Pemberian Sanksi III (pemecatan).
+. Pemberian Sanksi III (pemecetan) diberikan oleh BPH atas Persetujuan oleh DPO dan Badan Pendiri.
 
-==== Pasal {Nomor}
+=== Bab 2 : Pembelaan
 
-{Isi pasal berikutnya, merinci ketentuan atau regulasi tambahan.}
+==== Pasal 4 
 
-=== Bab {Nomor}: {Judul Bab}
+Anggota yang diduga melakukan pelanggaran akan dibela oleh tim yang dipilih oleh praduga tersebut.
 
-{Deskripsi tujuan atau cakupan bab.}
+==== Pasal 5 Mekanisme Pembelaan
 
-==== Pasal {Nomor}
+Mekanisme pembelaan sebagai berikut:
 
-{Isi spesifik pasal, seperti struktur organisasi, mekanisme rapat, atau ketentuan sanksi.}
+.. Menyelesaikan masalah yang dipradugakan pada forum khusus untuk itu.
+.. Apabila point A masih dielakkan maka untuk anggota dilanjutkan ke rapat anggota dan untuk BPH dilanjutkan ke Musyawarah Besar atau Musyawarah Besar Luar Biasa.
+.. Forum khusus pada point A untuk pengurus dilakukan oleh anggota atas sepengetahuan DPO, dan untuk anggota dilakukan oleh BPH.
 
-- {Item daftar, jika ada}
-- {Item daftar, jika ada}
+==== Pasal 6 Sanksi DPO
 
-== Penetapan dan Pengesahan
+Jika DPO melakukan kesalahan maka akan diadakan resuffle oleh BPH atas pertimbangan badan pendiri.
 
-{Judul Dokumen} ditetapkan dan disahkan melalui Musyawarah Besar (Mubes) COCONUT pada tanggal {tanggal} di {lokasi}, dipimpin oleh {nama presidium, jika ada}. Amandemen dilakukan pada {daftar tanggal dan lokasi amandemen, jika ada}, untuk memastikan dokumen tetap relevan dengan kebutuhan organisasi.
+=== Bab 3 : Atribut Organisasi
 
-== Ketentuan Tambahan
+==== Pasal 7
 
-Hal-hal yang belum diatur dalam dokumen ini akan diatur melalui peraturan organisasi tambahan atau keputusan yang diambil dalam Musyawarah Besar atau Musyawarah Besar Luar Biasa.
+Logo COCONUT merupakan logo yang dipakai sejak periode XII sampai batas waktu yang tidak ditentukan.
 
-== Aturan Peralihan
+==== Pasal 8 Pakaian Dinas Harian
 
-Setelah berlakunya {Judul Dokumen} ini, semua peraturan sebelumnya yang berkaitan dengan {ruang lingkup dokumen} dinyatakan tidak berlaku lagi.
+.. Pakaian Dinas Harian (PDH) hanya digunakan pada saat aktivitas keorganisasian.
+.. Pakaian Dinas Harian (PDH) dikenakan oleh anggota aktif.
+
+==== Pasal 9 Pakaian Dinas Lapangan
+
+.. Pakaian Dinas Lapangan (PDL) hanya digunakan pada saat aktivitas keorganisasian.
+.. Pakaian Dinas Lapangan (PDL) dikenakan oleh Anggota Luar Biasa, Badan Pendiri dan Badan Pengawas
+
+==== Pasal 10 
+
+Bendera hanya digunakan pada aktifitas simbolis organisasi.
+
+=== Bab 4 : Rekomendasi Musyawarah Besar
+
+==== Pasal 11
+
+. Badan pengurus harian memutuskan jangka waktu kepengurusan pada saat Raker.
+. Badan pengurus harian wajib mensosialisasikan konstitusi secara utuh kepada seluruh anggota COCONUT.
+. Membuat format pengkaderan dan kurikulum pembelajaran di COCONUT.
+. Mengelola dengan baik website dan sosial media organisasi.
+
+=== Bab 5 : Hari Peringatan
+
+==== Pasal 12 
+
+Tanggal 1 April setiap tahunnya di tetapkan sebagai milad COCONUT dan dirangkaikan dengan hari berkabung.
+
+=== Bab 6 : Sanksi Musyawarah Besar
+
+==== Pasal 13
+
+Badan Pengurus Harian (BPH) yang tidak mengikuti keseluruhan rangkaian kegiatan Musyawarah besar (MUBES) tidak diperkenankan mengikuti prosesi pelantikan anggota baru pada periode yang sedang berjalan.
