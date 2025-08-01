@@ -7,7 +7,7 @@
 
 Timbulnya kesadaran akan pengaruh Teknologi Informasi yang sangat luas dan kompleks dalam kehidupan manusia, merupakan bukti bahwa semakin mengubah hubungan manusia dengan alam semesta, dengan masyarakat dan dengan diri kita sendiri. Manusia hidup dalam dunia yang teknologis dan tidak dapat mengelakkan diri dari pengaruh Teknologi dan Informasi dalam hidupnya. Mahasiswa yang sadar akan hal tersebut berpartisipasi aktif dalam mengembangkan teknologi dan informasi di Indonesia serta mewujudkan Tri Dharma Perguruan Tinggi, membutuhkan wadah sebagai penyalur aspirasi dan pengembangan potensinya yang mengarah pada disiplin ilmu yang ditekuni, maka COCONUT merupakan salah satu sarana pengaktualisasiannya. Untuk terciptanya suasana kehidupan organisasi yang dinamis dan tetap mengarah pada tujuan yang diinginkan, maka disusunlah Anggaran Dasar COCONUT sebagai berikut.
 
-=== Bab 1: Nama, Waktu dan Kedudukan
+=== Bab 1 : Nama, Waktu dan Kedudukan
 
 ==== Pasal 1 Nama
 
@@ -21,22 +21,184 @@ COCONUT dibentuk pada tanggal 1 April 2008 sampai pada waktu yang tidak ditentuk
 
 COCONUT berkedudukan di Makassar.
 
-=== Bab 2: Asas dan Landasan
+=== Bab 2 : Asas dan Landasan
 
 ==== Pasal 4 Asas
 
 COCONUT berasaskan Pancasila.
 
+==== Pasal 5 Landasan
 
+COCONUT berlandaskan Undang – Undang Dasar 1945, Tri Dharma Perguruan Tinggi dan Sumpah Mahasiswa.
 
-== Penetapan dan Pengesahan
+=== Bab 3 : Tujuan dan Usaha
 
-{Judul Dokumen} ditetapkan dan disahkan melalui Musyawarah Besar (Mubes) COCONUT pada tanggal {tanggal} di {lokasi}, dipimpin oleh {nama presidium, jika ada}. Amandemen dilakukan pada {daftar tanggal dan lokasi amandemen, jika ada}, untuk memastikan dokumen tetap relevan dengan kebutuhan organisasi.
+==== Pasal 6 Tujuan
 
-== Ketentuan Tambahan
+COCONUT bertujuan membentuk mahasiswa yang kreatif untuk mewujudkan Tri Dharma Perguruan Tinggi dan Sumpah Mahasiswa yang mengarah pada pengembangan kreativitas mahasiswa dalam bidang penalaran dan keilmuan yang berkaitan dengan spesialisasi IT.
 
-Hal-hal yang belum diatur dalam dokumen ini akan diatur melalui peraturan organisasi tambahan atau keputusan yang diambil dalam Musyawarah Besar atau Musyawarah Besar Luar Biasa.
+==== Pasal 7 Usaha
 
-== Aturan Peralihan
+COCONUT berusaha :
+1. Mengarahkan Mahasiswa untuk berperan aktif dalam mewujudkan cita – cita dan
+tujuan nasional melalui Tri Dharma perguruan tinggi dan Sumpah Mahasiswa.
+2. Membina dan mengembangkan kualitas serta meningkatkan kesejahteraan anggota.
+3. Usaha-usaha lain secara nyata dan bertanggung jawab yang menunjang tujuan organisasi.
 
-Setelah berlakunya {Judul Dokumen} ini, semua peraturan sebelumnya yang berkaitan dengan {ruang lingkup dokumen} dinyatakan tidak berlaku lagi.
+=== Bab 4 : Status
+
+==== Pasal 8
+
+COCONUT adalah organisasi kemahasiswaan yang berbentuk media pembelajaran
+sosial dan sains yang bersifat otonom.
+
+=== Bab 5 : Keanggotaan
+
+==== Pasal 9
+
+Anggota COCONUT adalah Mahasiswa di salah satu perguruan tinggi.
+
+=== Bab 6 : Kekuasaan, Fungsi dan Wewenang
+
+==== Pasal 10 Kekuasaan
+
+Kekuasaan tertinggi organisasi COCONUT berada pada Musyawarah Besar.
+
+==== Pasal 11 Fungsi
+
+COCONUT berfungsi sebagai sarana pengkaderan,pengembangan kreatifitas dan
+penalaran keilmuan serta menampung dan menyalurkan aspirasi anggota.
+
+==== Pasal 12 Wewenang
+
+COCONUT berwenang :
+1. Menyelenggarakan Musyawarah besar.
+2. Mengembangkan kegiatan – kegiatan organisasi yang bersifat external dan internal agar tercapai tujuan organisasi.
+
+=== Bab 7 : Struktur Organisasi
+
+==== Pasal 13 
+
+Struktur organisasi COCONUT terdiri
+dari :
+1. Dewan Pengawas
+2. Badan Pendiri
+3. Anggota Luar Biasa
+4. Dewan Pertimbangan Organisasi (DPO)
+5. Badan Pengurus Harian (BPH)
+6. Departemen
+7. Anggota
+
+=== Bab 8 : Sidang-Sidang
+
+=== Pasal 14
+
+Sidang-sidang COCONUT terdiri dari :
+1. Musyawarah Besar,
+2. Musyawarah Besar Luar biasa,
+3. Rapat Kerja,
+4. Rapat Badan Pengurus Harian (BPH),
+5. Rapat Evaluasi Kepengurusan ,
+6. Rapat Departemen,
+7. Rapat Anggota.
+
+=== Bab 9 : Quorum dan Pengambilan Keputusan
+
+==== Pasal 15 Quorum
+
+1. Quorum dianggap sah apabila sidang-sidang COCONUT dihadiri sekurangkurangnya ½ dari jumlah anggota + 1.
+2. Apabila ayat 1 (satu) tidak terpenuhi, maka sidang ditunda maximal 1 x 24 jam, selanjutnya sidang dianggap sah.
+
+==== Pasal 16 Pengambilan Keputusan
+
+1. Pengambilan keputusan dilakukan secara musyawarah / mufakat.
+2. Apabila ayat 1 (satu) tidak terpenuhi, maka keputusan diambil berdasarkan suara terbanyak (voting).
+
+=== Bab 10 : Atribut
+
+==== Pasal 17
+
+Atribut COCONUT terdiri dari PDH, lambang/logo, Bendera COCONUT & PDL.
+
+=== Bab 11 : Sumber Dana
+
+==== Pasal 18
+
+Perbendaharaan COCONUT diperoleh dari:
+1. Iuran BPH dan anggota aktif,
+2. Sumbangan yang bersifat tidak mengikat,
+3. Usaha yang bersifat halal dan legal,
+4. Sponsor Ship.
+
+=== Bab 12 : Perubahan dan Pembubaran Organisasi
+
+==== Pasal 19 Perubahan
+
+1. Untuk mengubah COCONUT hanya dimungkinkan bila disetujui oleh sekurang -kurangnya 2/3 dari jumlah Anggota COCONUT.
+2. Keputusan diambil dengan persetujuan sekurang – kurangnya 2/3 dari jumlah
+anggota yang hadir.
+
+==== Pasal 20 Pembubaran
+
+1. Untuk membubarkan COCONUT hanya dimungkinkan bila dihadiri dan disetujui oleh sekurang-kurangnya ½ dari jumlah Badan Pendiri COCONUT .
+2. Keputusan diambil dengan persetujuan sekurang-kurangnya ½ dari jumlah anggota yang hadir.
+3. Setelah COCONUT dibubarkan maka seluruh harta benda organisasi diserahkan dan ditindaklanjuti oleh forum.
+
+=== Bab 13 : Perubahan Anggaran Dasar
+
+==== Pasal 21 
+
+Perubahan Anggaran Dasar (AD) COCONUT dapat dilakukan melalui Musyawarah Besar dan Musyawarah Besar Luar Biasa yang dilakukan untuk itu atas rekomendasi Musyawarah Besar dan Musyawarah Besar Luar Biasa.
+
+=== Bab 14 : Pengesahan Anggaran Dasar
+
+==== Pasal 22
+
+Pengesahan Anggaran Dasar COCONUT dilakukan pada Musyawarah Besar dan atau Forum khusus yang diadakan untuk itu atas rekomendasi Musyawarah Besar.
+
+=== Bab 15 : Aturan Tambahan
+
+==== Pasal 23
+
+Hal-hal yang belum diatur dan atau ditetapkan dalam Anggaran Dasar ini akan diatur dalam Anggaran Rumah Tangga dan atau peraturan organisasi lainnya.
+
+=== Bab 16 : Aturan Peralihan
+
+==== Pasal 24
+
+Pada saat mulai berlakunya AD ini maka aturan – aturan yang menyangkut COCONUT sebelumnya dinyatakan tidak berlaku lagi.
+
+=== Bab 17 : Penetapan
+
+1. Anggaran Dasar COCONUT ditetapkan untuk pertama kalinya dan disahkan untuk pertama kalinya oleh peserta mubes COCONUT pada hari Rabu, 2 April 2008 bertempat di BTN Tabaria, Makassar.
+2. Anggaran Dasar COCONUT ditetapkan untuk kedua kalinya dan disahkan untuk kedua kalinya oleh peserta mubes COCONUT pada hari Minggu, 2 Agustus 2009 bertempat di Tanjung Anging Mamiri, Makassar.
+3. Anggaran Dasar COCONUT ditetapkan untuk ketiga kalinya dan disahkan untuk ketiga kalinya oleh peserta mubes COCONUT pada hari Minggu, 18 Juli 2010 bertempat di Malino, Kab. Gowa.
+4. Anggaran Dasar COCONUT ditetapkan untuk keempat kalinya dan disahkan untuk keempat kalinya oleh peserta mubes COCONUT pada hari Minggu, 17 Juli 2011 bertempat di Benteng Somba Opu, Kab Gowa.
+5. Anggaran Dasar COCONUT ditetapkan untuk kelima kalinya oleh Peserta Mubes COCONUT dan disahkan untuk kelima kalinya oleh Presidium I : suherman, Presidium II : M. Ramli, Presidium III : Darmawan Setiawan pada hari Minggu, 15 Juli 2012 bertempat di Malino, Kab. Gowa.
+6. Anggaran Dasar COCONUT ditetapkan untuk keenam kalinya oleh Peserta Mubes COCONUT dan disahkan untuk keenam kalinya oleh Presidium I : Yaomal, Presidium
+II : Daud Desmawanto, Presidium III : Lalu Nazirin pada hari Minggu, 14 Juli 2013 bertempat di Malino, Kab Gowa.
+7. Anggaran Dasar COCONUT ditetapkan untuk ketujuh kalinya oleh Peserta Mubes
+COCONUT dan disahkan untuk ketujuh kalinya oleh Presidium I : Yaomal, Presidium II : Maulana Ishak,Presidium III : Sulaiman Patabang,pada hari Minggu,17 Agustus 2014 bertempat di Bengo-bengo, Kab Maros.
+8. Anggaran Dasar COCONUT ditetapkan untuk kedelapan kalinya oleh Peserta Mubes
+COCONUT dan disahkan untuk kedelapan kalinya oleh Presidium I : Hilman, Presidium II : Andy Abdul Azis, Presidium III : Elfira Febrianti, pada hari Minggu, 17 Agustus 2015 bertempat di Benteng Somba Opu, Kab. Gowa.
+9. Anggaran Dasar COCONUT ditetapkan untuk kesembilan kalinya oleh Peserta
+Mubes COCONUT dan disahkan untuk kesembilan kalinya oleh Presidium I. : Abdul
+Rasyid Ramadhan, Presidium I I: Andre Tupelu, Presidium III : Andy Abdul Azis pada hari Minggu, 21 Agustus 2016 bertempat di Benteng Somba Opu, Kab. Gowa.
+10. Anggaran Dasar COCONUT ditetapkan untuk kesepuluh kalinya oleh Peserta
+Mubes COCONUT dan disahkan untuk kesepuluh kalinya oleh Presidium 1: Reynaldi
+Rahmat, Presidium II Bagas Eryan Bimantoro, Presidium III Syahrir, pada hari Sabtu, 6 Oktober 2018 bertempat di Sekretariat COCONUT di Jl. Tidung 10 no. 157, Kota Makassar.
+11. Anggaran Dasar COCONUT ditetapkan untuk kesebelas kalinya oleh Peserta
+Mubes COCONUT dan disahkan untuk kesebelas kalinya oleh Presidium I Reynaldi
+Rahmat, Presidium II: Karmila S, Presidium III Supriadi, pada hari Minggu, 13 Oktober 2019 bertempat di Benteng Somba Opu (Rumah Adat Soppeng), Kab. Gowa.
+12. Anggaran Dasar COCONUT ditetapkan untuk kedua belas kalinya oleh Peserta
+Mubes COCONUT dan disahkan untuk keduabelas kalinya oleh Presidium Charos
+George Selan, Presidium II: Rukiani, Presidium III: Supriadi, pada hari Minggu, 13 Desember 2020 bertempat di Makassar.
+13. Anggaran Dasar COCONUT ditetapkan untuk ketiga belas kalinya oleh Peserta
+Mubes COCONUT dan disahkan untuk ketigabelas kalinya oleh Presidium I Muh Akbar, Presidium II Abd Mutawalli Amar, Presidium III: Nurman Awaluddin, pada hari Minggu, 7 Agustus 2022 bertempat di Jl Mon. Emmy Saelan III No.70 Makassar (Sekretariat COCONUT).
+14. Anggaran Dasar COCONUT ditetapkan untuk keempat belas kalinya oleh Peserta
+Mubes COCONUT dan disahkan untuk keempat belas kalinya oleh Presidium I Kamran,
+Presidium II Resky Agus, Presidium III: Nurman Awaluddin, pada hari Minggu, 24
+September 2023 bertempat di Jl Mon. Emmy Saelan III No.70 Makassar (Sekretariat
+COCONUT).
+15. Anggaran Dasar COCONUT ditetapkan untuk kelimabelas kalinya oleh Peserta
+Mubes COCONUT dan disahkan untuk kelimabelas kalinya oleh Presidium I : Syariful Mujaddiq, Presidium II : Nurmisba, Presidium III : Nur Hidayat pada hari Sabtu, 07 September 2024 bertempat di Jl. Mon. Emmy Saelan III No. 70 Makassar (Sekretariat COCONUT).
