@@ -3,39 +3,31 @@
 :description: Anggaran Dasar COCONUT Computer Club
 :keywords: COCONUT, Konstitusi, Anggaran Dasar
 
-== Pendahuluan
+== Pembukaan
 
-Dokumen ini merupakan {Judul Dokumen} dari *Computer Club Oriented Network, Utility and Technology (COCONUT)* untuk periode 2024-2025. Dokumen ini berfungsi sebagai {tujuan dokumen, misalnya, kerangka konstitusi, pedoman operasional, atau prinsip pengorganisasian} yang mengatur kegiatan dan struktur organisasi COCONUT. Dokumen ini disusun untuk mendukung pencapaian visi dan misi organisasi, yang berlandaskan pada Pancasila, Undang-Undang Dasar 1945, Tri Dharma Perguruan Tinggi, dan Sumpah Mahasiswa.
+Timbulnya kesadaran akan pengaruh Teknologi Informasi yang sangat luas dan kompleks dalam kehidupan manusia, merupakan bukti bahwa semakin mengubah hubungan manusia dengan alam semesta, dengan masyarakat dan dengan diri kita sendiri. Manusia hidup dalam dunia yang teknologis dan tidak dapat mengelakkan diri dari pengaruh Teknologi dan Informasi dalam hidupnya. Mahasiswa yang sadar akan hal tersebut berpartisipasi aktif dalam mengembangkan teknologi dan informasi di Indonesia serta mewujudkan Tri Dharma Perguruan Tinggi, membutuhkan wadah sebagai penyalur aspirasi dan pengembangan potensinya yang mengarah pada disiplin ilmu yang ditekuni, maka COCONUT merupakan salah satu sarana pengaktualisasiannya. Untuk terciptanya suasana kehidupan organisasi yang dinamis dan tetap mengarah pada tujuan yang diinginkan, maka disusunlah Anggaran Dasar COCONUT sebagai berikut.
 
-== Latar Belakang
+=== Bab 1: Nama, Waktu dan Kedudukan
 
-{Judul Dokumen} dirancang untuk memberikan panduan yang jelas bagi anggota COCONUT dalam {ruang lingkup dokumen, misalnya, menjalankan organisasi, mengembangkan program kerja, atau menetapkan aturan tambahan}. Dokumen ini disusun berdasarkan kebutuhan untuk menciptakan organisasi yang dinamis, terstruktur, dan berorientasi pada pengembangan teknologi informasi serta pengabdian masyarakat.
+==== Pasal 1 Nama
 
-== Isi Dokumen
+Organisasi ini bernama “COMPUTER CLUB ORIENTED NETWORK, UTILITY AND TECHNOLOGY” dan selanjutnya disingkat COCONUT.
 
-=== Bab {Nomor}: {Judul Bab}
+==== Pasal 2 Waktu
 
-==== Pasal {Nomor}
+COCONUT dibentuk pada tanggal 1 April 2008 sampai pada waktu yang tidak ditentukan.
 
-{Isi pasal, merangkum poin utama seperti definisi, tugas, wewenang, atau prosedur yang relevan dengan dokumen.}
+==== Pasal 3 Kedudukan
 
-- {Item daftar, jika ada, misalnya, aturan spesifik, persyaratan, atau langkah-langkah}
-- {Item daftar, jika ada}
+COCONUT berkedudukan di Makassar.
 
-==== Pasal {Nomor}
+=== Bab 2: Asas dan Landasan
 
-{Isi pasal berikutnya, merinci ketentuan atau regulasi tambahan.}
+==== Pasal 4 Asas
 
-=== Bab {Nomor}: {Judul Bab}
+COCONUT berasaskan Pancasila.
 
-{Deskripsi tujuan atau cakupan bab.}
 
-==== Pasal {Nomor}
-
-{Isi spesifik pasal, seperti struktur organisasi, mekanisme rapat, atau ketentuan sanksi.}
-
-- {Item daftar, jika ada}
-- {Item daftar, jika ada}
 
 == Penetapan dan Pengesahan
 
