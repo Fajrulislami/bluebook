@@ -3,51 +3,47 @@
 :description: Asas-Asas Pokok Pengorganisasian COCONUT Computer Club
 :keywords: COCONUT, Konstitusi, Asas-Asas Pokok Pengorganisasian
 
-== Ikhtisar
-
-Asas-Asas Pokok Pengorganisasian (AAPP) menetapkan sepuluh prinsip dasar yang menjadi landasan operasional organisasi, mulai dari pembagian tugas yang jelas (asas pembagian tugas), tanggung jawab fungsional presidium (asas fungsional), pentingnya koordinasi lintas divisi dan kesinambungan program kerja. Organisasi juga menekankan fleksibilitas (asas keluwesan), pendelegasian wewenang. Dalam struktur pengurus, ada Ketua umum organisasi, Sekretaris dalam administrasi dan Bendahara dalam pengelolaan keuangan. Tiga departemen—Pembelajaran, Keorganisasian, dan Humas—masing-masing dipimpin oleh koordinator yang bertanggung jawab atas pencapaian sasaran departemennya.
-
-=== 1. Asas Pembagian Tugas
+== 1. Asas Pembagian Tugas
 
 Dalam pengorganisasian Computer Club Oriented Network, Utility and Technology (COCONUT), tugas-tugas pengurus perlu dibagi dalam tugas-tugas departemen dan divisi. Sesuai dengan asas ini, maka perlu adanya rumusan tugas yang jelas sehingga dapat dicegah duplikasi, benturan dan kekaburan.
 
-=== 2. Asas Fungsional
+== 2. Asas Fungsional
 
 Dalam penyelenggaran tugas dan fungsi pengurus harus ada salah satu presidium secara fungsional bertanggung jawab atas suatu divisi atau suatu departemen, asas ini menentukan bahwa penanganan suatu masalah dalam rangka mewujudkan koordinasi yang baik antar kegiatan pengurus, maka presedium memprakarsainya.
 
-=== 3. Asas Koordinasi
+== 3. Asas Koordinasi
 
 Asas ini menentukan perlunya setiap divisi dan departemen memadukan dan menyelaraskan baik dalam kegiatan, waktu maupun perumusan, kebijaksanaan, perencanaan, penganggaran, pengendalian tugas dan fungsi yang diembannya. Karena pada dasarnya pelaksanaan tugas umum kepengurusan harus ditangani secara multi nasional.
 
-=== 4. Asas Kesinambungan
+== 4. Asas Kesinambungan
 
 Asas ini mengharuskan adanya kesinambungan kerja dalam arti bahwa tugas-tugas umum pengurus dan kegiatan terus-menerus harus sesuai dengan kebijaksanaan dan program organisasi.
 
-=== 5. Asas Akordian
+== 5. Asas Akordian
 
 Asas akordian menentukan bahwa dapat berkembang atau mengecilnya tugas sesuai tuntutan dan beban kerja.
 
-=== 6. Asas Pendelegasian Wewenang
+== 6. Asas Pendelegasian Wewenang
 
 Asas ini mengharuskan setiap pimpinan untuk melimpahkan sebagian tugas dan wewenangnya kepada anggotanya.
 
-=== 7. Asas Keluwesan
+== 7. Asas Keluwesan
 
 Asas ini menghendaki organisasi selalu mengikuti dan menyesuaikan diri dengan perkembangan dan perubahan keadaan sehingga dapat dihindarkan kekakuan dalam pelaksanaan tugasnya.
 
-=== 8. Asas Jalur dan Staf
+== 8. Asas Jalur dan Staf
 
 Asas jalur dan staf adalah jalur yang digunakan dalam penentuan penyusunan tugastugas pokok pengurus.
 
-=== 9. Asas Kejelasan dan Pembangunan
+== 9. Asas Kejelasan dan Pembangunan
 
 Asas ini mengharuskan organisasi Computer Club Oriented Network, Utility and Technology (COCONUT) menggambarkan susunan organisasi agar setiap pihak yang berkepentingan dapat segera memahami kedudukan dan hubungan dari setiap divisi organisasi yang ada.
 
-=== 10. Asas Kebersamaan
+== 10. Asas Kebersamaan
 
 Asas kebersamaan adalah mengharuskan kepada pengurus terpilih untuk dapat melibatkan seluruh anggota Computer Club Oriented Network, Utility and Technology (COCONUT) pada setiap kegiatan kepanitiaan dalam upaya pengembangan potensi anggota.
 
-=== JOB DESCRIPTION PENGURUS COCONUT
+== JOB DESCRIPTION PENGURUS COCONUT
 
 . Ketua :
 Bertanggung jawab atas kelangsungan COCONUT secara keseluruhan intern dan extern. Pemegang kebijaksanaan umum organisasi berdasarkan Anggaran Dasar dan Anggaran Rumah Tangga serta ketetapan -ketetapan organisasi lainnya.
