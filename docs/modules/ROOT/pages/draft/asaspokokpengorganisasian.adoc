@@ -3,6 +3,10 @@
 :description: Asas-Asas Pokok Pengorganisasian COCONUT Computer Club
 :keywords: COCONUT, Konstitusi, Asas-Asas Pokok Pengorganisasian
 
+== Ikhtisar
+
+Asas-Asas Pokok Pengorganisasian (AAPP) menetapkan sepuluh prinsip dasar yang menjadi landasan operasional organisasi, mulai dari pembagian tugas yang jelas (asas pembagian tugas), tanggung jawab fungsional presidium (asas fungsional), pentingnya koordinasi lintas divisi dan kesinambungan program kerja. Organisasi juga menekankan fleksibilitas (asas keluwesan), pendelegasian wewenang. Dalam struktur pengurus, ada Ketua umum organisasi, Sekretaris dalam administrasi dan Bendahara dalam pengelolaan keuangan. Tiga departemen—Pembelajaran, Keorganisasian, dan Humas—masing-masing dipimpin oleh koordinator yang bertanggung jawab atas pencapaian sasaran departemennya.
+
 === 1. Asas Pembagian Tugas
 
 Dalam pengorganisasian Computer Club Oriented Network, Utility and Technology (COCONUT), tugas-tugas pengurus perlu dibagi dalam tugas-tugas departemen dan divisi. Sesuai dengan asas ini, maka perlu adanya rumusan tugas yang jelas sehingga dapat dicegah duplikasi, benturan dan kekaburan.
