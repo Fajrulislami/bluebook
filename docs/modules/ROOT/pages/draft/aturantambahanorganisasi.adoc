@@ -3,9 +3,9 @@
 :description: Aturan-Aturan Tambahan Organisasi COCONUT Computer Club
 :keywords: COCONUT, Konstitusi, Aturan-Aturan Tambahan Organisasi
 
-=== Bab 1 : Sanksi
+== Bab 1 : Sanksi
 
-==== Pasal 1 Jenis - Jenis Sanksi
+=== Pasal 1 Jenis - Jenis Sanksi
 
 Adapun jenis-jenis sanksi sebagai berikut :
 
@@ -14,7 +14,7 @@ Adapun jenis-jenis sanksi sebagai berikut :
 .. Resuffle
 .. Pemecatan
 
-==== Pasal 2 Alasan Pemberian Sanksi
+=== Pasal 2 Alasan Pemberian Sanksi
 
 Adapun alasan pemberian sanksi sebagai berikut :
 
@@ -23,7 +23,7 @@ Adapun alasan pemberian sanksi sebagai berikut :
 . Tidak membayar iuran yang telah diwajibkan.
 . Tidak memberikan keterangan yang dapat dipertanggung jawabkan apabila tidak menghadiri kegiatan resmi COCONUT.
 
-==== Pasal 3 Mekanisme Pemberian Sanksi
+=== Pasal 3 Mekanisme Pemberian Sanksi
 
 . Apabila Sanksi atau teguran dan atau teguran mas I dan II diberikan oleh BPH atas persetujuan DPO.
 . Apabila Sanksi peringatan di sekretariat atau teguran selama 2 kali masih dielakkan maka sanksi dilanjutkan ke karantina disekretariat.
@@ -32,13 +32,13 @@ Adapun alasan pemberian sanksi sebagai berikut :
 . Apabila Sanksi reshuffle, masih dielakkan maka sanksi dilanjutkan ke Pemberian Sanksi III (pemecatan).
 . Pemberian Sanksi III (pemecetan) diberikan oleh BPH atas Persetujuan oleh DPO dan Badan Pendiri.
 
-=== Bab 2 : Pembelaan
+== Bab 2 : Pembelaan
 
-==== Pasal 4 
+=== Pasal 4 
 
 Anggota yang diduga melakukan pelanggaran akan dibela oleh tim yang dipilih oleh praduga tersebut.
 
-==== Pasal 5 Mekanisme Pembelaan
+=== Pasal 5 Mekanisme Pembelaan
 
 Mekanisme pembelaan sebagai berikut:
 
@@ -46,47 +46,47 @@ Mekanisme pembelaan sebagai berikut:
 .. Apabila point A masih dielakkan maka untuk anggota dilanjutkan ke rapat anggota dan untuk BPH dilanjutkan ke Musyawarah Besar atau Musyawarah Besar Luar Biasa.
 .. Forum khusus pada point A untuk pengurus dilakukan oleh anggota atas sepengetahuan DPO, dan untuk anggota dilakukan oleh BPH.
 
-==== Pasal 6 Sanksi DPO
+=== Pasal 6 Sanksi DPO
 
 Jika DPO melakukan kesalahan maka akan diadakan resuffle oleh BPH atas pertimbangan badan pendiri.
 
-=== Bab 3 : Atribut Organisasi
+== Bab 3 : Atribut Organisasi
 
-==== Pasal 7
+=== Pasal 7
 
 Logo COCONUT merupakan logo yang dipakai sejak periode XII sampai batas waktu yang tidak ditentukan.
 
-==== Pasal 8 Pakaian Dinas Harian
+=== Pasal 8 Pakaian Dinas Harian
 
 .. Pakaian Dinas Harian (PDH) hanya digunakan pada saat aktivitas keorganisasian.
 .. Pakaian Dinas Harian (PDH) dikenakan oleh anggota aktif.
 
-==== Pasal 9 Pakaian Dinas Lapangan
+=== Pasal 9 Pakaian Dinas Lapangan
 
 .. Pakaian Dinas Lapangan (PDL) hanya digunakan pada saat aktivitas keorganisasian.
 .. Pakaian Dinas Lapangan (PDL) dikenakan oleh Anggota Luar Biasa, Badan Pendiri dan Badan Pengawas
 
-==== Pasal 10 
+=== Pasal 10 
 
 Bendera hanya digunakan pada aktifitas simbolis organisasi.
 
-=== Bab 4 : Rekomendasi Musyawarah Besar
+== Bab 4 : Rekomendasi Musyawarah Besar
 
-==== Pasal 11
+=== Pasal 11
 
 . Badan pengurus harian memutuskan jangka waktu kepengurusan pada saat Raker.
 . Badan pengurus harian wajib mensosialisasikan konstitusi secara utuh kepada seluruh anggota COCONUT.
 . Membuat format pengkaderan dan kurikulum pembelajaran di COCONUT.
 . Mengelola dengan baik website dan sosial media organisasi.
 
-=== Bab 5 : Hari Peringatan
+== Bab 5 : Hari Peringatan
 
-==== Pasal 12 
+=== Pasal 12 
 
 Tanggal 1 April setiap tahunnya di tetapkan sebagai milad COCONUT dan dirangkaikan dengan hari berkabung.
 
-=== Bab 6 : Sanksi Musyawarah Besar
+== Bab 6 : Sanksi Musyawarah Besar
 
-==== Pasal 13
+=== Pasal 13
 
 Badan Pengurus Harian (BPH) yang tidak mengikuti keseluruhan rangkaian kegiatan Musyawarah besar (MUBES) tidak diperkenankan mengikuti prosesi pelantikan anggota baru pada periode yang sedang berjalan.
