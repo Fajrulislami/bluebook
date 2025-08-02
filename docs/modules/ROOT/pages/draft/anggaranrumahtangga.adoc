@@ -3,6 +3,10 @@
 :description: Anggaran Rumah Tangga COCONUT Computer Club
 :keywords: COCONUT, Konstitusi, Anggaran Rumah Tangga
 
+== Pembukaan
+
+Timbulnya kesadaran akan pengaruh Teknologi Informasi yang sangat luas dan kompleks dalam kehidupan manusia, merupakan bukti bahwa semakin mengubah hubungan manusia dengan alam semesta, dengan masyarakat dan dengan diri kita sendiri. Manusia hidup dalam dunia yang teknologis dan tidak dapat mengelakkan diri dari pengaruh Teknologi dan Informasi dalam hidupnya. Mahasiswa yang sadar akan hal tersebut berpartisipasi aktif dalam mengembangkan teknologi dan informasi di Indonesia serta mewujudkan Tri Dharma Perguruan Tinggi, membutuhkan wadah sebagai penyalur aspirasi dan pengembangan potensinya yang mengarah pada disiplin ilmu yang ditekuni, maka COCONUT merupakan salah satu sarana pengaktualisasiannya. Untuk terciptanya suasana kehidupan organisasi yang dinamis dan tetap mengarah pada tujuan yang diinginkan, maka disusunlah Anggaran Dasar COCONUT sebagai berikut.
+
 === Bab 1 : Status
 
 ==== Pasal 1 Berstatus
