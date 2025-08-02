@@ -138,7 +138,7 @@ Peserta Musyawarah Besar dihadiri oleh BPH, DPO, Anggota luar biasa, Anggota, da
 
 === Bab 6 : Musyawarah Besar Luar Biasa
 
-=== Pasal 17 Status dan Sifat
+==== Pasal 17 Status dan Sifat
 
 . Musyawarah Besar Luar Biasa merupakan kekuasaan tertinggi setelah Musyawarah Besar.
 . Musyawarah Besar Luar Biasa bersifat mengikat.
