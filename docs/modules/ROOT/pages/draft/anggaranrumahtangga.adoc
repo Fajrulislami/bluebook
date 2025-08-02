@@ -263,7 +263,7 @@ Peserta Rapat Anggota dihadiri oleh BPH, Anggota, dan dapat dihadiri oleh DPO.
 
 === Bab 12 : Dewan Pengawas
 
-=== Pasal 41
+==== Pasal 41
 
 . Dewan pengawas adalah badan pembimbing dan pengarah organisasi.
 . Kekuasaan dan Wewenang :
