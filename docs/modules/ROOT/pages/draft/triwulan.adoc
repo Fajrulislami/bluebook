@@ -3,7 +3,7 @@
 :description: COCONUT's quarterly meetings
 :keywords: COCONUT, meeting, triwulan, community
 
-=== Ikhtisar
+== Ikhtisar
 
 Triwulan merupakan forum evaluasi berkala yang dilaksanakan setiap tiga bulan sekali oleh COCONUT Computer Club selama satu periode kepengurusan. Forum ini bersifat internal dan semi-formal, yang bertujuan untuk memantau perkembangan kinerja program kerja masing-masing departemen, serta menguatkan koordinasi antarpengurus.
 
@@ -11,7 +11,7 @@ Berbeda dengan Musyawarah Besar (MUBES) yang bersifat akumulatif dan berorientas
 
 Melalui Triwulan, organisasi memastikan bahwa program-program berjalan sesuai arah kebijakan, memiliki dampak yang terukur, dan mampu beradaptasi terhadap tantangan yang muncul di lapangan.
 
-=== Tujuan Pelaksanaan Triwulan
+== Tujuan Pelaksanaan Triwulan
 
 [cols="1,3", options="header"]
 |===
@@ -33,7 +33,7 @@ Melalui Triwulan, organisasi memastikan bahwa program-program berjalan sesuai ar
 | Merumuskan strategi dan langkah tindak lanjut untuk memperbaiki performa kerja di triwulan selanjutnya.
 |===
 
-=== Rangkaian Kegiatan Triwulan
+== Rangkaian Kegiatan Triwulan
 
 . *Pembukaan Forum*
 +
@@ -59,7 +59,7 @@ Tim notulen mencatat hasil evaluasi dan menyusunnya menjadi dokumen rekomendasi 
 +
 Forum ditutup dengan simpulan umum, pernyataan komitmen lintas departemen, dan penegasan timeline untuk evaluasi selanjutnya.
 
-=== Output Forum Triwulan
+== Output Forum Triwulan
 
 [cols="1,3", options="header"]
 |===
@@ -75,7 +75,7 @@ Forum ditutup dengan simpulan umum, pernyataan komitmen lintas departemen, dan p
 | File kegiatan, foto, video, dan data pendukung lainnya yang dapat digunakan untuk laporan akhir, publikasi, atau pengarsipan.
 |===
 
-=== Indikator Keberhasilan Triwulan
+== Indikator Keberhasilan Triwulan
 
 * Terlaksananya forum evaluasi tepat waktu sesuai kalender organisasi.
 * Setiap departemen aktif menyampaikan LPJ-T dengan format dan isi yang lengkap.
