@@ -4,7 +4,7 @@
 :keywords: COCONUT, Konstitusi, Pedoman Kerja Organisasi
 
 
-===== Bahwa Computer Club Oriented Network, Utility and Technology sebagai organisasi independen Mahasiswa yang memiliki fungsi sebagai wadah penyalur aspirasi dan kreatifitas Mahasiswa, Bertekad mencapai tujuan COCONUT yang termaktub pada Anggaran Dasar yang berbunyi “COCONUT berusaha :
+== Bahwa Computer Club Oriented Network, Utility and Technology sebagai organisasi independen Mahasiswa yang memiliki fungsi sebagai wadah penyalur aspirasi dan kreatifitas Mahasiswa, Bertekad mencapai tujuan COCONUT yang termaktub pada Anggaran Dasar yang berbunyi “COCONUT berusaha :
 
 . Mengarahkan Mahasiswa untuk berperan aktif dalam mewujudkan tujuan nasional melalui Tri Dharma perguruan tinggi dan sumpah mahasiswa.
 . Membina dan mengembangkan kualitas serta mengupayakan kesejahteraan anggota COCONUT.
