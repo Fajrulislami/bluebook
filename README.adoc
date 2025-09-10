@@ -24,6 +24,7 @@ Draft: Guides for initiatives like INESA, onboarding, meetings, and learning pro
 
 The site is hosted at {url-bluebook}[bluebook.coconut.or.id], with the source code and configuration available in the {url-playbook}[Bluebook playbook project].
 
+v25.1
 
 == Copyright and License
 
